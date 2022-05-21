@@ -132,12 +132,21 @@ Expression specific for generative organs does not depends on presence  certain 
 
 <a name="Setup"></a>
 ## Setup
+Install Anaconda if not already installed (see [Instructions](https://docs.anaconda.com/anaconda/install/index.html)).
 1. Create virtual environment via conda using file `conda_requirements.txt`.
 ```
-$ conda create --name <environment_name> --file conda_requirements.txt
+$ conda create --name <env_name>
 ```
-2. Follow instructions on how to install OrthoFinder v2.5.4 on [the according GitHub page](https://github.com/davidemms/OrthoFinder).
-3. For phylogenetic analysis download using conda (e.g. [MUSCLE conda](https://anaconda.org/conda-forge/biopython)) or GitHub Page (e.g. [MUSCLE GitHub](https://github.com/rcedgar/muscle)). 
+2. Activate it
+```
+$ conda activate <env_name>
+```
+3. Install necessary libraries
+```
+$ pip install -r requirements.txt
+```
+4. Follow instructions on how to install OrthoFinder v2.5.4 on [the according GitHub page](https://github.com/davidemms/OrthoFinder).
+5. For phylogenetic analysis download using conda (e.g. [MUSCLE conda](https://anaconda.org/conda-forge/biopython)) or GitHub Page (e.g. [MUSCLE GitHub](https://github.com/rcedgar/muscle)). 
     * MUSCLE - v5.1
     * MAFFT - v7.505
     * Clustal Omega - 1.2.3
