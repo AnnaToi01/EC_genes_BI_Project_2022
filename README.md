@@ -54,16 +54,16 @@ We used databases [Plant Ensemble](http://ftp.ensemblgenomes.org/pub/plants/rele
 
 To find EC1 genes orthologs we used [Orthofinder tool v.2.5.4](https://github.com/davidemms/OrthoFinder). 
 
-Before running orthofinder we devided species for several groups due to high memory usage and for faster computation. The list of groups and species can be found in [`Groups.csv`](). The amino acid sequences for each group were put in a folder `groups/i/`, where i corresponds to the number of the group.
+Before running orthofinder we devided species for several groups due to high memory usage and for faster computation. The list of groups and species can be found in [`Groups.csv`](https://github.com/AnnaToi01/EC_genes_BI_Project_2022/blob/main/Groups.csv). The amino acid sequences for each group were put in a folder `groups/i/`, where i corresponds to the number of the group.
 
-Script for running orthofinder for all groups is located in [`./OrthoFinder_launch/`]() folder.  
+Script for running orthofinder for all groups is located in [`./OrthoFinder_launch/`](https://github.com/AnnaToi01/EC_genes_BI_Project_2022/blob/main/OrthoFinder_launch/orthofinder.sh) folder.  
   
-Code for analysis of OrthoFinder output is located in [`./OrthoGroups_analysis/OrthoFinder_results_analysis.ipynb`]().
+Code for analysis of OrthoFinder output is located in [`./OrthoGroups_analysis/OrthoFinder_results_analysis.ipynb`](https://github.com/AnnaToi01/EC_genes_BI_Project_2022/blob/main/OrthoGroups_analysis/OrthoFinder_results_analysis.ipynb).
 
 According to Orthofinder results EC1.1 and EC1.2 genes belong to one orthogroup. We extracted all genes that were in the 
 same orthogroup with EC genes (201 genes) and examined their protein and nucleotide sequences, as well as annotations, for further analysis.
 
-File with protein sequences of EC genes of different species is [`./OrthoGroups_analysis/conc_protein_seq.fa`]().
+File with protein sequences of EC genes of different species is [`./OrthoGroups_analysis/conc_protein_seq.fa`](https://github.com/AnnaToi01/EC_genes_BI_Project_2022/blob/main/OrthoGroups_analysis/conc_protein_seq.fa).
 
 <a name="phylogen"></a>
 ## Alignment and phylogenetic analysis of these orthogroups
@@ -73,18 +73,18 @@ The code for phylogenetic analysis and all resulting files are located in `./Phy
 To align protein sequences we tried three aligners - Muscle, MAFFT and ClustalO. ClustalO showed the best coverage.
 
 **MAFFT alignment**  
-![mafft alignment](https://github.com/AnnaToi01/EC_genes_BI_Project_2022/blob/annatoi/Phylogenetic_analysis/alig_mafft.png)  
+![mafft alignment](https://github.com/AnnaToi01/EC_genes_BI_Project_2022/blob/main/Phylogenetic_analysis/alig_mafft.png)  
 **Muscle alignment**  
-![muscle alignment](https://github.com/AnnaToi01/EC_genes_BI_Project_2022/blob/annatoi/Phylogenetic_analysis/alig_muscle.png)  
+![muscle alignment](https://github.com/AnnaToi01/EC_genes_BI_Project_2022/blob/main/Phylogenetic_analysis/alig_muscle.png)  
 **ClustalO alignment**  
-![clustalo alignment](https://github.com/AnnaToi01/EC_genes_BI_Project_2022/blob/annatoi/Phylogenetic_analysis/alig_clustalo.png)  
+![clustalo alignment](https://github.com/AnnaToi01/EC_genes_BI_Project_2022/blob/main/Phylogenetic_analysis/alig_clustalo.png)  
   
 Obtained alignment was taken for a phylogenetic tree. Tree was constructed using [IQ-TREE tool v2.2.0_beta](http://www.iqtree.org/) by maximum likelihood method using ultrafast bootstrap approximation. Amborella trichopoda was chosen as outgroup.
 
-Resulting tree can be found in file [`./Phylogenetic_analysis/clustalo_not_trimmed_iqtree_bootstrap.treefile`]().
+Resulting tree can be found in file [`./Phylogenetic_analysis/clustalo_not_trimmed_iqtree_bootstrap.treefile`](https://github.com/AnnaToi01/EC_genes_BI_Project_2022/blob/main/Phylogenetic_analysis/clustalo_not_trimmed_iqtree_bootstrap.treefile).
   
 To visualise tree we used R package [ggtree](https://guangchuangyu.github.io/software/ggtree/). 
-Script for tree drawing is [`./Phylogenetic_analysis/tree_drawing.R`]().
+Script for tree drawing is [`./Phylogenetic_analysis/tree_drawing.R`](https://github.com/AnnaToi01/EC_genes_BI_Project_2022/blob/main/Phylogenetic_analysis/tree_drawing.R).
 
 ![phylogenetic tree](https://github.com/AnnaToi01/EC_genes_BI_Project_2022/blob/annatoi/Phylogenetic_analysis/tree_circ_branch_length.png)
 
@@ -96,7 +96,7 @@ Some species have several orthologs of EC genes. The next step is to figure out 
 
 <a name="motifs"></a>
 ## Gene expression patterns analysis
-To find out which expression patterns found orthologs have we searched for open-assesed transcriptional data based on RNA-seq analysis. All used databases are presented in [`./Transctriptional_databases.xlsx`]().
+To find out which expression patterns found orthologs have we searched for open-assesed transcriptional data based on RNA-seq analysis. All used databases are presented in [`./Transctriptional_databases.xlsx`](https://github.com/AnnaToi01/EC_genes_BI_Project_2022/blob/main/Transctriptional_databases.xlsx).
 
 Due to absence or bad quality of transcription data for some species, only 20 species and 53 genes orthologs were taken for further analysis.
 According to their expression profile all genes were divided into three groups. Data genes and their expression description presented in [`./Gene_expression_data.csv`]() file.
@@ -117,13 +117,13 @@ Nucleotide FASTA files with 500 bp upstream sequences were grouped by their expr
 After that headmaps that reflects presence of different motifs in upstream sequences in each group was made.
 
 **GENERATIVE**  
-![heatmap_group1](https://github.com/AnnaToi01/EC_genes_BI_Project_2022/blob/annatoi/Searching_motifs/heatmap_new_group_1.png)  
+![heatmap_group1](https://github.com/AnnaToi01/EC_genes_BI_Project_2022/blob/main/Searching_motifs/heatmap_new_group_1.png)  
   
 **NON-SPECIFIC**  
-![heatmap_group2](https://github.com/AnnaToi01/EC_genes_BI_Project_2022/blob/annatoi/Searching_motifs/heatmap_new_group_2.png)  
+![heatmap_group2](https://github.com/AnnaToi01/EC_genes_BI_Project_2022/blob/main/Searching_motifs/heatmap_new_group_2.png)  
   
 **VEGETATIVE**  
-![heatmap_group3](https://github.com/AnnaToi01/EC_genes_BI_Project_2022/blob/annatoi/Searching_motifs/heatmap_new_group_3.png)
+![heatmap_group3](https://github.com/AnnaToi01/EC_genes_BI_Project_2022/blob/main/Searching_motifs/heatmap_new_group_3.png)
 
 No consistent patterns for motif presence were observed for any group.
 
