@@ -1,0 +1,71 @@
+species,gene_name,DB_gene_name,flower_location,expression_in_flower,location_with_the_highest_expression,Comments,Group,
+Actinidia chinensis,PSS26677,Acc08092.1,"flower, flower_bud",1,florat_bud,Expression in: Fruit_166_DAA	Cane.1	Flower	Flower.1	Flower_bud	Flower_bud.1	Fruit_T1	Fruit_T1.1	Fruit_T2	Leaf_sink	Leaf_sink.1	Leaf_source	Leaf_source.1	shoot,2,
+Amborella trichopoda,ERN08734,AMTR_s00017p00240840,"flower(female), egg_apparatus, ovaries",1,egg_apparatus,,1,
+Brachypodium distachyon,Bradi2g28070.1,Bradi2g28070.2,"Coleoptile, internode, grain, endosperm, leaf",1,"ENDOSPERM, coleoptile, grain",Data,2,
+Brachypodium distachyon,Bradi4g24640.1,Bradi4g24640.2,"Coleoptile, internode, grain, endosperm, leaf, shoot",1,leaf,Data,2,
+Brachypodium distachyon,Bradi1g65190.1,Bradi1g65190.2,"Coleoptile, internode, grain, endosperm, leaf",1,"ENDOSPERM, coleoptile, grain",Data,2,
+Brassica oleracea,Bo2g088760.1,Bo2g088760,"flower_bud(very low), plant callus",1,plant_callus,,3,
+Brassica oleracea,Bo2g091120.1,Bo2g091120,"fruit, flower",1,flower,,2,
+Brassica oleracea,Bo8g101500.1,Bo8g101500,"flower, flower_bud",1,"flower, flower_bud",,2,
+Brassica oleracea,Bo7g119230.1,Bo7g119230,"HIGHEST IIN FLOWER,
+fruit, leaf, less in root and flower bud",1,flower ,,2,
+Brassica oleracea,Bo1g002490.1,Bo1g002490,flower,1,flower,,1,
+Camelina Sativa,Csa16g040920.1,Csa16g040920.2,"flower, young leaf",1,flower,Data,2,
+Camelina Sativa,Csa12g002210.1,Csa12g002210.2,"early flower, young leaf",1,early flower,Data,2,
+Camelina Sativa,Csa10g002090.1,Csa10g002090.2,early seed development,1,early seed development,Data,1,
+Camelina Sativa,Csa07g051890.1,Csa07g051890.2,"bud, flowers, germinating seed",1,bud,Data,1,
+Camelina Sativa,Csa09g081500.1,Csa09g081500.2,"late flower, root, late seed",1,late flower,Data,2,
+Camelina Sativa,Csa11g002350.1,Csa11g002350.2,"flower, early seed development, young leaf",1,early flower,Data,2,
+Camelina Sativa,Csa07g051880.1,Csa07g051880.2,bud,1,bud,Data,3,
+Cannabis sativa female,cds.evm.model.01.1369,unclear,"early, mid flower",1,root?,,2,
+Fragaria vesca,FvH4_2g18700,FvH4_2g18701,"ovule, flower, receptacle, microscopore, anther",1,"ovule, flower",Data,1,
+Fragaria vesca,FvH4_2g18910,FvH4_2g18911,"Anther, stage 9, carpel, microspore",1,anther,Data,1,
+Fragaria vesca,FvH4_2g13400,FvH4_2g13401,"flower, anther, receptacle",1,flower,Data,1,
+Fragaria vesca,FvH4_2g13390,FvH4_2g13391,"ovule, anther, receptacle, microspore",1,"anther, ovule",Data,1,
+Fragaria vesca,FvH4_2g18870,FvH4_2g18871,"flower, receptacle, microspore, anther, perianth",1,flower,Data,1,
+Fragaria vesca,FvH4_4g25660,FvH4_4g25661,"flower, receptacle, microspore",1,flower,Data,1,
+Fragaria vesca,FvH4_1g23830,FvH4_1g23831,"anther, flower, microspore",1,"anther, flower (Less)",Data,1,
+Fragaria vesca,FvH4_5g02500,FvH4_5g02501,"ghost (seed coat + endosperm), anther, receptacle",1,ghost,Data,1,
+Glycine max,KRH35123,Glyma10g36800,"embryo, cotyledon, etc.",0,"emrbyo axis steel + seed cotyledon abaxial epidermis, embryo ",taking embryonic + cotyledon data,1,DB: http://bar.utoronto.ca/efpsoybean/cgi-bin/efpWeb.cgi
+Glycine max,KRG91676,Glyma20g30800,"embryo, cotyledon, etc.",0,"embryo, embryo axis root tip",taking embryonic + cotyledon data,1,
+Glycine max,KRG98863,Glyma18g12120,"SAM, root hairs",0,"SAM, root hairs",taking embryonic + cotyledon data,2,
+Glycine max,KRH43377,Glyma08g15410,"severin - SEEDS (10-13 days, 21 days)
+endothelium, outer integument, suspensor",0,"outer integument, seeds",taking embryonic + cotyledon data,1,
+Glycine max,KRH59512,Glyma05g32121,"cotyledon - depending on stage, outer or inner integument",0,"cotyledon - depending on stage, outer or inner integument",taking embryonic + cotyledon data,-,Only cotyledon data - not to be trusted
+Hordeum vulgare,HORVU7Hr1G102010.1,HORVU7Hr1G102010,NaN,NaN,NaN,Results: https://www.ebi.ac.uk/gxa/experiments/E-MTAB-2809/Results?specific=true&geneQuery=%255B%257B%2522value%2522%253A%2522HORVU4Hr1G020010.2%2522%252C%2522category%2522%253A%2522enstranscript%2522%257D%252C%257B%2522value%2522%253A%2522HORVU4Hr1G055410.2%2522%252C%2522category%2522%253A%2522enstranscript%2522%257D%252C%257B%2522value%2522%253A%2522HORVU4Hr1G055410.3%2522%252C%2522category%2522%253A%2522enstranscript%2522%257D%252C%257B%2522value%2522%253A%2522HORVU4Hr1G020010.1%2522%252C%2522category%2522%253A%2522enstranscript%2522%257D%252C%257B%2522value%2522%253A%2522HORVU7Hr1G101980.1%2522%252C%2522category%2522%253A%2522enstranscript%2522%257D%255D&filterFactors=%257B%257D&cutoff=%257B%2522value%2522%253A0.5%257D&unit=%2522TPM%2522,,
+Hordeum vulgare,HORVU4Hr1G055410.2,HORVU4Hr1G055410,"caryopsis, germinating embryo, inflorescence, internode, root, shoot",1,,inflorescence,2,
+Hordeum vulgare,HORVU4Hr1G055410.3,HORVU4Hr1G055410,"caryopsis, germinating embryo, inflorescence, internode, root, shoot",1,,inflorescence,2,
+Hordeum vulgare,HORVU4Hr1G020010.2,HORVU4Hr1G020010,root,0,,,3,
+Hordeum vulgare,HORVU4Hr1G020010.1,HORVU4Hr1G020010,root,0,,,3,
+Hordeum vulgare,HORVU7Hr1G101980.1,HORVU7Hr1G101980,"root, embryo",1,,,3,
+Medicago truncatula,MTR_3g095330,Medtr3g095330,flower,1,ewerywhere,,2,DB: http://bar.utoronto.ca/efp_medicago/cgi-bin/efpWeb.cgi
+Nicotiana attenuata,OIT31467,NIATv7_g17836,"ovary, nectaries, opening flower",1,ovary,,1,
+Oryza sativa Japonica Group,Os11t0168000-01 ,Os11g0168000,"plant_egg_cell, leaf, pistil, anther, seed",1,seed,,2,
+Oryza sativa Japonica Group,Os03t0296600-01,Os03g0296600,"plant_egg_cell, embyro, inflorescence, root, callus",1,"seed, plant embryo",,2,
+Populus trichocarpa,POPTR_001G353600v3,Potri.001G353600,"female catkins, male catkins, roots, xylem ",1,male catkins,,2,"Results: http://bar.utoronto.ca/eplant_poplar/?ActiveSpecies=Populus%20trichocarpa&Genes=Potri.001G353600,Potri.001G306700,Potri.001G306600,Potri.003G191800,Potri.009G077000,Potri.011G078400&ActiveGene=Potri.001G353600&ActiveView=PlantView"
+Populus trichocarpa,POPTR_001G306700v3,Potri.001G306700,"female catkins, leaf, xylem, root",1,"female catkins, leaf",,2,
+Populus trichocarpa,POPTR_001G306600v3,Potri.001G306600,"female catkins, leaf, xylem, root",1,young leaf,,2,
+Populus trichocarpa,POPTR_003G191800v3,Potri.003G191800,"female catkins, youg leaf",1,"female catkins, xylem",,2,
+Populus trichocarpa,POPTR_009G077000v3,Potri.009G077000,"female catkins, xylem",1,female catkins,,2,
+Solanum lycopersicum,Solyc04g071640.1.1.1,Solyc04g071640.1.1.1,"flower, flower_bud,
+TRAVA -  Ovaries, Mature carpels, Green large seeds",1,"flower_bud, root
+TRAVA - ovaries",Check out eplants!,1,
+Solanum lycopersicum,Solyc11g005500.1.1.1,Solyc11g005500.1.1.1,"TRAVA - Ovaries, Mature carpels",1,TRAVA - ovaries,This might be the most specific one?,1,
+Solanum lycopersicum,Solyc11g005540.1.1.1,Solyc11g005540.1.1.1,"TRAVA - Ovaries, Mature carpels",1,TRAVA - ovaries,,1,
+Solanum tuberosum RH89-039-16,RHC11H1G0771.2.1.cds.1,"PGSC0003DMT400083032
+Eplants: PGSC0003DMG400003996","flower
+Eplants: Carpels",1,everywhere,,2,
+Solanum tuberosum RH89-039-16,RHC04H1G2339.2.1.cds.1,"PGSC0003DMT400017053
+Eplants: PGSC0003DMG400006658","flower
+Eplants: Carpels",1,shoot apex,,2,
+Sorghum bicolor,EES16714,SORBI_3008G049300,"early inflorescence, pistil",1,early inflorescence,,2,
+Sorghum bicolor,EER95019,SORBI_3001G403900,pistil,1,pistil,,1,
+Triticum aestivum,TraesCS7A02G451600.1.cds1,TraesCS7A02G451600.1.cds1,ovary,1,ovary,,1,
+Triticum aestivum,TraesCS7B02G351400.1.cds1,TraesCS7B02G351400.1.cds1,OVARY,1,OVARY,,1,
+Triticum aestivum,TraesCS7D02G440500.1.cds1,TraesCS7D02G440500.1.cds1,"roots, ovary",1,"roots, ovary",,2,
+Vitis vinifera,VIT_09s0002g01570,VIT_09s0002g01570,"pollen, leaf leaf senescent, seeds",1,"Pollen, pericarp",,2,DB: http://bar.utoronto.ca/efp_grape/cgi-bin/efpWeb.cgi
+Vitis vinifera,VIT_07s0031g02070,VIT_07s0031g02070,leaf leaf senescent,1,leaf senescent,,3,
+Zea mays,Zm00001eb396810_P001,"Zm00001eb396810_P001,
+EPlant: GRMZM2G083190 (conversion UNIPROT)","plant egg, plant zygot, everywhere",1,everywhere,,2,"DB: http://bar.utoronto.ca/transcriptomics/efp_maize/cgi-bin/efpWeb.cgi?dataSource=Sekhon_et_al
+https://www.ebi.ac.uk/gxa/experiments/E-GEOD-98379/Results"
+Phalaenopsis equestris,PEQU_28350.1,PEQU_28350.1,ovary(very low),1,Outer tepals,,2,
