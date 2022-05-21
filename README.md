@@ -1,13 +1,14 @@
 # Search for homologs of egg-cell specific genes, study of their expression patterns and regulatory elements for the creation of effective constructs for genetic engineering  
 
-Students:  
+**Students:**  
 Elena Grigoreva ([github](https://github.com/lengrigo), [telegram](https://t.me/lengrigo))  
 Anna Toidze ([github](https://github.com/AnnaToi01), [telegram](https://t.me/anna_toidze))
 
-Supervisors:  
+**Supervisors:**  
 Maria Logacheva, Skoltech  
 Artem Kasianov, IITP RAS
 
+## Introduction
 Choosing a promoter for Cas nucleases - is an important step in genome editing. In plant gene engineering it is often 
 used constitutive promoters such as 35S that have high level of expression in all cell types. But using promoters specific 
 for germ line cells is more effective approach because it can lead to homogeneity 
@@ -84,7 +85,7 @@ Resulting tree can be found in file `./Phylogenetic_analysis/clustalo_not_trimme
 To visualise tree we used R package [ggtree](https://guangchuangyu.github.io/software/ggtree/). 
 Script for tree drawing is `./Phylogenetic_analysis/tree_drawing.R`
 
-![phylogenetic tree](https://github.com/AnnaToi01/EC_genes_BI_Project_2022/blob/annatoi/Phylogenetic_analysis/tree_without_branch_length.png)
+![phylogenetic tree](https://github.com/AnnaToi01/EC_genes_BI_Project_2022/blob/annatoi/Phylogenetic_analysis/tree_circ_branch_length.png)
 
 There two clades on the tree - for EC1.1 and EC1.2. Inside the clades genes are grouped according to species phylogeny. 
 Third clad probably contains genes that are not the EC1.1 or EC1.2 orthologs (for example, it is otrhologs for other EC genes). Dicots and monocots are presented in each clade. 
@@ -144,3 +145,4 @@ $ conda create --name <environment_name> --file conda_requirements.txt
 * <img src=https://github.com/simple-icons/simple-icons/blob/develop/icons/ubuntu.svg height = 20> Ubuntu 21.04
 * <img src=https://github.com/simple-icons/simple-icons/blob/develop/icons/gnubash.svg height=20> Bash
 * <img src=https://github.com/simple-icons/simple-icons/blob/develop/icons/r.svg height=20> R 4.1.2
+    
