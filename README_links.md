@@ -75,3 +75,4 @@ $ conda create --name <environment_name> --file conda_requirements.txt
 * <img src=https://github.com/simple-icons/simple-icons/blob/develop/icons/python.svg height=20> Python 3.8
 * <img src=https://github.com/simple-icons/simple-icons/blob/develop/icons/ubuntu.svg height = 20> Ubuntu 21.04
 * <img src=https://github.com/simple-icons/simple-icons/blob/develop/icons/gnubash.svg height=20> Bash
+* <img src=https://github.com/simple-icons/simple-icons/blob/develop/icons/r.svg height=20> R 4.1.2
