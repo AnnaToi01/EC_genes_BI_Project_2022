@@ -8,6 +8,8 @@ Anna Toidze ([github](https://github.com/AnnaToi01), [telegram](https://t.me/ann
 Maria Logacheva, Skoltech  
 Artem Kasianov, IITP RAS
 
+[Project slides](https://docs.google.com/presentation/d/1drZB8lNaJGWH82DuSXsJZfx0CfXJ5blx3crkUwl9iik/edit#slide=id.p1)
+
 ## Introduction
 Choosing a promoter for Cas nucleases - is an important step in genome editing. Mostly, constitutive promoters such as 35S are used for genetic engineering in plants, as they have high levels of expressions in all cell types.But using promoters germ line cells-specific  is more effective approach because it leads to more homogeneity and to decrease of target mutations across the generated lines of cells.  
 
@@ -44,7 +46,7 @@ their expression patterns and regulatory elements.*
 <a name="sources"></a>
 ## Downloading genomes, annotations and amino acid sequences  
 
-We downloaded genomes, annotations and amino acid sequences for 53 plant species. All species and corresponding links to sources are in the table [`Species_table.xlsx`](). 
+We downloaded genomes, annotations and amino acid sequences for 53 plant species. All species and corresponding links to sources are in the table [`Species_table.xlsx`](https://github.com/AnnaToi01/EC_genes_BI_Project_2022/blob/main/Species_table.xlsx). 
 We used databases [Plant Ensemble](http://ftp.ensemblgenomes.org/pub/plants/release-53/) (releases 52 and 53), 
 [PLAZA](https://bioinformatics.psb.ugent.be/plaza/), 
 [MBKBASE](http://www.mbkbase.org/) and [Phytozome](https://phytozome-next.jgi.doe.gov/).
@@ -86,7 +88,7 @@ Resulting tree can be found in file [`./Phylogenetic_analysis/clustalo_not_trimm
 To visualise tree we used R package [ggtree](https://guangchuangyu.github.io/software/ggtree/). 
 Script for tree drawing is [`./Phylogenetic_analysis/tree_drawing.R`](https://github.com/AnnaToi01/EC_genes_BI_Project_2022/blob/main/Phylogenetic_analysis/tree_drawing.R).
 
-![phylogenetic tree](https://github.com/AnnaToi01/EC_genes_BI_Project_2022/blob/annatoi/Phylogenetic_analysis/tree_circ_branch_length.png)
+![phylogenetic tree](https://github.com/AnnaToi01/EC_genes_BI_Project_2022/blob/main/Phylogenetic_analysis/tree_circ_branch_length.png)
 
 There two clades with very high support on the tree, which roughly correspond to EC1.1 and EC1.2 gene families. Inside the clades genes are grouped according to species phylogeny. These clades contain the majority of genes of both, dicots and monocots. This could implicate that the duplication leading to the emergence of EC1.1 and EC1.2 occured in the early stages of the evolution of flowering plants, even before divergence of dicots and monocots. The structure of the tree within each of the clades is more or less consistent with the phylogeny of flowering plants. However, genes from monocots are present in only one clade, EC1.1. This suggests that it is likely that the common ancestor of the monocots lost one of the paralogs corresponding to EC1.2
 
@@ -112,7 +114,7 @@ According to their expression profile all genes were divided into three groups. 
 The next step was to search patterns in genes that got in one of three groups. From [Jaspar](https://jaspar.genereg.net/) database we took all known motif sequences specific for plants (656 motifs). 
 
 [FIMO](https://meme-suite.org/meme/doc/fimo.html) tool was used to  search for these motifs in 500 bp upstream region of found orthologs.
-Nucleotide FASTA files with 500 bp upstream sequences were grouped by their expression patterns - [`./Searching_motifs/generative_group1.fasta`](), [`./Searching_motifs/non-specific_group2.fasta`]() and [`./Searching_motifs/vegetative_group3.fasta`]().
+Nucleotide FASTA files with 500 bp upstream sequences were grouped by their expression patterns - [`./Searching_motifs/generative_group1.fasta`](https://github.com/AnnaToi01/EC_genes_BI_Project_2022/blob/main/Searching_motifs/heatmap_new_group_1.png), [`./Searching_motifs/non-specific_group2.fasta`](https://github.com/AnnaToi01/EC_genes_BI_Project_2022/blob/main/Searching_motifs/heatmap_new_group_2.png) and [`./Searching_motifs/vegetative_group3.fasta`](https://github.com/AnnaToi01/EC_genes_BI_Project_2022/blob/main/Searching_motifs/heatmap_new_group_3.png).
   
 After that headmaps that reflects presence of different motifs in upstream sequences in each group was made.
 
@@ -123,9 +125,24 @@ After that headmaps that reflects presence of different motifs in upstream seque
 ![heatmap_group2](https://github.com/AnnaToi01/EC_genes_BI_Project_2022/blob/main/Searching_motifs/heatmap_new_group_2.png)  
   
 **VEGETATIVE**  
-![heatmap_group3](https://github.com/AnnaToi01/EC_genes_BI_Project_2022/blob/main/Searching_motifs/heatmap_new_group_3.png)
+![heatmap_group3](https://github.com/AnnaToi01/EC_genes_BI_Project_2022/blob/main/Searching_motifs/heatmap_new_group_3.png)  
 
-No consistent patterns for motif presence were observed for any group.
+Also we looked at motifs that are presented in more then 50% genes in each group (their description is in table below). But the highest observed frequency is 67.7% for motifs DOF3.6 and DOF5.8 in both groups.  
+
+|Motif|Group|Expressed during|Process|
+|:----|:----|:---------------|:------|
+|ZHD9|generative|leaves, flowering, embryo, senescence|glucosinolate metabolic process|
+|DOF3.6|both|roots|enhances binding of OBF TFs to OCS|
+|CDF5|both|leaves, flowering, petal differentiation & expansion|links circadian oscillation and photoperiodism, accumulation delays flowering|
+|DOF5.1|both|vascular tissues|adaxial-abaxial polarity, auxin response|
+|DOF5.8|both|leaves|vein network formation, auxin response|
+|Zm00001d027846|non-specific|leaf protoplast|-|
+|DOF3.4|non-specific|leaves, embryo, senescence|cell wall modification,regulation of  cell cycle, transcription, auxin response|
+|DOF1|non-specific|leaves, flowering, embryo|regulation of transcription|
+|BPC1|non-specific|polen, leaves, flowering, embryo, senescence, petal|ovule identity|
+|DOF4.2|non-specific|fruit|cotyledon and seed coat development, shoot formation|
+
+So, no consistent patterns for motif presence were observed for any group.
 
 <a name="conclusion"></a>
 ## Conclusion
