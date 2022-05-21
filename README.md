@@ -157,6 +157,7 @@ $ pip install -r requirements.txt
     * Clustal Omega - 1.2.3
     * Ugene - v41
     * IQ-Tree v2.0.3
+    * trimAl - v1.4.rev15
 
 <a name="Software"></a>
 ## Software Requirements
