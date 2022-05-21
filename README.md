@@ -137,6 +137,12 @@ Expression specific for generative organs does not depends on presence  certain 
 $ conda create --name <environment_name> --file conda_requirements.txt
 ```
 2. Follow instructions on how to install OrthoFinder v2.5.4 on [the according GitHub page](https://github.com/davidemms/OrthoFinder).
+3. For phylogenetic analysis download using conda (e.g. [MUSCLE conda](https://anaconda.org/conda-forge/biopython)) or GitHub Page (e.g. [MUSCLE GitHub](https://github.com/rcedgar/muscle)). 
+    * MUSCLE - v5.1
+    * MAFFT - v7.505
+    * Clustal Omega - 1.2.3
+    * Ugene - v41
+    * IQ-Tree v2.0.3
 
 <a name="Software"></a>
 ## Software Requirements
