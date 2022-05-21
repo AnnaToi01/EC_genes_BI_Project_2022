@@ -1,0 +1,2010 @@
+>FCD_00028685-RA_cds_Ficus_carica FCD_00028685-RA:cds pep primary_assembly:UNIPI_FiCari_1.0:10:20318531:20318944:-1 gene:FCD_00028685 transcript:FCD_00028685-RA gene_biotype:protein_coding transcript_biotype:protein_coding description:egg cell-secreted protein 1.1
+----------------------------------MAYT--Q---------------------M-----------------
+-----------------------IN-LI----------IL-LTTL-LA-L-VI--I----------------PA------
+--------S------------------A--T---R-PGA-ST--------------------------PSTGL-NL-VA-
+RL-----------K-----------------------L------------ED----------------------------
+-----------------E-ESSNCWD---------------------------------------SLIQ-LQACTGEVIL
+FF-L------------------------------------------NG---------------ET-----YLGPGCCDAI
+RTI----G-QHCW---------------------P--A--MFGS-LGFTTEETDVLQGYCTGE-ARGSA-----------
+----SP------------------P-------P----LSP----------------------------------------
+---------------------------------------P-------SP-P----------SI
+>itb04g21400.t1_Ipomoea_triloba itb04g21400.t1 pep chromosome:ASM357664v1:4:26536775:26537221:1 gene:itb04g21400 transcript:itb04g21400.t1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MAAK--T---------------------S-----------------
+-----------------------NL-IL----------K----AL-LL-L-SV--A-----------S----TA------
+--------A------------------V--A---R-PLS-------------------------------AKS-TL-LT-
+RL-----------K-----------------------L------------DGGE--------------------------
+----------------GD-EVSECWD---------------------------------------SLFQ-LQSCTGEVIL
+FF-M------------------------------------------NG---------------EA-----YLGPSCCRAI
+RIV----G-RKCW---------------------P--A--VFGS-LGFTADESDVLRGYCDDV-EDDGH-D-G-----DA
+----RP-----------P--S---P-------P----R-P----V--NL-T-----------------------------
+-------------------------TT----R---F-S-V-------QE-S----------SP
+>PRQ25531_Rosa_chinensis PRQ25531 pep chromosome:RchiOBHm-V2:6:48047405:48047848:1 gene:RchiOBHm_Chr6g0284691 transcript:PRQ25531 gene_biotype:protein_coding transcript_biotype:protein_coding description:putative Prolamin-like domain-containing protein
+----------------------------------MAYT--S---------------------K-----------------
+-----------------------LF-LL----------T----AL-LV-L-TM--S----------------FV-----V
+--------S------------------T--S---R-SSN-YP--------------------------TGRKS-NL-AA-
+RL-----------N-----------------------L------------D-----------------------------
+-----------------E-ESSTCWE---------------------------------------SLFQ-LQACSKEVVL
+FF-L------------------------------------------NG---------------ET-----YLGDGCCKAI
+RTI----E-HQCW---------------------P--A--LLGS-LGLTTEETDILKGYCDEA-DQIQS-----------
+-----P-----------P--T---S-------P----S-P----P--SV-H---Q--P-T--------------------
+--------G----------------KL----V---P-D-L-------DK-L----------IP
+>KRH39377_Glycine_max KRH39377 pep chromosome:Glycine_max_v2.1:9:41983971:41984372:1 gene:GLYMA_09G195200 transcript:KRH39377 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MAST--H---------------------N-----------------
+-----------------------LY-IF----------V----SL-VT-I-TA-LV-----------S----SM------
+--------V------------------E--S---R-SLP------------------------------NASS-SL-TV-
+RL-----------K-----------------------L------------E-----------------------------
+-----------------G-EPSNCWD---------------------------------------SLWQ-LQACSGEIVT
+FF-V------------------------------------------NG---------------ET-----YLGHGCCQAI
+RVI----G-HDCW---------------------P--N--IVAS-LGFTNEETDVLEGYCDQA-VDSPS-----------
+-----P--------------------------P----S------I--VV-------------------------------
+-----------------------------------D-S-K-------DD-I----------VP
+>CDS_HanXRQr2_Chr02g0065241.1_Helianthus_annuus CDS:HanXRQr2_Chr02g0065241.1 pep primary_assembly:HanXRQr2.0-SUNRISE:2:100070475:100070798:-1 gene:HanXRQr2_Chr02g0065241 transcript:mRNA:HanXRQr2_Chr02g0065241 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MAGK------------------------------------------
+--------------------------------------------------------------------------------
+-------------------------------------VH--M--------------------------NKPDK-GL-IV-
+RL-----------Q-----------------------G------------EN----------------------------
+----------------SG-ELMDCWN---------------------------------------ALFE-LKSCTNEIVL
+FF-F------------------------------------------NR---------------DS-----YLSTDCCRAI
+RVI----T-LGCW---------------------P--S--MLTS-LGITSEEGDILRGYCGGA-PLP-------------
+-------------------------------------Q-P----T-----------------------------------
+-------------------------------------M-L-------EG-S----------KF
+>PRQ24668_Rosa_chinensis PRQ24668 pep chromosome:RchiOBHm-V2:6:36543177:36543854:1 gene:RchiOBHm_Chr6g0274951 transcript:PRQ24668 gene_biotype:protein_coding transcript_biotype:protein_coding description:putative Prolamin-like domain-containing protein
+MHVTLSHLHHYLNPRFSSVPSHMTHYLLNNRI-TMAFN--T---------------------S-----------------
+-----------------------NL-FL----------T--LTAL-IA-L-TM--P----------------FM-----A
+--------S------------------A--Y---R-PLV-TND-----------------------P-TGSDP-SL-AA-
+RL-----------N-----------------------L------------D-----------------------------
+-----------------G-ESSNCWD---------------------------------------SLLQ-LQSCSGEAIM
+FF-L------------------------------------------NG---------------QT-----SLGDGCCEAI
+RVI----E-HQCW---------------------P--A--LLGA-LGFTTEETDILKGYCDEA-EQTHH-----------
+----SP-----------P--S---I-------P----S-P----P--YL-L---H--P-N--------------------
+----R---A----------------VH----V---P-Y-Q-------AD-M----------AP
+>KRH54635_Glycine_max KRH54635 pep chromosome:Glycine_max_v2.1:6:18298228:18298641:1 gene:GLYMA_06G199900 transcript:KRH54635 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MAFT--L---------------------N-----------------
+-----------------------LF-IL----------S----SL-IA-I-TS-LM-S--------SA----SM------
+--------V------------------E--S---R-SLS-----------------------------SPSSS-SL-AV-
+RL-----------K-----------------------A------------E-----------------------------
+-----------------G-ESSYCWD---------------------------------------SLWQ-LQACTGEIVT
+FF-L------------------------------------------NG---------------KT-----YLGHGCCQAI
+RVI----G-HDCW---------------------P--N--IVAS-LGFTNEETDVLEGYCDED-VVHSP-----------
+-----P--------------------------P----P-P----Q--SI-------------------------------
+-----------------------------------I-D-P-------KY-I----------VP
+>Zm00001eb396810_P001_Zea_mays Zm00001eb396810_P001 pep chromosome:Zm-B73-REFERENCE-NAM-5.0:9:143234903:143235575:-1 gene:Zm00001eb396810 transcript:Zm00001eb396810_T001 gene_biotype:protein_coding transcript_biotype:protein_coding description:Zm00001e038396
+----------------------------------MAFP--R---------------------L-----------------
+-----------------------SL-AV----------L----SC-LA-L-LA-------------------AT------
+--------A------------------A--H---RAPIT-GPS-------P----S----------A-PRGLT-TL-AE-
+RL-----------E-----------------------G------------------------------------------
+-----------------A-ETQQCWE---------------------------------------ALVE-IKSCTGEIII
+LF-I------------------------------------------RG---------------EA-----FLGPGCCRAI
+RVI----E-QSCW---------------------AADS--MMSI-IGFTPQEGDMLKGYCDAG-DDNAT-----------
+-----G-----------GQSG---S-------P----P-P----R--GA-D---D--A-V--------------------
+GAVRGSF-A----------------AV----A---G-R-K-------GS-M----------HR
+>PNT57550_Populus_trichocarpa PNT57550 pep chromosome:Pop_tri_v3:1:30971024:30971464:1 gene:POPTR_001G306600v3 transcript:PNT57550 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MAAF--K---------------------N-----------------
+-----------------------LA-LF----------LS---LT-LL-I-ST--N----------------IS------
+--------T------------------A--A---R-DIL-IN--------------------------KPGFN-SL-SA-
+RL-----------E-----------------------D------------E-----------------------------
+-----------------G-SLVECWN---------------------------------------ALVE-IKSCTNEIVL
+FF-M------------------------------------------TG---------------QA-----DIGPDCCRAI
+HTI----T-HNCW---------------------P--A--MFTS-LGFTDEEGNILRGYCDAS-PNSPS-I-Y------F
+----SP-----------A--S---A-------P----S-P----L--AA-G-----------------------------
+-------------------------AP--------A-Q-Y-------QP-M----------LV
+>TraesCS7D02G440500.1.cds1_Triticum_aestivum TraesCS7D02G440500.1.cds1 pep chromosome:IWGSC:7D:560580320:560580775:1 gene:TraesCS7D02G440500 transcript:TraesCS7D02G440500.1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MASS--G---------------------S-----------------
+-----------------------LH-PA----------L----LV-LLLL-AV--V----------------AT------
+--------A------------------S--TTT-T-TFV-RA--------------------------GAPPA-DL-AQ-
+RL-----------Q-----------------------G------------------------------------------
+-----------------V-GQQQCWE---------------------------------------ILMD-IRSCTGEIIL
+FF-L------------------------------------------NG---------------EA-----YLGPGCCRAI
+RAI----E-QRCW---------------------AADA--MLSV-IGFTAEEGDMLKGYCDAG-DSGEG-----------
+-----Q-----------H--H---G--ALDGVA----S-D----G--AV-A-----------------------------
+-------------------------AA----A---G-R-K-------GL-G----------AP
+>FvH4_2g13390.t1_Fvesca_677_v4 FvH4_2g13390.t1 pacid=50659768 transcript=FvH4_2g13390.t1 locus=FvH4_2g13390 ID=FvH4_2g13390.t1.v4.0.a2 annot-version=v4.0.a2
+----------------------------------MAFN--T---------------------S-----------------
+-----------------------NL-YL----------I--LTAL-LA-L-TM--P----------------FL------
+--------A------------------S--AY--P-PLV-TNN-----------------------P-TGLNP-SL-AA-
+RL-----------N-----------------------L------------D-----------------------------
+-----------------A-ESSNCWD---------------------------------------SLLQ-LQSCSGEAIM
+FF-L------------------------------------------NG---------------ET-----TLSDGCCEAI
+RVI----E-HQCW---------------------P--A--LLGS-LGFTTQETDILKGYCDEA-EQTHH-----------
+----SP-----------P--S---I-------P----S-P----S--SL-F---H--P-N--------------------
+----RAA-V------------R---VP--------Y-Q-A-------EM-A----------P*
+>EOY27508_Theobroma_cacao EOY27508 pep chromosome:Theobroma_cacao_20110822:6:22177517:22178159:1 gene:TCM_029349 transcript:EOY27508 gene_biotype:protein_coding transcript_biotype:protein_coding description:Uncharacterized protein
+----------------------------------MAST--F---------------------R-----------------
+-----------------------VF-FL----------A----FL-LT-L-SL--L----------------FV------
+--------A------------------K--A---R-PSD-----------------------------PKPTS-SL-EA-
+RL-----------N-----------------------L------------D-----------------------------
+-----------------D-GSANCWE---------------------------------------SLVQ-LQSCTGELIM
+FF-L------------------------------------------DG---------------ET-----NLGRSCCQAI
+RTI----S-HRCW---------------------P--T--VIDA-LGFTTEETHVLEGYCDHE-ESPPS-----------
+------------------------V-------V----G-P----N--G--------------------------------
+-------------------------------I---V-S-T-------KP-I----------GP
+>Csa12g002210.1.cds1_Camelina_sativa Csa12g002210.1.cds1 pep chromosome:Cs:12:549257:549631:-1 gene:Csa12g002210 transcript:Csa12g002210.1 gene_biotype:protein_coding transcript_biotype:protein_coding description:Egg cell-secreted protein 1.4 [Source:Projected from Arabidopsis thaliana (AT4G39340) UniProtKB/Swiss-Prot;Acc:Q9T039]
+----------------------------------MASN--T---------------------T-----------------
+-----------------------FL-IS----------I----VT-LL-L-LL--L----------LN----TT------
+--------V------------------F--G---R-YLT------------------------------AEST-NI-AA-
+RL-----------Q-----------------------S------------------------------------------
+-----------------G-GLMECWN---------------------------------------ALYE-LKSCTNEIVL
+FF-L------------------------------------------NG---------------ET-----KLGVSCCEAV
+DVI----T-TNCW---------------------P--A--MLTS-LGFTPEEANVLRGFCQNP-NSSPA-----------
+--------------------------------P----S------------------------------------------
+------------------------------------------------P-K----------IA
+>FCD_00030006-RA_cds_Ficus_carica FCD_00030006-RA:cds pep primary_assembly:UNIPI_FiCari_1.0:10:25631007:25631420:1 gene:FCD_00030006 transcript:FCD_00030006-RA gene_biotype:protein_coding transcript_biotype:protein_coding description:egg cell-secreted protein 1.1
+----------------------------------MAYT--Q---------------------M-----------------
+-----------------------IN-LI----------IL-LTTL-LA-L-VI--I----------------PA------
+--------S------------------A--T---R-PGA-ST--------------------------PSTGL-NL-VA-
+RL-----------K-----------------------L------------ED----------------------------
+-----------------E-ESSNCWD---------------------------------------SLIQ-LQACTGEVIL
+FF-L------------------------------------------NG---------------ET-----YLGPGCCDAI
+RTI----G-QHCW---------------------P--A--MFGS-LGFTTEETDVLQGYCTGE-ARGSA-----------
+----SP------------------P-------P----LLP----------------------------------------
+---------------------------------------P-------SP-P----------SI
+>OIW20030_Lupinus_angustifolius OIW20030 pep supercontig:LupAngTanjil_v1.0:Scaffold_9_143:27850:28194:1 gene:TanjilG_31948 transcript:OIW20030 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MAMS--R---------------------------------------
+--------------------------------------------------------------------------------
+------------------------------------PLS-N----------------------------PSTL-SL-VA-
+RL-----------K-----------------------L------------ED----------------------------
+----------------GT-SSSNCWD---------------------------------------SLFQ-IQACSGEIIM
+FF-L------------------------------------------NG---------------ET-----YLGNGCCHAI
+RVI----Q-HDCW---------------------P--N--IVHS-LGFTGEETDVLEGYCDEA-VHSTT-----------
+-----P--------------------------P----S-S----T--F--------------------------------
+-----------------------------------V-E-P-------KD-I----------VP
+>QL10p018398_mrna_CDS_1_Quercus_lobata QL10p018398:mrna:CDS:1 pep chromosome:ValleyOak3.0:10:18397429:18398150:1 gene:QL10p018398 transcript:QL10p018398:mrna gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MANQ--T---------------------L-----------------
+-----------------------FV-LL----------S----LA-CL-L-AV--T----------------NV------
+--------T------------------A--T---R-DLY-----------------------------IKPGH-RL-AT-
+RL-----------E-----------------------T------------SS----------------------------
+-----------------E-GLVPCWN---------------------------------------ALWE-LKSCSNEIVV
+FF-L------------------------------------------NG---------------QT-----DIGPDCCRAI
+TII----T-HHCW---------------------P--A--MLTS-LGFTAEEGNILRGYCDAE-ASVPS-----------
+-----T------------------A-------P----P-L----G-----------------------------------
+---------------------------------------L-------PL-P----------RA
+>jg50396.t1_Fagopyrum_esculentum jg50396.t1
+----------------------------------MAPF--I---------------------K-----------------
+-----------------------LT-LI----------I----F-----L-TC-------------------WM------
+--------A------------------S--A---R-PLE------------------------------SKPS-SL-MA-
+RL-----------K-----------------------L------------EE----------------------------
+-----------------S-SGPTCWD---------------------------------------SLYE-LQSCTGEVIQ
+FF-Y------------------------------------------NG---------------ES-----NLEHDCCQAI
+NVI----A-HNCW---------------------P--S--MLSS-LGFTDQETALLQGYCDAE-ESQAP-----------
+-----S--------------------------------------------------------------------------
+------------------------------------------------P-I----------DN
+>Bo4g147120.1_Brassica_oleracea Bo4g147120.1 pep chromosome:BOL:C4:40069735:40070109:-1 gene:Bo4g147120 transcript:Bo4g147120.1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MAYN--T---------------------R-----------------
+-----------------------FF-LF----------A----TT-AL-L-LA-------------------LN------
+--------I------------------S--G---R-IIP-EA--------------------------TADPT-NI-AA-
+RL-----------N-----------------------G------------------------------------------
+-----------------G-GLMECWD---------------------------------------ALYE-LKSCTNEIVL
+FF-L------------------------------------------NG---------------ET-----KLGTGCCHAV
+DVI----T-RDCW---------------------P--S--MLTS-LGFTSEETNVLRGFCESP-NPGGS-----------
+-----S--------------------------P----A------------------------------------------
+--------------------------------------------------P----------SP
+>TraesCS7B02G351300.1.cds1_Triticum_aestivum TraesCS7B02G351300.1.cds1 pep chromosome:IWGSC:7B:608364310:608364816:1 gene:TraesCS7B02G351300 transcript:TraesCS7B02G351300.1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MASS--G---------------------S-----------------
+-----------------------LL-PT----------L----LA-LLLL-QV--A----------------AT------
+--------A------------------S--A---A-TMT-T---------------------------FVRAA-DL-AE-
+RL-----------E-----------------------G------------------------------------------
+-----------------P-VSQQCWE---------------------------------------TLLH-IKSCTGEIIL
+FF-L------------------------------------------NG---------------EA-----YLGPGCCRAI
+RVI----E-QRCW---------------------A--ADLLLSV-IGFTPEEGDMLKGYCDAG-DDNGG-----------
+-----GEGQH---HSISG--S---S-------P----A-P----P--PH-R---V--L-D--------------------
+GVASGDGTV-----------AAAARAG----R---K-G-L-------GG-P----------LG
+>Csa09g086140.1.cds1_Camelina_sativa Csa09g086140.1.cds1 pep chromosome:Cs:9:32294595:32294972:-1 gene:Csa09g086140 transcript:Csa09g086140.1 gene_biotype:protein_coding transcript_biotype:protein_coding description:Egg cell-secreted protein 1.2 [Source:Projected from Arabidopsis thaliana (AT2G21740) UniProtKB/Swiss-Prot;Acc:Q9SJ24]
+----------------------------------MASN--K---------------------S-----------------
+-----------------------FL-FV----------I----VT-LL-L-VL-------------------N-------
+--------I------------------S--G---R-TLP-E---------------------------TVDST-NI-AA-
+RL-----------N-----------------------G------------------------------------------
+-----------------G-GLMECWD---------------------------------------ALYE-LKSCTNEIVL
+FF-L------------------------------------------NG---------------ET-----KLGVDCCHAV
+EVI----T-TDCW---------------------P--A--MLTS-LGFTSDETNVLRGFCQSP-NSGGS-----------
+-----S--------------------------P----A-P----------------------------------------
+-----------------------------------------------SS-V----------KL
+>PRQ49244_Rosa_chinensis PRQ49244 pep chromosome:RchiOBHm-V2:2:32322279:32322587:-1 gene:RchiOBHm_Chr2g0119751 transcript:PRQ49244 gene_biotype:protein_coding transcript_biotype:protein_coding description:putative Prolamin-like domain-containing protein
+----------------------------------MQLL--L---------------------G-----------------
+-----------------------KF-------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-------------------LLVECGN---------------------------------------ALVE-LKCCSQEIVV
+YF-L------------------------------------------NG---------------KA-----NIGPDCCKAI
+ATI----T-RHCW---------------------P--V--MLTS-LGFTAEQGDVLRGYCDAA-AAVTT-----------
+-----T------------------A-------P----A-A----A--PL-A-----------------------------
+-------------------------R-----T---P-P-L-------TS-C----------TE
+>Os03t0296600-01_Oryza_sativa Os03t0296600-01 pep chromosome:IRGSP-1.0:3:10380090:10380764:1 gene:Os03g0296600 transcript:Os03t0296600-01 gene_biotype:protein_coding transcript_biotype:protein_coding description:Similar to ECA1 protein
+----------------------------------MACS--G---------------------S-----------------
+-----------------------FL-PI----------M----LL-PL-L-LA-------------------GA------
+--------A------------------V--A---G-G-------------------------------APPGL-GL-AQ-
+RL-----------A-----------------------D------------GV----------------------------
+----------------GQ-QQQQCWE---------------------------------------VLME-IKSCTGEILL
+FF-I------------------------------------------NG---------------EA-----YLGPGCCRAI
+RVI----E-QSCW---------------------ATDA--MLSV-IGFTPEEGDMLKGYCDAG-DEHKP-----------
+-----S--------------P---P-------P----A-S----P--AV-G---Y-VA-V--------------------
+----GEN-A-------------A--VP--AGR---K-S-L-------AL-Q----------HR
+>EOY16769_Theobroma_cacao EOY16769 pep chromosome:Theobroma_cacao_20110822:8:10872054:10872973:-1 gene:TCM_035641 transcript:EOY16769 gene_biotype:protein_coding transcript_biotype:protein_coding description:Egg cell-secreted protein 1.1 [Source:Projected from Arabidopsis thaliana (AT1G76750) UniProtKB/Swiss-Prot;Acc:Q9SRD8]
+----------------------------------MADT--F---------------------K-----------------
+-----------------------LF-SC----------L---TVL-LA-L-TM--A----------------AL------
+--------S------------------Q--A---R-PLD------------------------------TPKL-SL-VA-
+RL-----------K-----------------------L------------D-----------------------------
+-----------------E-ESPSCWE---------------------------------------SLIQ-LQACTGEVIL
+FF-L------------------------------------------NG---------------ET-----YLGDACCHAI
+HTI----G-QKCW---------------------P--N--MLET-LGYTTEEGDILQGYCDHE-TAKSP-----------
+--------------------------------P----S-P----T--SS-S---V--K-S--------------------
+--------I----------------KV----V---N-P-V-------KT-L----------LP
+>AT1G76750.1_Arabidopsis_thaliana AT1G76750.1 pep chromosome:TAIR10:1:28811040:28811721:1 gene:AT1G76750 transcript:AT1G76750.1 gene_biotype:protein_coding transcript_biotype:protein_coding gene_symbol:EC1.1 description:Egg cell-secreted protein 1.1 [Source:UniProtKB/Swiss-Prot;Acc:Q9SRD8]
+----------------------------------MASK--S---------------------S-----------------
+-----------------------FM-AT----------FNIVTLM-LM-V-AS-------------------ST------
+--------V------------------T--A---R-PLM-KPS-------M----G----------T-SSPTT-SL-VY-
+RL-----------K-----------------------L------------D-----------------------------
+-----------------E-DTGYCWD---------------------------------------SLMQ-LQHCSGELIL
+FF-L------------------------------------------NG---------------ET-----YIGPGCCSAI
+RTI----G-RKCW---------------------P--T--MIGV-LGFTAQEGDMLQGYCDGN-DSDNN-G-E-----DH
+----AL-----------A--S---S-------T----L-P----L--SV-N---F-------------------------
+-------------------------KT----TVVRS-S-A-------SP-S----------NP
+>Bradi2g28070.1.p_Bdistachyon_314_v3 Bradi2g28070.1.p pacid=32773537 transcript=Bradi2g28070.1 locus=Bradi2g28070 ID=Bradi2g28070.1.v3.1 annot-version=v3.1
+----------------------------------MASP--R---------------------A-----------------
+-----------------------SL-PV----------S----LL-AV-V-LL--A----------VD----TV-----S
+--------A------------------G--A---Q-PPT-TTT-------V----M----TAAAEGPVFLAAA-GL-AE-
+RL-----------G-----------------------G------------GE----------------------------
+-----------------G-QQQYCWE---------------------------------------SLME-IRSCTGEIVL
+FF-L------------------------------------------NG---------------EA-----YLGPGCCRAV
+RAI----E-RLCW---------------------AADA--MLSV-IGLTPEEGDMLKGYCDDD-GQGHH-----------
+-----T-----------A------A-------P-----------------------------------------------
+------------------------------------------------P-R----------A*
+>Vradi07g02140.1_Vigna_radiata Vradi07g02140.1 pep chromosome:Vradiata_ver6:7:3721677:3722078:-1 gene:Vradi07g02140 transcript:Vradi07g02140.1 gene_biotype:protein_coding transcript_biotype:protein_coding description:egg cell-secreted protein 1.1-like [Source:UniProtKB/TrEMBL;Acc:A0A1S3UJJ4]
+----------------------------------MAST--H---------------------T-----------------
+-----------------------LF-VL----------F----SS-VT-V-AA-LV-F--------SA----SM------
+--------V------------------E--S---R-SV------------------------------SNPSS-SL-LV-
+RL-----------K-----------------------L------------E-----------------------------
+-----------------G-EPSNCWD---------------------------------------SLWQ-LQACSGEIVT
+FF-L------------------------------------------NG---------------ET-----YLGHGCCEAI
+RVI----G-HDCW---------------------P--N--IVAS-LGFTDEESDVLEGYCEEA-VLRSP-----------
+-----P-------------------------------P-P----K--S--------------------------------
+-------------------------------------V-L-------LQ-Q----------RN
+>CDS_HanXRQr2_Chr15g0699451.1_Helianthus_annuus CDS:HanXRQr2_Chr15g0699451.1 pep primary_assembly:HanXRQr2.0-SUNRISE:15:73565982:73566419:-1 gene:HanXRQr2_Chr15g0699451 transcript:mRNA:HanXRQr2_Chr15g0699451 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MANP--S---------------------P-----------------
+-----------------------MI-ML----------T----LV-LA-T-M--------------------SM------
+--------V------------------H--T---R-PFT-NMT-------------------------NIGPP-PL-VA-
+RL-----------K-----------------------L------------DNND-----------------G--------
+---------------QDG-GLTGCWD---------------------------------------TLFD-LHACTGEIVL
+FF-I------------------------------------------NG---------------ET-----YLGTGCCRAI
+QKI----E-KLCW---------------------P--S--LMGS-LGFTSQESDILRGYCDVS-DNCDV-----------
+-----P-----------T--A---Q-------P----P-P----H--TP-------------------------------
+--------------------------N----T---T-T-N-------SR-N----------RF
+>MD01G1001000_Mdomestica_491_v1 MD01G1001000 pacid=40113746 transcript=MD01G1001000 locus=MD01G1001000 ID=MD01G1001000.v1.1.491 annot-version=v1.1
+----------------------------------MASL--N---------------------V-----------------
+-----------------------AF-PV----------A----VC-LI-F-LG--A-----------D----HA------
+--------L------------------A--A---R-NVI-NPM-----------------------Q-PGYNI-PI-AA-
+RI-----------K-----------------------T------------GNEG--------------------------
+----------------DG-RLANCWN---------------------------------------ALVE-LKSCSNEVVL
+FF-L------------------------------------------NG---------------QA-----DIGPDCCKAI
+ATI----T-RHCW---------------------P--A--MLTS-IGFTAEEGNILRGYCDAA-ASATS-----------
+-----T---N-------S--S---A-------P----S-S----P--PL-A---A-------------------------
+-------------------------AA----T---T-P-V-------PP-A----------H*
+>Bo8g101500.1_Brassica_oleracea Bo8g101500.1 pep chromosome:BOL:C8:35648573:35648956:1 gene:Bo8g101500 transcript:Bo8g101500.1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MASN--T---------------------W-----------------
+-----------------------FSLFA----------T----IA-LL-L-LV-------------------N-------
+--------I------------------S--G---R-TLP-A---------------------------TADPN-NI-AA-
+RL-----------N-----------------------G------------------------------------------
+-----------------G-GLMECWD---------------------------------------ALYE-LKSCTNEIVL
+FF-L------------------------------------------NG---------------ET-----KLGDGCCHAV
+DVI----T-INCW---------------------P--S--MLTS-LGFTSEETNVLRGFCQSSPNHGGS-----------
+-----T--------------------------P----A-P----------------------------------------
+-----------------------------------------------SP-V----------KL
+>ESR47720_Citrus_clementina ESR47720 pep supercontig:Citrus_clementina_v1.0:KI536799:38793094:38793525:-1 gene:CICLE_v10003810mg transcript:ESR47720 gene_biotype:protein_coding transcript_biotype:protein_coding description:Egg cell-secreted protein 1.1 [Source:Projected from Arabidopsis thaliana (AT1G76750) UniProtKB/Swiss-Prot;Acc:Q9SRD8]
+----------------------------------MANA--S---------------------K-----------------
+-----------------------LF-VF----------S----FL-MA-L-IM--G----------------SV------
+--------A------------------S--A---R-PLS------------------------------NPKS-SL-AT-
+RL-----------K-----------------------L------------D-----------------------------
+-----------------D-ESSSCWD---------------------------------------SLIQ-IQACSGEIIL
+FF-L------------------------------------------NG---------------ET-----YLGDGCCNAI
+RTI----R-KQCW---------------------P--N--MIDT-LGFTAEEGDVLEGYCDHE-TPAAI-----------
+-----V-----------H--T---Q-------P----A-P----I--PV-E---T--N-A--------------------
+--------G----------------MV----N---F-V-R-------GG-L----------VP
+>TraesCS4A02G208200.1.cds1_Triticum_aestivum TraesCS4A02G208200.1.cds1 pep chromosome:IWGSC:4A:501243616:501244080:1 gene:TraesCS4A02G208200 transcript:TraesCS4A02G208200.1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MAPV--V---------------------K-----------------
+-----------------------FV-VA----------A----LL-VL-A-AI--A-G-PGGVGVASA----TT------
+--------G------------------A--A---G-PAA-----------------------------APSPA-PL-VA-
+RL-----------R-----------------------LALSGMAEE-QQGG-----------------------------
+-----------------G-WMMECWG---------------------------------------AVTE-LRSCTSEIVL
+FF-L------------------------------------------NG---------------ES-----YLGRDCCIAI
+RTV----T-LHCW---------------------P--S--MLAS-IGLTAQEADILRGFCDAE-IPHAP-----------
+-----P------------------P-------P----A-P----A--AV-------------------------------
+-------------------------------------P-A-------PA-A----------QP
+>Bo2g091120.1_Brassica_oleracea Bo2g091120.1 pep chromosome:BOL:C2:24526743:24527210:1 gene:Bo2g091120 transcript:Bo2g091120.1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MAAK--P---------------------S-----------------
+-----------------------FV-VA----------YA-VMFM-LM-V-AS-------------------PT------
+--------V------------------R--S---R-PLM-KPT-------V----G----------A-PSPSA-SL-VY-
+RL-----------R-----------------------L------------D-----------------------------
+-----------------E-ETGYCWD---------------------------------------SLMQ-LQHCSGELIL
+FF-L------------------------------------------NG---------------ET-----YIGPGCCSAI
+RTV----G-RKCW---------------------T--T--MIGV-LGFTPQEGDVLQGYCDDD-QDSDKIG-D-----EH
+----AL-----------A--S---S-------P----L-H----L--SL-K---F-------------------------
+-------------------------KP----R---T-V-V-------RS-S----------NP
+>AES70191_Medicago_truncatula AES70191 pep chromosome:MedtrA17_4.0:3:18357875:18358313:1 gene:MTR_3g049320 transcript:AES70191 gene_biotype:protein_coding transcript_biotype:protein_coding description:ECA1 gametogenesis related family
+----------------------------------MASS--H---------------------K-----------------
+-----------------------IF-VL----------V----AL-AL-V-FI--A----------------LN------
+--------S------------------S--------------------------------------------T-SI-VE-
+SR-----------K-----------------------L------------S-----------------------------
+-----------------N-PNSNLMS---------------------------------------LEAR-LKHVVGEIVT
+FF-L------------------------------------------NG---------------ET-----YLGYGCCKAI
+RVI----G-HDCW---------------------P--N--VVAS-LGFTNEETDVLEGYCDQV-EDVHS-----------
+-----P-----------P--S---P-------P----T-P----L--VS-------------------------------
+-------------------------------F---V-D-P-------KD-I----------IP
+>HORVU4Hr1G055410.2_Hordeum_vulgare HORVU4Hr1G055410.2 pep chromosome:IBSC_v2:chr4H:464139732:464140261:-1 gene:HORVU4Hr1G055410 transcript:HORVU4Hr1G055410.2 gene_biotype:protein_coding transcript_biotype:protein_coding
+STSQ-------------------------NRPTIMASS--G---------------------S-----------------
+-----------------------LL-PT----------L----LV-L--L-AV--A----------------TT------
+--------A------------------S--A-----AMT-TA--------------------------FVGAA-DL-SE-
+RL-----------E-----------------------G------------------------------------------
+-----------------A-GSQQCWE---------------------------------------TLLD-IKSCTGEIIL
+FF-L------------------------------------------NG---------------EA-----YLGPGCCRAI
+RVV----E-QRCW---------------------A--ADLMLSV-IGFTPEEGDMLKGYCDGG-SSPAT-----------
+-----P--------------------------P----H-R----A--LD-G---V--A-G--------------------
+--G---G-T----------A-----VP-VAGR---K-G-L-------GA-P----------PR
+>KZN08752_Daucus_carota KZN08752 pep chromosome:ASM162521v1:1:14814753:14815181:1 gene:DCAR_001408 transcript:KZN08752 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MANS--Y---------------------K-----------------
+-----------------------FL-LR----------I----FL-AS-Y-FI--S----------------TI------
+--------V------------------M--A---R-PIP------------------------------YTNS-TL-VA-
+RL-----------K-----------------------L------------DN----------------------------
+----------------EE-SSTACWD---------------------------------------SLFQ-LQSCTSEVIL
+FF-L------------------------------------------NG---------------ET-----YLGQSCCRAI
+RII----E-HDCW---------------------P--S--MLGS-LGFTSEEGDILRGYCDAS-NSTVT-----------
+------------------------P-------P----H-N----T--NA-T---T--N-V--------------------
+--------S----------------HH----I---L-P-K-------VF-Q----------IP
+>ONH90042_Prunus_persica ONH90042 pep chromosome:Prunus_persica_NCBIv2:G8:3014642:3015348:1 gene:PRUPE_8G031900 transcript:ONH90042 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MAAY--T---------------------T-----------------
+-----------------------FK-LF----------L--LTAV-LT-L-TM--P-----------F----LA------
+--------T------------------S--A---R-PLN-PNL-------------------------IRSNP-NL-AA-
+RL-----------N-----------------------L------------G-----------------------------
+-----------------E-ESSNCWD---------------------------------------SLFQ-LQACSGEVVM
+FF-L------------------------------------------NG---------------ET-----YLGHSCCEAI
+RTI----E-HQCW---------------------P--A--LLGT-LGFTAEETDVLKGYCDEA-DHVKS-----------
+-----P-----------P--A-N-P-------P----S-P----P--SI-H---D--P-I--------------------
+--------N----------------VK---VV---P-N-L-------EK-L----------VP
+>cds.evm.model.04.1284_Cannabis_sativa_female cds.evm.model.04.1284 pep chromosome:cs10:4:55910526:55911011:-1 gene:evm.TU.04.1284 transcript:evm.model.04.1284 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MMNT--T---------------------T-----------------
+-----------------------LM-AV----------V----VL-LS-W-PV--L-I--------DN----NI------
+--------V------------------E--AR--R-DFP-ATMTAAVASVT----G---------KE-KNNFH-NI-RE-
+RL-----------E-----------------------T------------S-----------------------------
+-----------------G-GLVECWT---------------------------------------ALLE-LKSCSNEIVL
+FF-L------------------------------------------NG---------------QT-----NIGHDCCRSV
+VFI----A-RNCW---------------------P--A--MLTS-LGFTVQEGDILQGYCDAI-AAAPP-----------
+-----P-----------P--A-A-V-------P----S-P----S--PA-P--------S--------------------
+--------V----------------VP----P---L-A-K-------TT-L----------FD
+>Csa07g051880.1_Camelina_sativa Csa07g051880.1 pep chromosome:Cs:7:26379055:26380122:-1 gene:Csa07g051880 transcript:Csa07g051880.1 gene_biotype:protein_coding transcript_biotype:protein_coding description:Egg cell-secreted protein 1.2 [Source:Projected from Arabidopsis thaliana (AT2G21740) UniProtKB/Swiss-Prot;Acc:Q9SJ24]
+----------------------------------MASN--K---------------------S-----------------
+-----------------------FL-FV----------I----VT-LL-L-VL-------------------N-------
+--------I------------------S--G---R-TLP-E---------------------------TVDST-NI-TA-
+RL-----------N-----------------------G------------------------------------------
+-----------------G-GLMECWD---------------------------------------ALYE-LKSCTNEIVL
+FF-L------------------------------------------NG---------------ET-----KLGVDCCHAV
+EVI----T-TDCW---------------------P--A--MFY--MQYT-------------------------------
+--------------------------------------------------------------------------------
+---------------------------------------------------------------
+>Aco024757.1.mrna1.cds1_Ananas_comosus Aco024757.1.mrna1.cds1 pep supercontig:F153:contig25:2752224:2752514:-1 gene:Aco024757.1.path1 transcript:Aco024757.1.mrna1 gene_biotype:protein_coding transcript_biotype:protein_coding
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------MKHCWD---------------------------------------SLVE-LWSCAGEVIL
+FF-L------------------------------------------NS---------------ET-----YLGPSCCRAI
+RVI----E-HHCW---------------------A--TDVLLAS-LGFTAQEGDILRGYCDPT-NDSSD-----------
+-----P-----------S--T-P-P-------P----P-P----A--PP-------------------------------
+-------------------------------S---I-P-L-------GP-A----------SH
+>RZC68605_Papaver_somniferum RZC68605 pep chromosome:ASM357369v1:7:20869105:20869434:1 gene:C5167_032481 transcript:RZC68605 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MWVT--T---------------------Y-----------------
+-----------------------AY-HG----------C----IL-FNFF-KV--A----------------AI-----H
+HN------VHCNNFQHNGFQHNRCHWCT--N---K-TFV-DVQ-------------------------VATPI-SL-AA-
+RL-----------Q-----------------------S------------D-----------------------------
+-----------------G-SYSGCWD---------------------------------------SLTE-LQACTGEVIL
+FF-L------------------------------------------NG---------------ET-----HSGRNCCRAI
+HII-----------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+---------------------------------------------------------------
+>Csa10g002090.1.cds1_Camelina_sativa Csa10g002090.1.cds1 pep chromosome:Cs:10:519756:520130:-1 gene:Csa10g002090 transcript:Csa10g002090.1 gene_biotype:protein_coding transcript_biotype:protein_coding description:Egg cell-secreted protein 1.4 [Source:Projected from Arabidopsis thaliana (AT4G39340) UniProtKB/Swiss-Prot;Acc:Q9T039]
+----------------------------------MASN--T---------------------T-----------------
+-----------------------FL-FS----------T----VT-LV-L-LL--L----------LN----TT------
+--------V------------------S--G---R-YLP------------------------------AEST-SI-AA-
+RL-----------Q-----------------------S------------------------------------------
+-----------------G-GLMECWN---------------------------------------ALYE-LKSCTNEIVL
+FF-L------------------------------------------NG---------------ET-----KLGVSCCEAV
+DVI----T-TNCW---------------------P--A--MLTS-LGFTSEEANVLRGFCQNP-NSSPA-----------
+--------------------------------P----S------------------------------------------
+------------------------------------------------P-K----------KA
+>KGN46138_Cucumis_sativus KGN46138 pep chromosome:ASM407v2:6:4381677:4382431:-1 gene:Csa_6G056550 transcript:KGN46138 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MAYL--S---------------------K-----------------
+-----------------------LL-IL----------T----CL-LI-F-AF--S----------------YM------
+--------V------------------E--S---R-P--------------------------------NPEV-SL-AT-
+RL-----------N-----------------------L------------E-----------------------------
+-----------------S-NASDCWG---------------------------------------SLFQ-LEACSSEIIT
+FF-L------------------------------------------NG---------------KI-----NLSPKCCQSV
+KII----Q-HKCW---------------------P--A--LLGS-LGYTADEANVLAIYCDTT-GINHP-----------
+----TP-----------P--S---T-------S----F-P----P--S--------------------------------
+-----------------------------------I-Q-P-------EG-L----------AP
+>SIN_1019387.t.cds1_Sesamum_indicum SIN_1019387.t.cds1 pep chromosome:S_indicum_v1.0:LG14:3637097:3637504:1 gene:SIN_1019387 transcript:SIN_1019387.t gene_biotype:protein_coding transcript_biotype:protein_coding description:Egg cell-secreted protein 1.1 [Source:Projected from Arabidopsis thaliana (AT1G76750) UniProtKB/Swiss-Prot;Acc:Q9SRD8]
+----------------------------------MAYP--T---------------------N-----------------
+-----------------------LL-VL----------L----LA-SF-L-AS--S-----------A----TI------
+--------I------------------S--A---R-KI-------------------------------DSTP-TL-LA-
+RL-----------K-----------------------L------------DE----------------------------
+-----------------E-GPSSCWD---------------------------------------ALFE-LHSCSGEVLL
+FF-L------------------------------------------NG---------------ET-----HLGPGCCSAI
+RII----E-HQCW---------------------P--S--MLGS-LGLTAEESDILRGYCDAA-SAAAA-----------
+-----P------------------P-------P----A-A----L--HQ-------------------------------
+-------------------------------C---Y-N-L-------PR-L----------VP
+>CDP12837_Coffea_canephora CDP12837 pep chromosome:AUK_PRJEB4211_v1:7:13958471:13958935:1 gene:GSCOC_T00037505001 transcript:CDP12837 gene_biotype:protein_coding transcript_biotype:protein_coding description:Egg cell-secreted protein 1.1 [Source:Projected from Arabidopsis thaliana (AT1G76750) UniProtKB/Swiss-Prot;Acc:Q9SRD8]
+----------------------------------MSYS--S---------------------K-----------------
+-----------------------VL-LL----------A----LM-A--C-SI--S-I--------TP----SM------
+--------F------------------M--A---R-PIN------------------------------SKSS-TL-MG-
+RL-----------K-----------------------L------------EDEE-----------------G--------
+---------------DNS-LLATCWE---------------------------------------SLFE-LRSCTGEVIL
+FF-L------------------------------------------NG---------------ET-----YLGPSCCRAI
+RTI----E-HHCW---------------------P--S--MLGS-LGYTAEEGDILRGYCDAA-DEHDD-----------
+-----S---G---GYGYP--Q---P-------P----S-P----P--HL-V---N--S----------------------
+-------------------------TT----N---S-S-S-------HV-L----------TP
+>QL05p056248_mrna_Quercus_lobata QL05p056248:mrna pep chromosome:ValleyOak3.0:5:56247440:56248708:-1 gene:QL05p056248 transcript:QL05p056248:mrna gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MASQ--I---------------------V-----------------
+-----------------------FM-LP----------S----LA-CL-L-AV--T----------------NV------
+--------T------------------A--T---R-DLY-----------------------------IKPRL-RL-VA-
+RL-----------E-----------------------T------------N-----------------------------
+-----------------E-DIIPCWN---------------------------------------MLYWSLNLAQMKLSL
+SS-L------------------------------------------MA---------------KP---------------
+-------------------------------------------I-LAHGTKEGNILRGYCDAE-ALVPS-----------
+-----V------------------A-------L----A-A----------------------------------------
+---------------------------------------S-------PL-P----------QA
+>VIT_07s0031g02070.t01_Vitis_vinifera VIT_07s0031g02070.t01 pep chromosome:12X:7:18225070:18225477:1 gene:VIT_07s0031g02070 transcript:VIT_07s0031g02070.t01 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MALI--K---------------------N-----------------
+-----------------------VF-LL----------V----AL-SW-L-IT-------------------NA------
+--------S------------------A--S---R-ELP-MSM-------------------------KPAEL-DL-VA-
+RL-----------E-----------------------T------------S-----------------------------
+-----------------G-GLVECWN---------------------------------------ALVE-LKSCTNEIIL
+FF-L------------------------------------------NG---------------QA-----DIGPDCCGAI
+DII----T-RNCW---------------------P--T--MLTS-LGFTAEEGNILRGYCDAY-TPSPA-----------
+-----A--------------------------P----P-P----A--AE-------------------------------
+-----------------------------------S-P-V-------QP-P----------SI
+>Aco019928.1.mrna1.cds1_Ananas_comosus Aco019928.1.mrna1.cds1 pep supercontig:F153:contig23:3119935:3120180:-1 gene:Aco019928.1.path1 transcript:Aco019928.1.mrna1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------M---------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+---------------------KHCWD---------------------------------------SLVE-LLVLRGEVIL
+FS-S------------------------------------------TA---------------KRTWARAAAGPFASSSI
+TAG----T-DSCW---------------------R----------PGFTAQEGDILRATAIHI-TI--------------
+--------------------------------P----R-P----V-----------------------------------
+---------------------------------------D-------AA-D----------RA
+>AES70181_Medicago_truncatula AES70181 pep chromosome:MedtrA17_4.0:3:18346047:18346484:1 gene:MTR_3g049180 transcript:AES70181 gene_biotype:protein_coding transcript_biotype:protein_coding description:ECA1 gametogenesis related family
+----------------------------------MASS--H---------------------K-----------------
+-----------------------IF-VL----------V----AL-AL-V-FIALN-S--------ST----SI------
+--------V------------------E--S---R-KLS-NP--------------------------NSNLM-SL-EA-
+RL-----------K-----------------------V------------SG----------------------------
+-----------------D-EPSNCWE---------------------------------------SLFK-LQACSGEIIT
+FF-L------------------------------------------NG---------------ET-----YLGYGCCKAI
+RVI----G-HDCW---------------------P--N--VVAS-LGFTNEETDLLEGYCDQV-EDVHS-----------
+-----P-----------P--P---P-------P----T-P----L--AS-------------------------------
+-------------------------------L---V-K-T-------KE-I----------LP
+>ESQ27444_Eutrema_salsugineum ESQ27444 pep supercontig:Eutsalg1_0:KI517953:1701403:1701882:-1 gene:EUTSA_v10019517mg transcript:ESQ27444 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MANQ--S---------------------S-----------------
+-----------------------FI-VT----------FT-MTLM-LM-V-AS-------------------ST------
+--------V------------------T--A---R-PLV-KPT-------V----G----------A-PSPSS-SL-VY-
+RL-----------R-----------------------L------------D-----------------------------
+-----------------E-DTGYCWD---------------------------------------SLMQ-LQHCSGELIM
+FF-L------------------------------------------NG---------------ET-----YIGPGCCGAI
+RTV----G-SKCW---------------------P--T--MIGV-LGFTAQEGDMLQGYCDDH-DSDND-G-DDHDADNH
+----AF-----------A--S---S-------P----L-P----L--SV-K---F-------------------------
+-------------------------KP----A---T-V-V-------RS-S----------NP
+>PEQU_28350.1_Phalaenopsis_equestris PEQU_28350.1 | PEQU_28350
+----------------------------------MAFL--R---------------------I-----------------
+-----------------------LL-LL----------L-----L-LA-I-TA-------------------CC------
+--------I------------------D--A---R-RFG------------------------------PPPR-GL-AE-
+RQ-----------Q-----------------------E------------------------------------------
+-----------------D-ETWQCWE---------------------------------------ALIE-LRSCSGEVIL
+FF-L------------------------------------------NG---------------ET-----YLGPSCCRAI
+RVI----E-KRCW---------------------AADA--LLAV-LGFTAQEGDVLRGYCEAA-VEAPP-----------
+-----L-----------E--F---T-------P----P-P----D--S--------------------------------
+-----------------------------------S-S-H-------DT-V----------N*
+>FvH4_2g13400.t1_Fvesca_677_v4 FvH4_2g13400.t1 pacid=50657969 transcript=FvH4_2g13400.t1 locus=FvH4_2g13400 ID=FvH4_2g13400.t1.v4.0.a2 annot-version=v4.0.a2
+----------------------------------MAFN--T---------------------S-----------------
+-----------------------NL-YL----------I--LTAL-LA-L-TM--P----------------FL------
+--------A------------------S--AY--P-PLV-TNN-----------------------P-TGLNP-SL-AA-
+RL-----------N-----------------------L------------D-----------------------------
+-----------------A-ESSNCWD---------------------------------------SLLQ-LQSCSGEAIM
+FF-L------------------------------------------NG---------------ET-----TLSDGCCEAI
+RVI----E-HQCW---------------------P--A--LLGS-LGFTTQETDILKGYCDET-EQTHH----------H
+----SP-----------P--S---I-------P----S-P----S--SV-F---H--P-N--------------------
+----GAA-V-------------R--VP--------Y-Q-A-------EM-A----------P*
+>KRG98863_Glycine_max KRG98863 pep chromosome:Glycine_max_v2.1:18:11027702:11028092:-1 gene:GLYMA_18G103100 transcript:KRG98863 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MASS--Y---------------------D-----------------
+-----------------------PV-IL----------V----TL-VI-T-AL--V-S--------HA----RV------
+--------V------------------E--S---R-SLS-N---------------------------LSTTL-S-----
+--------------------------------------------------------------------------------
+-------------------------------------------------------------------LA-LQACSGEIVT
+FV-L------------------------------------------NG---------------ET-----YLGQGCRQAI
+RVI----G-HDCW---------------------H--N--IVAS-LGFTTEETDILEGYCDEI-VHSPP-----------
+--------------------------------P------P----------------------------------------
+------------------------------------------------L-V----------EP
+>EES16714_Sorghum_bicolor EES16714 pep chromosome:Sorghum_bicolor_NCBIv3:8:4864848:4866437:-1 gene:SORBI_3008G049300 transcript:EES16714 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MAME--A---------------------A-----------------
+-----------------------AP-RPRLTLTAAVVVAL-IAAL-LV-L-TH--G----------VG----AV------
+--------T------------------P--P---R-AIG------------------------------VARR-PW-VA-
+RL-----------QALHDLSTTTSLDGAGEEQGAGEQQ------------Q-----------------------------
+-----------------G-GFAECWA---------------------------------------AVMG-LSSCYSEILL
+FF-V------------------------------------------NG---------------ES-----YIGPECCVAI
+RGA----T-RYCW---------------------P--A--MLAS-VGFTAEEADVLRGFCDGE-EAAHH-L-G-------
+----SP------------------P-------P----V-P----A--PG-------------------------------
+-------------------------RP----G---S-Q-Q-------AD-V----------RE
+>KZN08747_Daucus_carota KZN08747 pep chromosome:ASM162521v1:1:14777428:14777751:1 gene:DCAR_001403 transcript:KZN08747 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MARP--I---------------------S-----------------
+-----------------------Y--------------------------------------------------------
+----------------------------------------------------------------------TNS-TL-VV-
+RL-----------K-----------------------L------------DD----------------------------
+----------------EE-SSTACWD---------------------------------------SLFQ-LHSCTSEVIL
+FF-L------------------------------------------NG---------------ET-----YLGQSCCRAI
+RII----E-HDCW---------------------P--S--MLGS-LGFTSEEGDILRGYCDAS-NSTVS-----------
+-----P------------------P-------P----H------------------------------------------
+---------------------------------------N-------TN-A----------ME
+>Ma06_p27500.1_Musa_acuminata Ma06_p27500.1 pep primary_assembly:Musa_acuminata_v2:CAJGYN010000006.1:29490639:29491121:1 gene:Ma06_g27500 transcript:Ma06_t27500.1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MSSL--Q---------------------K-----------------
+-----------------------LT-VA----------L----IV-AS-L-VG--F----------------GA------
+--------A------------------G--EL--P-PLE-EES-------A----A------A---E-QLRVA-AL-EA-
+RL-------IAGLT-----------------------G-----------GG-----------------------------
+-----------------G-GLVDCWN---------------------------------------ALLE-LRSCTNEIVL
+FF-I------------------------------------------NG---------------ES-----YLGLDCCRAI
+RVI----T-RHCW---------------------T--S--MLTT-LGFTTQESDILRGYCDFE-ATAPP-----------
+-----P--------------A---P-----ALP----P-P----P--TTAP---T--A-S--------------------
+------K-A----------------DT----E---L-A-V-------DD-P----------TV
+>Csa07g048320.1.cds1_Camelina_sativa Csa07g048320.1.cds1 pep chromosome:Cs:7:24873026:24873481:1 gene:Csa07g048320 transcript:Csa07g048320.1 gene_biotype:protein_coding transcript_biotype:protein_coding description:Egg cell-secreted protein 1.1 [Source:Projected from Arabidopsis thaliana (AT1G76750) UniProtKB/Swiss-Prot;Acc:Q9SRD8]
+----------------------------------MAIK--S---------------------S-----------------
+-----------------------FM-VT----------T----LM-LM-V-AS-------------------SI------
+--------V------------------T--A---R-PLM-KPS-------V----G----------S-SSPPT-SL-VY-
+RL-----------R-----------------------L------------D-----------------------------
+-----------------E-DTGYCWD---------------------------------------SLMQ-LQHCSGELIL
+FF-L------------------------------------------NG---------------ET-----YIGPGCCSAI
+KTV----G-RKCW---------------------P--T--MIGV-LGFTAQEGDMLQGYCDGH-DSDNN-G-E-----DH
+----AL-----------A--S---S-------P----L-P----L--SV-N---Y-------------------------
+-------------------------KP----T---V-V-R-------SF-S----------NP
+>HORVU4Hr1G020010.2_Hordeum_vulgare HORVU4Hr1G020010.2 pep chromosome:IBSC_v2:chr4H:96972373:96972926:-1 gene:HORVU4Hr1G020010 transcript:HORVU4Hr1G020010.2 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MALV--V---------------------K-----------------
+-----------------------FV-VA----------A----LL-VL-V-AI--A-G-PGGVGVASA----TT------
+--------D------------------A--A---G-PA------------------------------AASPA-PL-VA-
+RL-----------H-----------------------LALSGMAAEEQEGG-----------------------------
+-----------------G-WMMECWG---------------------------------------AVTE-LRSCTNEIVL
+FL-L------------------------------------------NG---------------ES-----YLGRDCCIAI
+RTV----T-LHCW---------------------P---------------------------------------------
+--------------------------------------------------------------------------------
+---------------------------------------------------------------
+>Aco003193.1.mrna1.cds1_Ananas_comosus Aco003193.1.mrna1.cds1 pep supercontig:F153:contig18:1012051:1012527:-1 gene:Aco003193.1.path1 transcript:Aco003193.1.mrna1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MRSL--L---------------------V-----------------
+-----------------------PK-TL----------A----LA-LA-I-AA-LV-----------A----AV------
+--------S------------------A--R---R-DLT-QVAAAPQ---A----A----------TAHPESL-AL-EA-
+RL-----------Q-----------------------G------------VG----------------------------
+-----------------G-GLVDCWN---------------------------------------ALLE-LRSCTNEIVL
+FF-L------------------------------------------NG---------------ES-----YLGYDCCRAI
+RTI----T-LHCW---------------------P--S--MLTS-LGFTAQEGDILRGYCDAE-AAAAP-----------
+-----P-----------P--F---A-------P----L-P----T--TP-S---G--A-P--------------------
+--------A------------A---AP--------A-L-L-------RA-P----------GN
+>itb06g24100.t1_Ipomoea_triloba itb06g24100.t1 pep chromosome:ASM357664v1:6:25799984:25800364:1 gene:itb06g24100 transcript:itb06g24100.t1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MATK--K---------------------F-----------------
+-----------------------IP-LI----------L----AV-LP-W-VL--V-----------T----AA------
+--------A------------------I--S---S-DA------------------------------KLAGY-GV-TG-
+RL-----------N-----------------------D------------EA----------------------------
+-----------------S-VMAECWD---------------------------------------AMVQ-LKSCTNEIIL
+FF-F------------------------------------------NG---------------EA-----YLGQECCRAI
+RTI----L-YHCW---------------------P--S--MLTS-IGYTAEEVDVLRDYCGAT-APV-------------
+---------------------------------------P----A--V--------------------------------
+---------------------------------------V-------GV-P----------VA
+>CDS_HanXRQr2_Chr12g0556091.1_Helianthus_annuus CDS:HanXRQr2_Chr12g0556091.1 pep primary_assembly:HanXRQr2.0-SUNRISE:12:127397710:127398177:1 gene:HanXRQr2_Chr12g0556091 transcript:mRNA:HanXRQr2_Chr12g0556091 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MAKL--S---------------------P-----------------
+-----------------------II-VL----------T----LV-LS-T-VS-------------------ML------
+--------V------------------H--A---R-PLT-NTT-------------------------TIGAP-SL-VA-
+RL-----------K-----------------------L------------EKGN---------------D-G--------
+---------------QDG-GSTGCWE---------------------------------------TLFE-LHACTGEIIL
+FF-L------------------------------------------NG---------------ET-----YLGMGCCRAI
+KEI----E-KLCW---------------------P--S--LMGS-LGFTSEEGDILRGYCDVS-DNGNV-----------
+----TT-----------T--P---P-------P----F-P----T--TA-P---P--P-H--------------------
+------S-A----------------NS----T---T-N-N-------AT-T----------LW
+>OIW19997_Lupinus_angustifolius OIW19997 pep supercontig:LupAngTanjil_v1.0:Scaffold_9_102:5966:6367:-1 gene:TanjilG_31911 transcript:OIW19997 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MVFS--T---------------------K-----------------
+-----------------------LF-IV----------I----IC-T--M-T--------------------TI------
+--------V------------------M--A---R-PLT-P---------------------------TTSNS-TH-AT-
+RL-----------G-----------------------S------------------------------------------
+-----------------D-ENNKCWE---------------------------------------TLFE-LQSCSGEVIM
+FF-L------------------------------------------NG---------------ET-----YLGSGCCNAL
+LTI----V-QQCS------------------------T--LITT-LGLTQQECDIMRGYCEEI-AHNNN-----------
+-----K-----------S--N---A-------T----V-N----S--SN-------------------------------
+-------------------------------P---I-S-S-------NN-N----------LV
+>KJB71292_Gossypium_raimondii KJB71292 pep chromosome:Graimondii2_0_v6:11:14908413:14908787:1 gene:B456_011G115100 transcript:KJB71292 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MAVR--Y---------------------L-----------------
+-----------------------FH-VL----------V----LV-YV-L-A--------------------TV------
+--------T------------------A--A---R-QLP--------------------------------IS-SK-PG-
+RL-----------E-----------------------E------------N-----------------------------
+-----------------G-GLAECWN---------------------------------------ALNE-LKSCTDEIIL
+FF-V------------------------------------------NG---------------QT-----DIGPECCGGI
+EVI----T-RKCW---------------------P--T--MLTS-LGFTSEEGNILRGYCDAS-STPAA-----------
+-----A------------------A-------P----L-G----------------------------------------
+---------------------------------------A-------SS-P----------VS
+>CDS_MD10G0023400.1_Malus_domestica_golden CDS:MD10G0023400.1 pep chromosome:ASM211411v1:10:3856130:3856591:-1 gene:MD10G0023400 transcript:mRNA:MD10G0023400 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MAAH--T---------------------I-----------------
+-----------------------SF-LF----------L--LTAL-LA-L-AM--P-----------F----IA------
+--------S------------------A--A---R-PLS-RYS-------------------------IGSSM-NL-AA-
+RL-----------K-----------------------L------------D-----------------------------
+-----------------E-ESANCWE---------------------------------------SLFQ-LQACSGEVVM
+FF-L------------------------------------------NG---------------ET-----YIGHGCCEAI
+RTI----E-HQCW---------------------P--A--LLGT-LGFTTEETDVLKGYCDEA-DHIES-----------
+-----P-----------P--S-STT-------P----S-P----P--SI-S---K--P-A--------------------
+--------T----------------KP---VA---T-G-W-------EK-L----------VP
+>FCD_00011687-RA_cds_Ficus_carica FCD_00011687-RA:cds pep primary_assembly:UNIPI_FiCari_1.0:5:12040854:12041210:-1 gene:FCD_00011687 transcript:FCD_00011687-RA gene_biotype:protein_coding transcript_biotype:protein_coding description:egg cell-secreted protein 1.4-like
+----------------------------------MEKS--D---------------------------------------
+--------------------------------------------------------------------------------
+-----------------------------------------------------------------------IN-NL-TS-
+RL-----------E-----------------------T------------S-----------------------------
+-----------------G-GLVECWT---------------------------------------ALLE-LKSCSDEIVL
+FF-L------------------------------------------NG---------------QT-----DIGGDCCRAI
+VFI----T-RSCW---------------------P--A--MLTS-LGFTAEEGDVLRGYCDAI-ETHTP-----------
+-----P------------------P-------P----LSP----S--PT-P---F--A-A--------------------
+------V-A----------------DD----L---A-K-L-------PS-L----------LD
+>ONH90046_Prunus_persica ONH90046 pep chromosome:Prunus_persica_NCBIv2:G8:3040356:3040905:-1 gene:PRUPE_8G032300 transcript:ONH90046 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MAAY--T---------------------T-----------------
+-----------------------FK-LF----------L--LTAL-LT-L-TM--P-----------F----LA------
+--------T------------------S--A---R-LLN-PNL-------------------------IRSNP-NL-AA-
+RL-----------N-----------------------L------------G-----------------------------
+-----------------E-ESSNCWD---------------------------------------SLFQ-LQACSGEVVM
+FF-L------------------------------------------NG---------------ET-----YLGHSCCEAI
+RTI----E-HQCW---------------------P--A--LLGT-LGFTAEETDVLKGYCDEA-DHVKS-----------
+-----P-----------P--A-N-P-------P----S-P----P--SI-H---D--P-I--------------------
+--------N----------------VK---VV---P-N-L-------EK-L----------VP
+>TraesCS4B02G111900.1_Triticum_aestivum TraesCS4B02G111900.1 pep chromosome:IWGSC:4B:125425601:125426079:1 gene:TraesCS4B02G111900 transcript:TraesCS4B02G111900.1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MAPI--V---------------------K-----------------
+-----------------------FV-VA----------A----AL-IV-L-AA--V-AGPGGVGVASA----TT------
+--------G------------------A--A---G-PAA-----------------------------APSPA-PL-VA-
+PLHLALSGMAAEQQ-----------------------G------------G-----------------------------
+-----------------G-WMMECW--------------------------------------------------GAIVL
+FF-L------------------------------------------NG---------------ES-----YLGRDCCIAI
+RTI----T-LHCW---------------------P--S--MLAS-IGLTAHEADILRGFCDAE-IPHAP-----------
+-----P------------------P-------P----A-P----A--VV-------------------------------
+-------------------------------------P-A-------PA-A----------QP
+>ESQ46085_Eutrema_salsugineum ESQ46085 pep supercontig:Eutsalg1_0:KI517426:439647:440038:-1 gene:EUTSA_v10000374mg transcript:ESQ46085 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MASS--S---------------------G-----------------
+-----------------------FL-FA----------T----VA-LL-L-VF-------------------N-------
+--------I------------------S--S---K-TLP-M---------------------------TPDYA-NI-AA-
+RL-----------N-----------------------G------------------------------------------
+-----------------G-GLMECWD---------------------------------------ALYE-LKSCTNEIVL
+FF-L------------------------------------------NG---------------ET-----KLGVGCCHAV
+EVI----S-NNCW---------------------P--A--MLTS-LGFTSEETNVLRGICQSP-NSGGS-----------
+-----S--------------------------P----A-T----------------------------------------
+-----------------------------------------------SP-V----------KL
+>Csa07g048380.1.cds1_Camelina_sativa Csa07g048380.1.cds1 pep chromosome:Cs:7:24897835:24897996:-1 gene:Csa07g048380 transcript:Csa07g048380.1 gene_biotype:protein_coding transcript_biotype:protein_coding
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+------------------------------------------------------MLQGYCDGH-DSDNN-----------
+-----G---E---DHALA--S---S-------P----L-P----L--SM-N---Y-KP-T-------------------D
+FMIQD-S-K----------------ST----K---T-R-L-------SD-S----------KT
+>MD10G1029400_Mdomestica_491_v1 MD10G1029400 pacid=40090064 transcript=MD10G1029400 locus=MD10G1029400 ID=MD10G1029400.v1.1.491 annot-version=v1.1
+----------------------------------MAAH--T---------------------I-----------------
+-----------------------SF-LF----------L--LTAL-LA-L-AM--P-----------F----IA------
+--------S------------------A--A---R-PLS-RYS-------------------------IGSSM-NL-AA-
+RL-----------K-----------------------L------------D-----------------------------
+-----------------E-ESANCWE---------------------------------------SLFQ-LQACSGEVVM
+FF-L------------------------------------------NG---------------ET-----YIGHGCCEAI
+RTI----E-HQCW---------------------P--A--LLGT-LGFTTEETDVLKGYCDEA-DHIES-----------
+-----P-----------P--S-STT-------P----S-P----P--SI-S---K--P-A--------------------
+--------T----------------KP---VA---T-G-W-------EKLV----------P*
+>RZC55249_Papaver_somniferum RZC55249 pep chromosome:ASM357369v1:3:122580598:122581068:1 gene:C5167_014110 transcript:RZC55249 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MALI--N---------------------S-----------------
+-----------------------KL-VL----------L--L-VI-SA-L-MV--S----------SS----TF------
+--------V------------------A--A---R-EVP-AVI-------------------------RYPGH-NL-AA-
+RI-----------N-----------------------A------------DD----------------------------
+----------------GA-SMVECWN---------------------------------------ALYE-LRSCTNEIIL
+FF-M------------------------------------------DG---------------EM-----YLGLECCRAI
+RII----T-RECW---------------------P--S--MLTS-VGFTAQEGDILRGYCDAP-HSAAP-----------
+-----R--------------S---S-------P----V-T----MLPPV-Q---A--P-A--------------------
+--------Q----------------SP-ISEP---S-T-A-------PI-V----------VG
+>ESW31795_Phaseolus_vulgaris ESW31795 pep chromosome:PhaVulg1_0:2:43366260:43366586:1 gene:PHAVU_002G268400g transcript:ESW31795 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MALK--Y---------------------G-----------------
+-----------------------IL-LL----------M----VL-AW-F-VV-------------------DG------
+--------T------------------A--T-------------------------------------------------
+--------------------------------------------------R-----------------------------
+-----------------E-NMVECWS---------------------------------------NLTE-LKSCSSEIMH
+FF-I------------------------------------------NG---------------EA-----DIGPNCCCAI
+TVI----T-HNCW---------------------P--S--MLTS-LGYTYQEALYILEYCEDA-APTPA-----------
+-----L------------------P-------P-----------------------------------------------
+-----------------------------------------------SH-P----------IY
+>itb05g22120.t1_Ipomoea_triloba itb05g22120.t1 pep chromosome:ASM357664v1:5:27637991:27638515:-1 gene:itb05g22120 transcript:itb05g22120.t1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MAHT--A---------------------T-----------------
+-----------------------TT-TL----------M--IKAV-FL-L-SM--A-A--------SL----AT------
+--------V------------------S--A---R-PLS-V---------------------------TSGAT-AL-RA-
+RL-----------R-----------------------L------------YEED--------------------------
+---------------SGG-GSSTCWE---------------------------------------SLFA-LRACTGEVIL
+FF-V------------------------------------------NG---------------EK-----YLGPGCCRAV
+RTI----H-HYCW---------------------AN-S--VFGS-LGLTTQEFDILRGYCDAT-ADDDH-----------
+-----S-----------A--P---P-------P----S-P----P--SQ-P---P-SP-Q--------------------
+------P-ITPTPWLQPSPQPIDSTAS----V---F-S-F-------DA-T----------TP
+>Solyc11g005540.1.1.1_Solanum_lycopersicum Solyc11g005540.1.1.1 pep chromosome:SL3.0:11:401870:402280:-1 gene:Solyc11g005540.1 transcript:Solyc11g005540.1.1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MALN--C---------------------Y-----------------
+-----------------------TF-FL----------I----ML-TY-S-TI--T-N--------LS----HV------
+--------H------------------S--S---R-DIP---------------------------------R-------
+-H-------D-EST-------------------T---Q------------------------------------------
+-----------------G-SIMDCFN---------------------------------------ALAE-IKSCTNEIVA
+YF-T------------------------------------------IG---------------TI-----DIDLPCCQAI
+FVI----T-HHCW---------------------P--S--MLTT-LGFTLEETNMLRGYCDAT-HHNVS-----------
+-----P-----------N--S-F-G-------P----A-P----S--PL-------------------------------
+-------------------------------V---LPN-L-------DI-I----------NE
+>Csa16g040920.1.cds1_Camelina_sativa Csa16g040920.1.cds1 pep chromosome:Cs:16:20922943:20923398:1 gene:Csa16g040920 transcript:Csa16g040920.1 gene_biotype:protein_coding transcript_biotype:protein_coding description:Egg cell-secreted protein 1.1 [Source:Projected from Arabidopsis thaliana (AT1G76750) UniProtKB/Swiss-Prot;Acc:Q9SRD8]
+----------------------------------MAIK--S---------------------S-----------------
+-----------------------FM-VT----------T----LM-LM-V-AS-------------------SI------
+--------V------------------T--A---R-PLM-KPS-------V----G----------S-SSPPT-SL-VY-
+RL-----------R-----------------------L------------D-----------------------------
+-----------------E-DTGYCWD---------------------------------------SLMQ-LQHCSGELIL
+FF-L------------------------------------------NG---------------ET-----YIGPGCCSAI
+KTV----G-RKCW---------------------P--T--MIGV-LGFTAQEGDMLQGYCDGH-DSDNN-G-E-----DH
+----AL-----------S--S---S-------P----L-P----L--SV-N---Y-------------------------
+-------------------------KP----T---V-V-R-------SF-S----------NP
+>FtPinG0007730800.01.T01_Fagopyrum_tataricum FtPinG0007730800.01.T01
+----------------------------------MA--------------------------------------------
+--------------------------------------------------------------------------------
+---------------------------S--A---R-PLE------------------------------SKPS-SL-MA-
+RL-----------K-----------------------L------------EE----------------------------
+-----------------S-SGPTCWD---------------------------------------SLYE-LQSCTGEVIQ
+FF-Y------------------------------------------NG---------------ES-----NLEHDCCKAI
+HVI----A-HNCW---------------------P--S--MLSS-LGFTEQETALLQGYCDAE-ESRAP-----------
+-----S--------------------------------------------------------------------------
+-------------------------------------------------------------PN
+>KJB60013_Gossypium_raimondii KJB60013 pep chromosome:Graimondii2_0_v6:9:24315691:24316077:-1 gene:B456_009G285800 transcript:KJB60013 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MANI--F---------------------K-----------------
+-----------------------LF-ST----------L----TL-LF-L-AL--P----------------MA------
+---------------------------S--S------L------------------------------ETSEL-TL-QS-
+RL-----------N------------------------------------------------------------------
+-----------------A-DSPSCWE---------------------------------------SLTQ-IQSCTGEVIL
+FF-L------------------------------------------NG---------------ET-----YLGDSCCHAI
+HTV----S-HQCW---------------------P--N--MLET-LGYTTEEGDILEGYCDHE-TSKSP-----------
+--------------------------------P----SVK----A--SV-------------------------------
+-------------------------------V---A-P-A-------ND-I----------LP
+>Aco024977.1.mrna1.cds1_Ananas_comosus Aco024977.1.mrna1.cds1 pep supercontig:F153:contig15:6351882:6352181:-1 gene:Aco024977.1.path1 transcript:Aco024977.1.mrna1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------M---------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+---------------------KHCWD---------------------------------------LLVE-LRSCTGEVIL
+FF-L------------------------------------------ND---------------ET-----YLGPRCCRAI
+RVI----E-HPCW---------------------A--TDVLLAS-LGFTAQEGDILRGYCDPA-PTRRR-----------
+-----R---R-------R--H---R-------P----R-R----L--SL-Q---G-------------------------
+-------------------------QH----P---T-R-I-------EK-W----------CL
+>Vradi01g10860.1_Vigna_radiata Vradi01g10860.1 pep chromosome:Vradiata_ver6:1:21218942:21219292:1 gene:Vradi01g10860 transcript:Vradi01g10860.1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MPEV--D---------------------M-----------------
+-----------------------MG-LK----------YG-MVLL-MV-L-AC--F----------------D-------
+--------------------------------------------------------------------------AL-GT-
+A------------T-----------------------R------------D-----------------------------
+-----------------N-NMVKCWS---------------------------------------NLVE-LKSCSNEIMH
+FF-I------------------------------------------NG---------------EA-----DIGPNCCCAI
+TVI----T-HNCW---------------------P--S--MLTS-LGYSYQEALHILAYCEDA-APTPA-----------
+--------------------L---S-------P-----------------------------------------------
+---------------------------------------S-------HP-I----------IY
+>RZC62099_Papaver_somniferum RZC62099 pep chromosome:ASM357369v1:5:137827053:137827511:1 gene:C5167_023861 transcript:RZC62099 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MAAA--Y---------------------L-----------------
+-----------------------TS-SK----------LLFITMF-IA-L-TL-------------------ST----MD
+SNTIGATGV------------------L--A---R-PLS-DVK-------------------------TATTI-SL-AA-
+RL-----------Q-----------------------S------------D-----------------------------
+-----------------G-SYSECWD---------------------------------------SLTE-LQACTGEVIL
+FL-L------------------------------------------NG---------------ET-----HLGRNCCRAI
+HII----Q-HNCW---------------------P--A--MLGS-LGFTEEEGNMLRGYCDAT-ADVVP-----------
+------------------------T-------P----LSP----P--ST-------------------------------
+-------------------------VP--------L-V-K-------DD-L----------KP
+>QL06p031114_mrna_CDS_2_Quercus_lobata QL06p031114:mrna:CDS:2 pep chromosome:ValleyOak3.0:6:31112829:31115680:-1 gene:QL06p031114 transcript:QL06p031114:mrna gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MASQ--I---------------------V-----------------
+-----------------------FM-LL----------S----LA-CL-L-AV--T----------------NV------
+--------T------------------A--T---R-DLY-----------------------------IKPGH-RL-AA-
+RL-----------E-----------------------T------------S-----------------------------
+-----------------E-GLVPCWN---------------------------------------ALLE-LKSCSNEIVT
+FF-L------------------------------------------NG---------------QT-----DIGQDCCRAI
+TII----T-HHCW---------------------P--A--MLTS-LGFTAEEGNILRGYCDAE-AVVPS-----------
+-----I------------------A-------P----P-A----A-----------------------------------
+---------------------------------------S-------PL-P----------QA
+>EOY18917_Theobroma_cacao EOY18917 pep chromosome:Theobroma_cacao_20110822:10:6160510:6171885:-1 gene:TCM_043423 transcript:EOY18917 gene_biotype:protein_coding transcript_biotype:protein_coding description:Uncharacterized protein
+----------------------------------MARK--N---------------------V-----------------
+-----------------------FL-LL----------S----MF-CL-L-AA-------------------SA------
+--------T------------------A--T---R-ELS-GYD-------------------------KGPGH-VL-AA-
+RL-----------E-----------------------A------------S-----------------------------
+-----------------K-GLLKCWS---------------------------------------ALND-LKSCMPQIVG
+FLII------------------------------------------KG---------------QH-----GIGHKCCGDI
+LKI----N--ACW---------------------P--G--MFIS-IGFTYEEDKRLTGYCDAP-SAPTA-----------
+-----A--------------------------P----F-A----G--S--------------------------------
+-----------------------------------P-I-S-------SA-T----------FI
+>ONH89505_Prunus_persica ONH89505 pep supercontig:Prunus_persica_NCBIv2:scaffold_23:9296:9724:1 gene:PRUPE_I003300 transcript:ONH89505 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MAAS--N---------------------L-----------------
+-----------------------FL-LT----------L-----L-AL-W-TM--PLF--------IS----TT------
+--------T------------------S--A---R-SLN-YNP-------I----G------------SNLNP-NL-EA-
+RL-----------N-----------------------L------------D-----------------------------
+-----------------E-ESSNCWD---------------------------------------SLFQ-LHACSGEVVM
+FF-L------------------------------------------NG---------------ET-----YLGHGCCEAI
+RTI----E-HHCW---------------------P--A--LLGT-LGFTTEETDVLKGYCDEA-DHIQS-----------
+-----P-----------P--S-R-P-------P----S-P----P-----------------------------------
+-------------------------------------A-A-------DK-P----------IN
+>RZC49225_Papaver_somniferum RZC49225 pep chromosome:ASM357369v1:2:40874118:40874588:1 gene:C5167_017655 transcript:RZC49225 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MALI--N---------------------S-----------------
+-----------------------KL-VL----------L--L-AI-SA-L-MV--S----------SS----SF------
+--------V------------------A--A---R-EVP-TTI-------------------------HYPGR-NL-AA-
+RV-----------N-----------------------A------------DD----------------------------
+----------------GA-GMVECWN---------------------------------------ALYE-LRSCTNEIIL
+FF-M------------------------------------------DG---------------EM-----YLGLECCRAI
+RII----T-RECW---------------------P--S--MLTS-VGFTAEEGDILRGYCDAP-HSAAP-----------
+-----R--------------S---S-------P----V-A----MLPPV-H---A--P-A--------------------
+--------Q----------------SP-ISGP---S-T-A-------PI-V----------VE
+>NC1G0017660.1_cds_Nymphaea_colorata NC1G0017660.1:cds pep chromosome:ASM883128v1:1:14006257:14006634:1 gene:NC1G0017660 transcript:NC1G0017660.1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MAKF--T---------------------V-----------------
+-----------------------IL-LI----------A----SI-M-------------------------SA------
+--------A------------------S--G---R-E---------------------------------SPF-RL-AV-
+-V-----------Q-----------------------K------------D-----------------------------
+-----------------G-GLMQCWD---------------------------------------ALAE-LKACSGEIIL
+FF-L------------------------------------------NG---------------EA-----YLGPGCCNAI
+QII----T-HECW---------------------P--S--LLTA-FGFTAQEGDILRGFCDAV-VAEPP-----------
+-----E--------------S---G----DEGA----A-P----P-----------------------------------
+-------------------------------------H-V-------GD-G----------GI
+>HORVU4Hr1G020010.1_Hordeum_vulgare HORVU4Hr1G020010.1 pep chromosome:IBSC_v2:chr4H:96972230:96972661:-1 gene:HORVU4Hr1G020010 transcript:HORVU4Hr1G020010.1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------VAIA--G---------------------P-----------------
+-----------------------GG-VG----------V----AS-A-------------------------TT------
+--------D------------------A--A---G-PA------------------------------AASPA-PL-VA-
+RL-----------H-----------------------LALSGMAAEEQEGG-----------------------------
+-----------------G-WMMECWG---------------------------------------AVTE-LRSCTNEIVL
+FL-L------------------------------------------NG---------------ES-----YLGRDCCIAI
+RTV----T-LHCW---------------------P--S--MLVS-IGFTAEEADVLRVFCDAE-IPHAP-----------
+-----P------------------P-------P----A-P----A--AV-------------------------------
+-------------------------------------P-A-------PA-A----------QP
+>PSS26677_Actinidia_chinensis PSS26677 pep chromosome:Red5_PS1_1.69.0:LG7:10802354:10802982:1 gene:CEY00_Acc08092 transcript:PSS26677 gene_biotype:protein_coding transcript_biotype:protein_coding description:Egg cell-secreted protein like
+----------------------------------MAHS--L---------------------K-----------------
+-----------------------LR-TI----------PL-A-LW-L--T-TM-------------------AV------
+--------A------------------T--A---R-AP------------------------------PDPIL-TL-AA-
+RL-----------K-----------------------I------------DEG---------------------------
+----------------ED-GSSKCWD---------------------------------------SLLQ-LQSCTGEVVL
+FF-L------------------------------------------NG---------------ET-----YLGPSCCSAI
+RTI----E-SQCW---------------------P--S--MLGS-LGFTTEEGGILRGYCDAT-AST-------------
+------------------------P-------P----H-R----V--AA-N-----------------------------
+-------------------------VD----V---I-D-Y-------RD-L----------DP
+>ONH90087_Prunus_persica ONH90087 pep chromosome:Prunus_persica_NCBIv2:G8:3177024:3177407:-1 gene:PRUPE_8G034300 transcript:ONH90087 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MAAY--T---------------------T-----------------
+-----------------------FK-LF----------L--LTAL-LA-L-TM--P-----------F----LA------
+--------T------------------S--A---R-PLN-PNI-------------------------IRSNS-NL-VA-
+WL-----------N-----------------------L------------D-----------------------------
+-----------------E-ESSNCWD---------------------------------------SLFQ-LQSCSSEVVM
+FF-L------------------------------------------NG---------------ET-----YLGHSCCEAI
+RTI----E-HQCR---------------------P--A--LLGT-LGFTVEETDVLKGYCDEA-DHVKS-----------
+-----P-----------P--------------------------------------------------------------
+--------------------------------------------------------------S
+>CDS_HanXRQr2_Chr04g0158231.1_Helianthus_annuus CDS:HanXRQr2_Chr04g0158231.1 pep primary_assembly:HanXRQr2.0-SUNRISE:4:63716572:63716958:1 gene:HanXRQr2_Chr04g0158231 transcript:mRNA:HanXRQr2_Chr04g0158231 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MVTI--R---------------------V-----------------
+-----------------------LP-IT----------L----LL-SCLV-TL--Q----------------VC------
+--------S------------------M--A---R-KM-------------------------------HSDE-SL-VV-
+RL-----------Q-----------------------A------------EKD---------------------------
+----------------SG-GLTDCWN---------------------------------------ALLE-LKSCTNEIVL
+FF-L------------------------------------------NG---------------DS-----YLTMDCCRAI
+RTI----T-YGCW---------------------P--S--MLTS-LGFTSEQGDILQGYCGGA-PLP-------------
+-------------------------------------Q-P----G--L--------------------------------
+---------------------------------------I-------ED-P----------NV
+>PNT58448_Populus_trichocarpa PNT58448 pep chromosome:Pop_tri_v3:1:36133779:36134192:-1 gene:POPTR_001G353600v3 transcript:PNT58448 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MAFN--L---------------------K-----------------
+-----------------------LS-LF----------I----AF-LA-C-SS--L----------------DC----YK
+--------A------------------R--A---R-PS-------------------------------ASVS-NL-MA-
+RL-----------K-----------------------L------------D-----------------------------
+-----------------GDSQNNCWD---------------------------------------SLVQ-LQACSGEIIL
+FF-L------------------------------------------NG---------------ET-----QLGRSCCQAL
+RTI----G-EHCW---------------------P--N--MIDT-LGFTAEEGQILEGYCDKA-ADPTT-----------
+-----P--------------S---P-------P----A-P----S--VM-------------------------------
+--------------------------P--------A-K-V-------VP-K----------QT
+>FvH4_2g18700.t1_Fvesca_677_v4 FvH4_2g18700.t1 pacid=50655797 transcript=FvH4_2g18700.t1 locus=FvH4_2g18700 ID=FvH4_2g18700.t1.v4.0.a2 annot-version=v4.0.a2
+----------------------------------MAST--S---------------------K-----------------
+-----------------------LF-LL----------T----AL-LV-L-TM--P----------FM----VS------
+--------S------------------T--S---R-PLN-YP--------------------------TRSKS-NL-AA-
+RL-----------K-----------------------L------------D-----------------------------
+-----------------E-ESSTCWE---------------------------------------SLFQ-FQACSKEVVL
+FF-L------------------------------------------NG---------------ET-----SLGEGCCKAL
+STI----E-HLCW---------------------P--A--LLGS-LGLTTEETDILKGYCDEA-DQIQS-----------
+-----P-----------P--T---S-------P----S-P----P--SV-------------------------------
+-------------------------------------H-Q-------PT-GKLVPGLDKFIP*
+>ERN08734_Amborella_trichopoda ERN08734 pep supercontig:AMTR1.0:AmTr_v1.0_scaffold00017:5583736:5584116:-1 gene:AMTR_s00017p00240840 transcript:ERN08734 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MASL--L---------------------E-----------------
+-----------------------LS-TT----------L----LI-MA-F-LS-------------------SS------
+--------V------------------V--A---R-PLQ-RVV-------------------------RPLGP-LV-GA-
+RL-----------L-----------------------E------------E-----------------------------
+-----------------G-SMLECWN---------------------------------------ALAE-LSSCSGEIIL
+FF-M------------------------------------------NG---------------ET-----YLGKDCCRGV
+RVI----T-RHCW---------------------P--S--MLTS-VGFTAEEGDILRGYCDAG-DEAPA-----------
+--------------------------------P-----------------------------------------------
+-----------------------------------------------EV-V----------AP
+>CDS_HanXRQr2_Chr02g0065281.1_Helianthus_annuus CDS:HanXRQr2_Chr02g0065281.1 pep primary_assembly:HanXRQr2.0-SUNRISE:2:100193639:100194034:-1 gene:HanXRQr2_Chr02g0065281 transcript:mRNA:HanXRQr2_Chr02g0065281 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MAAI--R---------------------V-----------------
+-----------------------LP-IT----------L----LL-LS-C-LV--T-----------F----QV-----S
+--------S------------------M--A---G-KVH--M--------------------------NKPDK-GL-IV-
+RL-----------Q-----------------------G------------EN----------------------------
+----------------SG-ELMDCWN---------------------------------------ALFE-LKSCTNEIVL
+FF-F------------------------------------------NR---------------DS-----YLSTDCCRAI
+RVI----T-LGCW---------------------P--S--MLTS-LGITSEEGDILRGYCGGA-PLP-------------
+-------------------------------------Q-P----T-----------------------------------
+-------------------------------------M-L-------EG-S----------KF
+>PRQ17678_Rosa_chinensis PRQ17678 pep chromosome:RchiOBHm-V2:7:15517450:15517854:-1 gene:RchiOBHm_Chr7g0197601 transcript:PRQ17678 gene_biotype:protein_coding transcript_biotype:protein_coding description:putative Prolamin-like domain-containing protein
+----------------------------------MASS--S---------------------K-----------------
+-----------------------LF-LL----------I----AL-LA-K-TM--P----------------FM------
+--------A------------------S--F---G-PLMNNPR-------I-----------------GSYPR-NL-AT-
+RL-----------N-----------------------L------------V-----------------------------
+-----------------G-ESSNCWD---------------------------------------SLLQ-LHACSGEVIL
+FF-F------------------------------------------NG---------------ET-----YLGHTCCEAI
+RMI----E-HQCW---------------------P--A--LLGT-LGFTTQETDVLKGYCDKA-DQIHS-----------
+-----P-----------P--S---P-------P----S-P----------------------------------------
+------------------------------------------------A-T----------LI
+>KRH63270_Glycine_max KRH63270 pep chromosome:Glycine_max_v2.1:4:41098678:41099094:-1 gene:GLYMA_04G164700 transcript:KRH63270 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MAYT--L---------------------N-----------------
+-----------------------PF-IL----------S----TL-LT-I-TA-LI-S--------SA----SM------
+--------V------------------E--S---R-PFS-----------------------------SPSSS-SL-AV-
+RL-----------K-----------------------T------------E-----------------------------
+-----------------G-ESSYCWD---------------------------------------SLWQ-LQACSGEIVT
+FF-L------------------------------------------NG---------------ET-----YLGHGCCQAI
+RVI----G-HDCW---------------------P--N--IVAS-LGFTNEETDVLEDYCDED-VVHSP-----------
+-----P------------------P-------P----P-P----Q--SI-------------------------------
+-----------------------------------D-N-P-------KY-I----------DP
+>Os11t0168000-01_Oryza_sativa Os11t0168000-01 pep chromosome:IRGSP-1.0:11:3288494:3289070:-1 gene:Os11g0168000 transcript:Os11t0168000-01 gene_biotype:protein_coding transcript_biotype:protein_coding description:Protein of unknown function DUF1278 family protein
+----------------------------------MALA--V---------------------K-----------------
+-----------------------LA-VL----------L----LL-AA-A-AA--G----------GS----ST------
+--------T------------------T--V---P-PLE-ERL-------------------------GAAFD-GM-AA-
+AA-----------E-----------------------G------------GGG---------------------------
+----------------GG-WMMECWS---------------------------------------AVTK-LGSCTNEIVL
+FF-V------------------------------------------NG---------------ES-----YLGPDCCVAI
+RTV----T-RRCW---------------------P--A--MLAS-IGFTAQEADILRGFCDAE-LAAPP-----------
+-----P--------------------------P----S-T----N--AS-------------------------------
+-------------------------SA----A---P-A-P-------AP-A----------SA
+>FvH4_5g02500.t1_Fvesca_677_v4 FvH4_5g02500.t1 pacid=50697046 transcript=FvH4_5g02500.t1 locus=FvH4_5g02500 ID=FvH4_5g02500.t1.v4.0.a2 annot-version=v4.0.a2
+----------------------------------MAST--S---------------------K-----------------
+-----------------------LF-FL----------I----AL-LA-V-SI--P----------------YM-----A
+--------S------------------S--S---R-PLM-NNP-------Q---------------I-GSNPR-NL-AS-
+RL-----------N-----------------------L------------D-----------------------------
+-----------------E-ESSNCWD---------------------------------------ALLQ-IHACSGEVIL
+FF-F------------------------------------------NG---------------EV-----YLGHSCCEAI
+RTI----E-HQCW---------------------P--A--LLGT-LGFTTQETDVLKGYCDKE-AQIHS-----------
+-----P-----------P--P---P-------P----S-R----A--TL-H---S--P----------------------
+-------------------------PP----P---L-S-P-------AT-L----------S*
+>Bradi4g24640.1.p_Bdistachyon_314_v3 Bradi4g24640.1.p pacid=32785919 transcript=Bradi4g24640.1 locus=Bradi4g24640 ID=Bradi4g24640.1.v3.1 annot-version=v3.1
+----------------------------------MAAA--A---------------------L-----------------
+-----------------------LI-PL----------L----AS-TL-L-VV--S----------------GA------
+--------T------------------A------A-SVS-S---------------------------GPALP-PL-AD-
+RV-----------R-----------------------L------------ASASFSSFPQTAGGEGEQQQ-G--------
+---------------GWS-WLAECWG---------------------------------------AVAE-LRACTDEMVL
+FF-L------------------------------------------NG---------------QS-----YLGRPCCLAI
+RTV----T-AHCW---------------------P--A--MLDA-VGFTAREADVLRGFCDAE-ISSGA-----------
+-----P-----------P--P---P-------P----S-P----A--TT-------------------------------
+-------------------------IT----A---P-A-P-------AK-H----------A*
+>OE9A117531C1_Olea_europaea OE9A117531C1 pep primary_assembly:OLEA9:2:2870237:2870885:-1 gene:OE9A117531 transcript:OE9A117531T1 gene_biotype:protein_coding transcript_biotype:protein_coding description:Egg cell-secreted protein 1.1 [Source:Projected from Arabidopsis thaliana (AT1G76750) UniProtKB/Swiss-Prot;Acc:Q9SRD8]
+----------------------------------MACT--S---------------------N-----------------
+-----------------------LL-AV----------M----LT-LL-L-VS-------------------TL------
+--------A------------------R--A---R-KL-------------------------------ESTS-TL-LA-
+RL-----------K-----------------------L------------DE----------------------------
+-----------------E-GSSSCWD---------------------------------------AMFE-LQSCSGEVVL
+FF-I------------------------------------------NG---------------ET-----HLGPRCCDAI
+RII----E-HQCW---------------------P--S--MLGS-LGITAEEGDILRGFCDAS-VDSGS-----------
+-----S--------------------------P----G-S----T--TL-T-----------------------------
+-------------------------TN----L---T-T-C-------PS-S----------TP
+>QL10p018382_mrna_CDS_2_Quercus_lobata QL10p018382:mrna:CDS:2 pep chromosome:ValleyOak3.0:10:18380679:18384186:1 gene:QL10p018382 transcript:QL10p018382:mrna gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MASQ--N---------------------L-----------------
+-----------------------FV-LL----------S----LA-CL-L-AM--T----------------NV------
+--------T------------------A--T---R-DLY-----------------------------IKPGH-RL-AT-
+RP-----------E-----------------------T------------SS----------------------------
+-----------------E-GLVPCWN---------------------------------------APWE-LKSCPNEIVV
+FF-L------------------------------------------NG---------------QT-----DIAPDCCRAI
+TII----T-HHCW---------------------P--A--MLTS-LGFTAEEGNILRGYCAAE-ASVPS-----------
+-----T------------------A-------P----P-L----G-----------------------------------
+---------------------------------------L-------PL-P----------RA
+>KRG91676_Glycine_max KRG91676 pep chromosome:Glycine_max_v2.1:20:40597824:40598249:-1 gene:GLYMA_20G168300 transcript:KRG91676 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MAST--H---------------------K-----------------
+-----------------------VF-AV----------T----IL-LL-A-VN-------------------MA------
+--------S------------------P--S---S-SS------------------------------SSSNT-SL-VA-
+RL-----------K-----------------------L------------D-----------------------------
+-----------------G-ESSNCWD---------------------------------------SLFE-LQACTGEVIT
+FF-L------------------------------------------NG---------------ET-----YLGPSCCQAI
+RIV----G-HDCW---------------------P--D--MIAS-LGFTTEEGDVLQGYCDSE-KEQLH-----------
+----SP-----------P--S---P-------T----S-P----T--TV-V---H--D----------------------
+-------------------------FD----D---A-T-T-------KV-L----------LP
+>Bradi1g65190.1.p_Bdistachyon_314_v3 Bradi1g65190.1.p pacid=32792514 transcript=Bradi1g65190.1 locus=Bradi1g65190 ID=Bradi1g65190.1.v3.1 annot-version=v3.1
+----------------------------------MASS--P---------------------SS----------------
+-----------------MASPRAFL-AV----------A----LM-AV-L-LA--V-----------S----TA------
+--------S------------------AAGA---Q-PPT-ATMMMA----A----A----------A-AAEGP-GL-AE-
+RL-----------I-----------------------G------------------------------------------
+-----------------E-GPQQCWE---------------------------------------SLME-IKSCTGEIIL
+FF-L------------------------------------------NG---------------EA-----YLGPGCCRAI
+RVI----E-QLCW---------------------AADA--MLSV-IGFTPEEGDMLKGYCDDG-EAHRQ-----------
+----HP-----------A--P---P-------P----H-P----A--LD-G---V-LP-T--------------------
+---G-AV-A-----------ASVAGRK----G---L-G-A-------PL-D----------G*
+>CDS_HanXRQr2_Chr02g0065251.1_Helianthus_annuus CDS:HanXRQr2_Chr02g0065251.1 pep primary_assembly:HanXRQr2.0-SUNRISE:2:100087838:100088233:-1 gene:HanXRQr2_Chr02g0065251 transcript:mRNA:HanXRQr2_Chr02g0065251 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MAAI--R---------------------V-----------------
+-----------------------LP-IT----------L----LL-LS-C-LV--T-----------F----QV-----S
+--------S------------------M--A---G-KVH--M--------------------------NKPDK-GL-IV-
+RL-----------Q-----------------------G------------EN----------------------------
+----------------SG-ELMDCWN---------------------------------------ALFE-LKSCTNEIVL
+FF-F------------------------------------------NG---------------DS-----YLSTDCCRAI
+RVI----T-LGCW---------------------P--S--MLTS-LGITSEEGDILRGYCGGA-PLP-------------
+-------------------------------------Q-P----T-----------------------------------
+-------------------------------------M-L-------EG-S----------KF
+>Kaladp0040s0523.1.v1.1.CDS.1_Kalanchoe_fedtschenkoi Kaladp0040s0523.1.v1.1.CDS.1 pep supercontig:K_fedtschenkoi_M2_v1:Scaffold_40:4687624:4688022:-1 gene:Kaladp0040s0523.v1.1 transcript:Kaladp0040s0523.1.v1.1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MSCN--T---------------------F-----------------
+-----------------------VF-VL----------T----LC-LF-S-A--------------------AA------
+--------T------------------S--S---R-PVL-R---------------------------VKPAS-TL-LA-
+RL-----------K-----------------------L------------DGE---------------------------
+----------------SS-SSTSCWD---------------------------------------SLFK-LQSCTGEVIL
+FF-L------------------------------------------NG---------------ET-----YLGKACCEAI
+QTI----E-HDCW---------------------P--T--MLTS-LGYTDEEGFVLQGYCDGV-KDGPV-----------
+-----T--------------------------P----I-H----R-----------------------------------
+-------------------------------------Q-L-------PP-H----------AK
+>cds.evm.model.01.1369_Cannabis_sativa_female cds.evm.model.01.1369 pep chromosome:cs10:1:28222687:28223799:1 gene:evm.TU.01.1369 transcript:evm.model.01.1369 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MATT--Q---------------------Y-----------------
+-----------------------SL-NN----------T----TL-LV-L-AL--V----------------FLALALPT
+--------S------------------M--A---R-VRN-D---------------------------HDDHN-EL-IF-
+RL-----------K-----------------------L------------DS----------------------------
+----------------SS-SSNNCWD---------------------------------------SLIE-LQSCTTEVIM
+FF-L------------------------------------------NG---------------ET-----YLGPSCCQAI
+RII----G-KQCW---------------------P--A--MFGT-IGFTNQEVDVLQDYCDDQ-QTTTT-----------
+-----K--------------------------T-----------------------------------------------
+-------------------------------------L-H-------GK-L----------FP
+>RZC68710_Papaver_somniferum RZC68710 pep chromosome:ASM357369v1:7:24164609:24165010:-1 gene:C5167_032515 transcript:RZC68710 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MLIA--V---------------------A-----------------
+-----------------------P-------------------SA-MD-N-IS-------------------TT------
+--------A------------------L--A---R-PLV-HVP-------A------------------GSPI-SL-AA-
+RL-----------Q-----------------------S------------T-----------------------------
+-----------------G-SYSECWD---------------------------------------SLME-LQACSGEVIL
+FF-L------------------------------------------NG---------------ET-----HLGTSCCQAI
+LII----Q-NSCW---------------------P--A--MLGS-LGFTQEEGDILHGYCDAS-ANGND-----------
+-----V-----------V--R---S-------P----LLP----S--T--------------------------------
+-------------------------------------V-P-------IV-K----------GA
+>ONH90434_Prunus_persica ONH90434 pep chromosome:Prunus_persica_NCBIv2:G8:5964102:5965207:1 gene:PRUPE_8G053400 transcript:ONH90434 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MAAY--T---------------------T-----------------
+-----------------------FK-IF----------L--LTAL-LA-L-TM--P-----------F----LA------
+--------T------------------S--A---R-PLN-PNL-------------------------IRLNL-NL-AA-
+RL-----------N-----------------------L------------N-----------------------------
+-----------------E-ESSNCWD---------------------------------------SF-------------
+---------------------------------------------------------------------------CCEAI
+RAI----E-HQCW---------------------P--V--LLGT-LGFTAEEADVLKGYCDEA-DYIKS-----------
+-----P-----------P--S-N-P-------P----S-P----P--SS-H---D--P-T--------------------
+--------N--------------------------T-Q-N-------TK-Y----------SS
+>Kaladp0026s0134.1.v1.1.CDS.1_Kalanchoe_fedtschenkoi Kaladp0026s0134.1.v1.1.CDS.1 pep supercontig:K_fedtschenkoi_M2_v1:Scaffold_26:1125565:1125984:1 gene:Kaladp0026s0134.v1.1 transcript:Kaladp0026s0134.1.v1.1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MLPL--V---------------------F-----------------
+------------------------V-LT---------------AC-LS-I-SS--------------------V------
+--------S------------------P--T---R-NT---PT-------L----L------------HPTPS-TM-AA-
+RL-----------E-----------------------D------------A-----------------------------
+-----------------G-GITQCWN---------------------------------------ALLQ-LRSCSNEVIA
+FF-L------------------------------------------NG---------------HT-----DLGADCCKAI
+TII----T-RDCW---------------------P--A--MLSS-LGFTAEEGNVLRGYCDGS-GHDTT-----------
+-----P-----------A--A---P-------P----L-H----A--PS-P-----------------------------
+-------------------------SA----V---L-Q-D-------FT-S----------ST
+>RZC55281_Papaver_somniferum RZC55281 pep chromosome:ASM357369v1:3:123509406:123509864:1 gene:C5167_014141 transcript:RZC55281 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MALI--N---------------------S-----------------
+-----------------------KL-VL----------S--L-TI-SA-L-MV--S----------SS----TF------
+--------V------------------A--A---R-EVP-ATI-------------------------HHPGH-NL-AA-
+RI-----------N-----------------------A------------DD----------------------------
+----------------GA-GMVECWN---------------------------------------ALYE-LRSCTNEIIL
+FF-M------------------------------------------DG---------------EM-----YLGLECCRAI
+RII----T-RECW---------------------P--S--MLTS-VGFTAEEGDILRGYCDAP-HSAAP-----------
+-----R--------------S---S-------P----V-A----MLPPA-H---A--P-A--------------------
+--------Q----------------SP-ISGP---S-T-A----------------------P
+>SIN_1014976.t.cds1_Sesamum_indicum SIN_1014976.t.cds1 pep chromosome:S_indicum_v1.0:LG9:8579669:8580061:-1 gene:SIN_1014976 transcript:SIN_1014976.t gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MAAK--G---------------------F-----------------
+-----------------------LF-LL----------T----IT-TA-L-LM-------------------SS------
+--------F------------------Q--A---R-ELP-FP--------------------------QAPDH-NP-TP-
+EL-----------Q------------------------------------------------------------------
+-----------------G-SALDCLT---------------------------------------ALYK-IRSCSNEIIA
+YF-S------------------------------------------NG---------------TI-----DITPPCCQAI
+TLI----T-HSCW---------------------P--A--VLSI-LGYSPDQASILRGYCDAV-ASEVA-----------
+-----Q--------------F---G-------P----V-P----S-----------------------------------
+---------------------------------------P-------LG-Q----------PL
+>KRH43377_Glycine_max KRH43377 pep chromosome:Glycine_max_v2.1:8:11088887:11089249:1 gene:GLYMA_08G145800 transcript:KRH43377 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MALK--H---------------------R-----------------
+-----------------------VF-LL----------A----LA-CF-L-AY--------------------G------
+--------T------------------A--T---R---------------------------------------DL-AM-
+KS-----------P-----------------------K------------------------------------------
+-----------------E-NHVECWS---------------------------------------NLIV-LKSCSNEIMH
+FF-I------------------------------------------NG---------------QA-----DIGPNCCCAI
+RVI----T-HDCW---------------------P--E--MLTS-LGYSYHEALSIRGYCDAA-ASSPA-----------
+-----L------------------A-------P----T-T----D-----------------------------------
+-------------------------------------G-P-------AN-P----------IY
+>CDS_MD01G0004200.1_Malus_domestica_golden CDS:MD01G0004200.1 pep chromosome:ASM211411v1:1:1898399:1898851:1 gene:MD01G0004200 transcript:mRNA:MD01G0004200 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MASL--N---------------------V-----------------
+-----------------------AF-PV----------A----VC-LI-F-LG--A-----------D----HA------
+--------L------------------A--A---R-NVI-NPM-----------------------Q-PGYNI-PI-AA-
+RI-----------K-----------------------T------------GNEG--------------------------
+----------------DG-RLANCWN---------------------------------------ALVE-LKSCSNEVVL
+FF-L------------------------------------------NG---------------QA-----DIGPDCCKAI
+ATI----T-RHCW---------------------P--A--MLTS-IGFTAEEGNILRGYCDAA-ASATS-----------
+-----T---N-------S--S---A-------P----S-S----P--PL-A---A-------------------------
+-------------------------AA----T---T-P-V-------PP------------AH
+>Aco010349.1.mrna1_Ananas_comosus Aco010349.1.mrna1 pep supercontig:F153:contig25:9559917:9567473:-1 gene:Aco010349.1.path1 transcript:Aco010349.1.mrna1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MVDL--L---------------------I-----------------
+-----------------------HI-RA----------I----HQ-QI-R-AS-------------------N-------
+--------L------------------Q-------------------------------------------QA-DL-TI-
+RH-----------E-----------------------T------------ESNT-----------------DRSRENELK
+SRDRERERLPVRSRVFPR-STVDEWGGESGIGVSVGVLEFQPREMRVRVRALEDERRPYGAMVHRLYRE-ARFCHRNVVP
+HN-VGPTRILPRNRARSDVVEGSTRRPDRPFGPPAVGRHEAVLGLAGGAPVVHGGGDPLLPQRRN-----VPGPKLLPGH
+SRI----E-HHCW---------------------A--TDVLLAS-LGFMAQEGDICAATAIQQ-TI--------------
+-----P--------------------------P----T-R----R--RR-RRCRR--P-RRLSLQGEHPTRIEKCCLVFL
+TVKVVAYAH----------------NV----Y---K-N-F-------TI-S----------LI
+>EOX92363_Theobroma_cacao EOX92363 pep chromosome:Theobroma_cacao_20110822:1:6461872:6462481:1 gene:TCM_001312 transcript:EOX92363 gene_biotype:protein_coding transcript_biotype:protein_coding description:Uncharacterized protein
+----------------------------------MALK--N---------------------V-----------------
+-----------------------FL-LF----------V----LV-CL-L-A--------------------SA------
+--------T------------------A--A---R-DLS-SK--------------------------SKPGH-NL-AA-
+RL-----------E-----------------------A------------S-----------------------------
+-----------------G-GLVECWN---------------------------------------ALNE-LKSCTNEIVL
+FF-I------------------------------------------NG---------------QT-----DIGPDCCRAI
+EVI----T-RNCW---------------------P--A--MLTS-LGFTSEEGNILRGYCDAS-SGPAA-----------
+-----A------------------A-------P----L-A----G--Y--------------------------------
+-----------------------------------P-V-S-------AE-V----------FI
+>PNT20170_Populus_trichocarpa PNT20170 pep chromosome:Pop_tri_v3:9:7446378:7446812:-1 gene:POPTR_009G077000v3 transcript:PNT20170 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MAFN--L---------------------M-----------------
+-----------------------LF-LL----------V----AF-SA-C-CS--S-L--------DCNKATAT------
+--------A------------------T--A---R-PL-------------------------------ASAS-NL-TV-
+RL-----------K-----------------------L------------D-----------------------------
+-----------------E-ESSSCWD---------------------------------------SLIQ-LQACTGEIIL
+FF-L------------------------------------------NG---------------ET-----QLGHSCCQAL
+HTI----G-EHCW---------------------P--N--MIDT-LGFTTEEGQILEGYCDKA-TDSKD-----------
+-----P--------------Y---A-------P----S-V----T--N--------------------------------
+-------------------------------V---V-P-K-------QP-L----------LP
+>Aco018685.1.mrna1.cds1_Ananas_comosus Aco018685.1.mrna1.cds1 pep supercontig:F153:contig15:4486945:4487370:1 gene:Aco018685.1.path1 transcript:Aco018685.1.mrna1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MASL--F---------------------K-----------------
+-----------------------LS-IF----------I----LL-AA-S-SL--A-T--------VP----AP------
+--------T------------------S--S---E-APP------------------------------VSPI-GL-SA-
+RL-----------Q-----------------------S------------------------------------------
+-----------------D-GLTQCWD---------------------------------------SLVE-LRSCTGEVIL
+FF-L------------------------------------------NG---------------ET-----YLGPSCCRAI
+RVI----E-HHCW---------------------A--ADVLLAS-LGFTAQEGDILRGYCDAA-DDSSD-----------
+-----P-----------S--T-P-Q-------P----P-P----A--PP-------------------------------
+-------------------------------S---I-S-P-------GP-S----------SH
+>cds-PLY89774.1_Lactuca_sativa cds-PLY89774.1 pep primary_assembly:Lsat_Salinas_v7:1:7382584:7382979:1 gene:gene-LSAT_1X6241 transcript:rna-gnl|WGS:NBSK|LSAT_1X6241_mrna gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MSTI--K---------------------V-----------------
+-----------------------LL-IS----------L----LL-LS-F-LV--T-----------T----EV-----G
+--------S------------------T--A---L-KMH--V--------------------------IKPGE-GL-VA-
+RL-----------Q-----------------------G------------EK----------------------------
+----------------DG-GLMDCWN---------------------------------------ALLE-LKSCTNEIIL
+FF-L------------------------------------------NG---------------DS-----YLTMECCRAI
+RVI----T-YGCW---------------------P--S--MLTS-LGFTSEEGDILKGYCGGS-PLP-------------
+-------------------------------------Q-P----V-----------------------------------
+-------------------------------------M-L-------EG-L----------HV
+>NC11G0118510.1_cds_Nymphaea_colorata NC11G0118510.1:cds pep chromosome:ASM883128v1:11:1627785:1628171:1 gene:NC11G0118510 transcript:NC11G0118510.1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MASI--T---------------------K-----------------
+-----------------------MA-IF----------M----LL-VG-L-LL-------------------P-------
+--------A------------------S--G---R-QLP--------------------------------FQ-AA-VA-
+TI-----------E-----------------------G------------G-----------------------------
+-----------------G-GLMQCWE---------------------------------------ALWE-LRSCSAEIIL
+FF-L------------------------------------------NG---------------ES-----YLGMGCCGAI
+RMI----T-YNCW---------------------P--S--MLSS-LGFTAEEGDILKGYCGAI-VATPP-----------
+-----E------------------S-------G----D-G----G--A--------------------------------
+-----------------------------------V-P-P-------VG-P----------MI
+>TraesCS4D02G109400.1.cds1_Triticum_aestivum TraesCS4D02G109400.1.cds1 pep chromosome:IWGSC:4D:88471869:88472333:1 gene:TraesCS4D02G109400 transcript:TraesCS4D02G109400.1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MAPV--V---------------------K-----------------
+-----------------------FV-VA----------A----LL-VF-V-AI--A-G-PGGVGVASA----TT------
+--------G------------------A--A---G-PAA-----------------------------APSPA-PL-VA-
+RL-----------H-----------------------LALSGMEAE-QQGG-----------------------------
+-----------------G-WMMECWG---------------------------------------AVTE-LRSCTSEIVL
+FF-L------------------------------------------NG---------------ES-----YLGHDCCIAI
+RTV----T-LHCW---------------------P--S--MLAS-IGLTAQEADILRGFCDAE-IPHAP-----------
+-----P------------------P-------P----A-P----A--AV-------------------------------
+-------------------------------------P-A-------PA-A----------QP
+>TraesCS7B02G351400.1.cds1_Triticum_aestivum TraesCS7B02G351400.1.cds1 pep chromosome:IWGSC:7B:608375332:608375784:1 gene:TraesCS7B02G351400 transcript:TraesCS7B02G351400.1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MASS--G---------------------S-----------------
+-----------------------LH-PT----------L----LV-LLLL-TV--A----------------AT-----A
+--------S------------------T--T---T-TFV-RA--------------------------GAPPA-DL-AE-
+RL-----------Q-----------------------G------------------------------------------
+-----------------V-GQQQCWE---------------------------------------ILMD-IRSCTGEIIL
+FF-L------------------------------------------NG---------------EA-----YLGPGCCRAI
+RAI----E-QRCW---------------------AADA--MLSV-IGFTAEEGDMLKGYCDAG-DDGNA-----------
+-----G-----------K--G---QRHGIRGTL----A-A----A--AV-------------------------------
+--------------------------V----A---G-R-K-------GL-G----------AP
+>FvH4_2g18870.t1_Fvesca_677_v4 FvH4_2g18870.t1 pacid=50660885 transcript=FvH4_2g18870.t1 locus=FvH4_2g18870 ID=FvH4_2g18870.t1.v4.0.a2 annot-version=v4.0.a2
+----------------------------------MAST--S---------------------K-----------------
+-----------------------LF-LL----------T----AL-LV-L-TM--P----------FM----VS------
+--------S------------------T--S---R-PLN-YP--------------------------TRSKS-NL-AA-
+RL-----------K-----------------------L------------D-----------------------------
+-----------------E-ESSTCWE---------------------------------------SLFQ-FQACSKEVVL
+FF-L------------------------------------------NG---------------ET-----SLGEGCCKAL
+STI----E-HLCW---------------------P--A--LLGS-LGLTTEETDILKGYCDEA-AQIQS-----------
+-----P-----------P--T---S-------P----S-P----P--SV-------------------------------
+-------------------------------------H-Q-------PT-G----------N*
+>EOY04380_Theobroma_cacao EOY04380 pep chromosome:Theobroma_cacao_20110822:4:24106986:24107580:1 gene:TCM_019646 transcript:EOY04380 gene_biotype:protein_coding transcript_biotype:protein_coding description:Uncharacterized protein
+----------------------------------MIMACKN---------------------V-----------------
+-----------------------FV-LL----------F----IL-CV-L-AS-------------------SA------
+--------A------------------A--A---R-ELN-GYN-------------------------KASGHNHL-TA-
+RH-----------E-----------------------V------------N-----------------------------
+-----------------I-DSYKCWN---------------------------------------ALSQ-LNYCTMEIFR
+FF-L------------------------------------------NG---------------HS-----GITRDCCGAI
+QDI----Y--DCD---------------------P--I--VLIS-LGFTSEQDNILLDYCYAS-FGPVV-----------
+-----D--------------------------P----L-V----G--S--------------------------------
+-----------------------------------P-L-S-------AE-A----------LI
+>KMT04640_Beta_vulgaris KMT04640 pep chromosome:RefBeet-1.2.2:8:2703558:2704136:-1 gene:BVRB_8g182930 transcript:KMT04640 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MAIK--T---------------------G-----------------
+-----------------------IF-VL----------L----TI-AF-L-MP--N----------------SA------
+--------T------------------S--A---R-DFP-VAD-------------------------NPTIL-DL-AT-
+RL-----------Q-----------------------A------------TSNG-----------------T--------
+---------------TTT-TTSDCWS---------------------------------------SLSE-LRTCSNEIIG
+FF-L------------------------------------------NG---------------YT-----DIDEPCCQAI
+EVI----I-HHCW---------------------P--S--MLSV-LGFTVEEGNLLAAYCNKF-SAAAP-----------
+-----V--------------G---A-------P----P-E----T-----------------------------------
+-----------------------------------E-T-T-------AS-S----------HF
+>Aco016990.1.mrna1.cds1_Ananas_comosus Aco016990.1.mrna1.cds1 pep supercontig:F153:contig9:13456203:13456580:-1 gene:Aco016990.1.path1 transcript:Aco016990.1.mrna1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MP--------------------------------------------
+------------------------------------------------------------------------AP------
+--------T------------------S--S---E-ARP------------------------------VGPI-GL-SA-
+RL-----------Q-----------------------S------------------------------------------
+-----------------N-GMKQCWD---------------------------------------SLVE-LQSCTGEVIL
+FF-L------------------------------------------NG---------------ET-----YLGPSCCRAI
+RVI----E-HHCW---------------------A--TDVLLAS-LGFTAQEGDILRGYCDPT-NDSFD-----------
+-----P-----------S--T-P-T-------P----T-PTSPPA--SP-------------------------------
+-------------------------------S---I-S-P-------GP-A----------SH
+>RHC04H1G2339.2.1.cds.1_Solanum_tuberosum_rh8903916 RHC04H1G2339.2.1.cds.1 pep primary_assembly:ASM1418947v1:4:74288737:74289129:-1 gene:RHC04H1G2339.2 transcript:RHC04H1G2339.2.1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MAPF--K---------------------L-----------------
+-----------------------SL-IL----------L----VS-WL-L-TT-------------------TT------
+--------I------------------A------A-NMS-K---------------------------IKPGQ-GI-AA-
+RL-----------Q-----------------------V------------LEGG---------------DGG--------
+---------------GEA-SMPVCWN---------------------------------------ALFE-LKSCTNEIIL
+FF-F------------------------------------------NG---------------ES-----YLGKDCCRAI
+RTI----T-YNCW---------------------P--S--MLSS-VGFTAEEVDILRGYCGTP-SPES------------
+--------------------------------------------------------------------------------
+---------------------------------------A-------VE-F----------NV
+>CDS_HanXRQr2_Chr15g0708181.1_Helianthus_annuus CDS:HanXRQr2_Chr15g0708181.1 pep primary_assembly:HanXRQr2.0-SUNRISE:15:111090264:111090785:-1 gene:HanXRQr2_Chr15g0708181 transcript:mRNA:HanXRQr2_Chr15g0708181 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MTMA--S---------------------H-----------------
+-----------------------HH-LT----------PL-ITFT-TC-I-IL--A----------------YT------
+--------G------------------S--S---R-DIF-VPL-------------------------VVNSG-TN-NT-
+VV-----------N-----------------------G------------T-----------------------------
+-----------------Q-NNSDCWT---------------------------------------ALYE-VKSCRNEITS
+YI-K------------------------------------------NG---------------TM-----DIGGSCCQAI
+KTI----T-HDCW---------------------I--N--LLNV-VGIPVKESNVLRGYCDVN-SSSTP-----------
+-----V--------------T---D-------P----V-S----C--QV-L---S--E-P--------------------
+-------------------------TS----V---N-I-S-------NG-T----------TV
+>HORVU4Hr1G055410.3_Hordeum_vulgare HORVU4Hr1G055410.3 pep chromosome:IBSC_v2:chr4H:464139735:464140232:-1 gene:HORVU4Hr1G055410 transcript:HORVU4Hr1G055410.3 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MASS--G---------------------S-----------------
+-----------------------LL-PT----------L----LV-LL-A-VA--T----------------TA------
+--------S------------------A--A---M-TTA-----------------------------FVGAA-DL-SE-
+RL-----------E-----------------------G------------------------------------------
+-----------------A-GSQQCWE---------------------------------------TLLD-IKSCTGEIIL
+FF-L------------------------------------------NG---------------EA-----YLGPGCCRAI
+RVV----E-QRCW---------------------A--ADLMLSV-IGFTPEEGDMLKGYCDAG-DDGDN-----------
+-----N------------------A-------P-----------------------------------------------
+--------------------------------------------------P----------CS
+>PNT57551_Populus_trichocarpa PNT57551 pep chromosome:Pop_tri_v3:1:30972858:30973250:1 gene:POPTR_001G306700v3 transcript:PNT57551 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MDFS--F---------------------K-----------------
+-----------------------LL-LT----------F-----F-LT-C-ST--A----------SM----PM------
+--------M------------------A--A---H-PQ------------------------------VSTHT-TL-AT-
+RL-----------R-----------------------L------------D-----------------------------
+-----------------N-EETTCWG---------------------------------------SLLH-LQSCISNVLL
+FF-L------------------------------------------NG---------------ET-----YLRPSCCHAI
+RII----G-HHCW---------------------P--S--MLAS-LGFTVQEGDILLGYCDAT-AHSSS-----------
+-----P------------------P-------P----E-P----I-----------------------------------
+---------------------------------------F-------FP-N----------HT
+>NC4G0237690.1_cds_Nymphaea_colorata NC4G0237690.1:cds pep chromosome:ASM883128v1:4:26726408:26726587:-1 gene:NC4G0237690 transcript:NC4G0237690.1 gene_biotype:protein_coding transcript_biotype:protein_coding
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-------------------------------------------------------------------------MSCCGAI
+RMI----T-YNCW---------------------P--S--MLSS-LGFTAKEGNILEGYCGAI-VTMLP-----------
+-----E------------------S-------G----D-G----G--A--------------------------------
+-----------------------------------V-P-P-------VG-P----------MV
+>HORVU7Hr1G101980.1_Hordeum_vulgare HORVU7Hr1G101980.1 pep chromosome:IBSC_v2:chr7H:610995259:610995996:1 gene:HORVU7Hr1G101980 transcript:HORVU7Hr1G101980.1 gene_biotype:protein_coding transcript_biotype:protein_coding description:Predicted protein [Source:UniProtKB/TrEMBL;Acc:F2E343]
+----------------------------------MASS--G---------------------P-----------------
+-----------------------LL-PT----------L----LV-LL-A-AA--A-A--------TA----SA------
+--------A------------------G--A---R-PAS-TTT-------A----T----------T-FVRAA-DL-AD-
+RL-----------E-----------------------G------------------------------------------
+-----------------A-VSQQCWE---------------------------------------TLLH-IKSCTGEIIL
+FF-L------------------------------------------NG---------------EA-----YLGPGCCRAI
+RAI----E-QRCW---------------------A--ADLMLSV-IGFTPEEGDMLKGYCDAG-DDDNN-----------
+-----N---GPRH-SFGG--S---S-------P----A-P----P--PR-R---A-LGAD--------------------
+GVATGAGTV-------------AAAAG----R---K-G-L-------GA-P----------VG
+>Solyc04g071640.1.1.1_Solanum_lycopersicum Solyc04g071640.1.1.1 pep chromosome:SL3.0:4:58692824:58693213:-1 gene:Solyc04g071640.1 transcript:Solyc04g071640.1.1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MTPL--K---------------------L-----------------
+-----------------------SI-IL----------L----VS-WL-L-TT-------------------TT------
+--------I------------------A------T-NMS-K---------------------------IKPGQ-GI-AA-
+RL-----------Q-----------------------L------------LEGG---------------D-G--------
+---------------GGA-SMPVCWN---------------------------------------ALFE-LKSCTNEIVL
+FF-F------------------------------------------NG---------------ES-----YLGKDCCKAI
+RTI----T-YNCW---------------------P--S--MLSS-VGFTAEEVDVLRGYCGTP-SPES------------
+--------------------------------------------------------------------------------
+---------------------------------------A-------VE-I----------TV
+>RZC57075_Papaver_somniferum RZC57075 pep chromosome:ASM357369v1:4:3125473:3125721:-1 gene:C5167_004379 transcript:RZC57075 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+---M------------------------------------------DG---------------QM-----YLGIECCRAI
+RII----T-RECW---------------------P--S--MLTS-VGFTAEEGDILRGYCDAS-HSTAS-----------
+-----R--------------S---S-------P----V-G----MFPPV-Q--IT--P-A--------------------
+--------H----------------SP-FLGP---T-T---------TP-A----------VV
+>RHC11H1G0775.2.1.cds.1_Solanum_tuberosum_rh8903916 RHC11H1G0775.2.1.cds.1 pep primary_assembly:ASM1418947v1:11:10705481:10705876:1 gene:RHC11H1G0775.2 transcript:RHC11H1G0775.2.1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MMNS--T---------------------L-----------------
+-----------------------M--IF----------K--I-VL-LL-T-LV--S----------WI----NI------
+--------L------------------Q--A---R-PLT-TSS-------------------------TGRTT-TL-MT-
+RL-----------K-----------------------L------------QDE---------------------------
+----------------EE-DSSECWD---------------------------------------SLFE-LQACTGEIVL
+FF-V------------------------------------------NG---------------ET-----YLGQNCCGAI
+RII----E-RQCW---------------------P--S--MLSS-LGFTSEEGDILHGYCDAS-ESPST-----------
+--------------------------------------------------------------------------------
+-----------------------------------------------PN-L----------AP
+>RZC49191_Papaver_somniferum RZC49191 pep chromosome:ASM357369v1:2:39764163:39764636:1 gene:C5167_017618 transcript:RZC49191 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MALI--N---------------------S-----------------
+-----------------------KL-VL----------L--L-AI-SA-L-MV--S----------SS----SF------
+--------V------------------A--A---R-EVP-TTI-------------------------HYPGH-NL-AA-
+RI-----------N-----------------------A------------DD----------------------------
+----------------GA-GMVECWN---------------------------------------ALYE-LRSCTNEIIL
+FF-M------------------------------------------DG---------------EM-----YLGLECCRAI
+RII----T-R-------------------------------------FTAEEGDILRGYCDAP-HSAAP-----------
+-----R--------------S---S-------P----V-T----MLPPV-Q---A--P-A--------------------
+--------Q----------------SP-ISEP---S-TAN-------FP-S----------DD
+>HORVU7Hr1G102010.1_Hordeum_vulgare HORVU7Hr1G102010.1 pep chromosome:IBSC_v2:chr7H:611048944:611049445:-1 gene:HORVU7Hr1G102010 transcript:HORVU7Hr1G102010.1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MASS--G---------------------S-----------------
+-----------------------LL-PA----------L----LA-LLLL-AV--A----------------PA------
+--------A------------------S--ATTAT-VFA-RA--------------------------AAPAS-DL-AE-
+RL-----------Q-----------------------G------------------------------------------
+-----------------V-GQQQCWE---------------------------------------MLMD-VRSCTGEIIL
+FF-L------------------------------------------NG---------------EA-----YLGPGCCRAV
+RAV----V-ESCW---------------------A--ADDMLSV-IGFTAEEGDMLKGYCDAG-DDGKG-----------
+--------------------------------------------------------------------------------
+-----------------------------------------------GE-G----------HH
+>KGN64837_Cucumis_sativus KGN64837 pep chromosome:ASM407v2:1:9253675:9254025:1 gene:Csa_1G124010 transcript:KGN64837 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MVES--R---------------------------------------
+--------------------------------------------------------------------------------
+------------------------------------P--------------------------------DPKT-SL-AT-
+RL-----------K-----------------------L------------D-----------------------------
+-----------------S-ETSDCWG---------------------------------------TLHE-LQACTGEVVT
+FF-L------------------------------------------TG---------------ET-----YLGSNCCQAI
+KVI----Q-HECW---------------------P--T--LLAS-LGYTTEEGDVLEAYCDTT-IDTIK-----------
+-----T-----------S--S---S-------P----L-S----L--SI-E-----------------------------
+-------------------------Q-----N---N-M-P-------KS-I----------AP
+>QL10p018395_mrna_CDS_1_Quercus_lobata QL10p018395:mrna:CDS:1 pep chromosome:ValleyOak3.0:10:18394609:18395390:1 gene:QL10p018395 transcript:QL10p018395:mrna gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MAYS--F---------------------N-----------------
+-----------------------LF-LT----------L-----F-LT-F-SM--A----------------FL------
+--------A------------------M--A---G-PL-------------------------------NSPS-TL-AT-
+RL-----------K-----------------------L------------------------------------------
+-----------------D-NQNNCWE---------------------------------------SLFE-LQSCSGEAIL
+FF-L------------------------------------------NG---------------ET-----YLGSNCCRAI
+RII----Q-HECW---------------------P--A--MMGS-LGFTEQEGDILFGYCDAS-EEDDS-----------
+-----T-----------T--AQT-L-------P----L-L----------------------------------------
+-------------------------------------S-P-------TP-I----------EG
+>Bo6g083750.1_Brassica_oleracea Bo6g083750.1 pep chromosome:BOL:C6:26292083:26292496:-1 gene:Bo6g083750 transcript:Bo6g083750.1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MATK--P---------------------T-----------------
+-----------------------FA-VS----------FT-VMLV-LM-V-TS-------------------ST------
+--------V------------------T--A---R-PLM-KPT-------V----G----------A-PSPST-SL-VY-
+RL-----------R-----------------------L------------D-----------------------------
+-----------------E-ETGYCWD---------------------------------------SLMQ-LQHCSGELIL
+FF-L------------------------------------------NG---------------ET-----YIGPGCCSAI
+RTV----G-SKCW---------------------P--T--MIGV-LGFTAQEGDMLQGYCDDE-HDE------------H
+----AL-----------A--F---S-------P----L-P----------------------------------------
+------------------------------------------------T-T----------VA
+>OIT31467_Nicotiana_attenuata OIT31467 pep supercontig:NIATTr2:scaffold01266:75575:76079:-1 gene:A4A49_17836 transcript:OIT31467 gene_biotype:protein_coding transcript_biotype:protein_coding gene_symbol:EC1.4 description:egg cell-secreted protein 1.4
+----------------------------------MAPF--K---------------------L-----------------
+-----------------------PL-VL----------L----IS-WL-L-TT--T-----------T----TT------
+--------T------------------M--A---I-NLS-K---------------------------MKLGQ-DI-VA-
+RL-----------Q-----------------------L------------GE----------------------------
+-----------------G-SMPVCWN---------------------------------------ALFE-IKSCTNEIIL
+FF-F------------------------------------------NG---------------ES-----YLGKDCCKAI
+RTI----T-YNCW---------------------P--S--MLTS-IGFTAEEVDILRGYCGTP-SPQ-------------
+---------------------------------------P----A-----------------------------------
+-----------------------------------------------VA-I----------KV
+>KGN64838_Cucumis_sativus KGN64838 pep chromosome:ASM407v2:1:9256288:9256716:1 gene:Csa_1G124020 transcript:KGN64838 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MASL--L---------------------K-----------------
+-----------------------LL-IA----------T----SF-LA-H-MF--F----------------FT------
+--------V------------------E--S---S---------------------------------PNPKS-SL-AT-
+RI-----------K-----------------------L------------E-----------------------------
+-----------------G-ETSDCWG---------------------------------------SLYE-LQACTGEVIT
+FF-L------------------------------------------SG---------------EA-----YLGVKCCQAI
+RTI----Q-HECW---------------------P--T--LLGS-LGYTTEEGDILEAYCDTT-VDVDR-----------
+-----L-----------FTIS---S-------P----K-L----A--MAPS---I--K----------------------
+-------------------------RM----N---Y-E-P-------KI-S----------LP
+>OAY36032_Manihot_esculenta OAY36032 pep chromosome:Manihot_esculenta_v6:LG12:30806808:30807215:-1 gene:MANES_12G150000 transcript:OAY36032 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MAFK--T---------------------M-----------------
+-----------------------SL-FL----------G----LV-LV-S-VV--A----------------SE------
+--------A------------------S--A---R-DLF---------------------------------I-NT-ET-
+RV-----------E-----------------------A------------SN----------------------------
+-----------------D-NLVDCWN---------------------------------------ALLE-IKTCSNEIVL
+FF-L------------------------------------------NG---------------TT-----DIGPECCRSI
+AVI----T-RNCW---------------------P--A--MLTS-LGFTAEEGNILRGYCDAA-AASSP-----------
+-----P------------------P-------A----S-P----P--LA-A-----------------------------
+-------------------------GS----P---L-Q-Y-------QP-Q----------PN
+>RZC62100_Papaver_somniferum RZC62100 pep chromosome:ASM357369v1:5:137839296:137839751:1 gene:C5167_023862 transcript:RZC62100 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MAAA--Y---------------------S-----------------
+-----------------------SS-SK----------LL-FTML-IA-I-TP-------------------ST----MD
+SNKIGTTGV------------------L--A---R-PSS-DIQ-------------------------TATPI-SL-AA-
+RL-----------Q-----------------------S------------D-----------------------------
+-----------------G-SYSECWD---------------------------------------SLTE-LQACTGEVIL
+SF-L------------------------------------------NG---------------ET-----HLGLNCCRAI
+HII----Q-HNCW---------------------S--H--MLGS-LGFTEEEGNILRGYCDST-AEVAP-----------
+--------------------A---P-------P----S-P----P--SM-------------------------------
+-------------------------VP--------L-V-K-------ND-L----------KP
+>Bo2g088760.1_Brassica_oleracea Bo2g088760.1 pep chromosome:BOL:C2:24151271:24152272:1 gene:Bo2g088760 transcript:Bo2g088760.1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MFLF--L---------------------DRTVDEHNPKRVGSCQRD
+ADRDCFESNQIELQEVAHAQFDEWV-LV----------L----MK-TRCL-DN--Q----------AS----DV------
+--------T------------------P--F---R-LIR-ENN----VEEV----GFDISTTHEANR-WCTHL-LL-PQ-
+AL-----------S-----------------------T------A----DE-----------------------------
+-----------------E-ETGYCWD---------------------------------------SLMQ-LQHCW-----
+--------------------------------------------------------------------------------
+----------RCW---------------------S--T--MIGALLGFTPQEGDVLQGYSDDD-NDSDH-----------
+-----K---K-GDEHALA--S---S-------P----L-P----L--SL-K-----------------------------
+-------------------------------F---K-P-S-------NV-V----------NP
+>Csa09g081500.1.cds1_Camelina_sativa Csa09g081500.1.cds1 pep chromosome:Cs:9:30963380:30963838:1 gene:Csa09g081500 transcript:Csa09g081500.1 gene_biotype:protein_coding transcript_biotype:protein_coding description:Egg cell-secreted protein 1.1 [Source:Projected from Arabidopsis thaliana (AT1G76750) UniProtKB/Swiss-Prot;Acc:Q9SRD8]
+----------------------------------MAIK--S---------------------S-----------------
+-----------------------FM-VT----------T----LM-LM-V-AS-------------------SI------
+--------V------------------T--A---R-PLM-KPS-------V----G----------S-SSSPT-SL-VY-
+RL-----------R-----------------------L------------D-----------------------------
+-----------------E-DTGYCWD---------------------------------------SLMQ-LQHCSGELIL
+FF-L------------------------------------------NG---------------ET-----YIGPGCCSAI
+KTV----G-RKCW---------------------P--T--MIGV-LGFTAQEGDMLQGYCDGH-DSDNN-G-E-----DH
+----AL-----------A--S---S-------P----L-P----L--SV-N---Y--N----------------------
+-------------------------KP----T---V-A-R-------SF-Y----------NP
+>KJB57150_Gossypium_raimondii KJB57150 pep chromosome:Graimondii2_0_v6:9:11416513:11417248:1 gene:B456_009G150400 transcript:KJB57150 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MGST--F---------------------R-----------------
+-----------------------VF-FF----------A----LL-LL-S-SL--L----------------FM------
+--------A------------------K--A---R-PLD-LP--------------------------KTTTS-DL-LA-
+RL-----------K-----------------------L------------D-----------------------------
+-----------------E-ESPDCWS---------------------------------------SLIQ-LQSCTGELIM
+FF-L------------------------------------------NG---------------ET-----EIGKSCCLAI
+RTI----S-HLCW---------------------P--T--MIDA-LGFTAEESHVIEGYCDHE-DDRSP-----------
+--------------------------------P----S------I--AL-T-----------------------------
+-------------------------DE----I---G-S-S-------NL-F----------NP
+>PNT12323_Populus_trichocarpa PNT12323 pep chromosome:Pop_tri_v3:11:7771088:7771219:1 gene:POPTR_011G078400v3 transcript:PNT12323 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-----------------------------------------------FNTEESQILEGYCDKA-VDSTA-----------
+-----P--------------S---P-------P----A-A----P--SV-V---P-------------------------
+-------------------------VK----I---V-P-K-------QT-L----------VP
+>TraesCS7A02G451500.1.cds1_Triticum_aestivum TraesCS7A02G451500.1.cds1 pep chromosome:IWGSC:7A:644681544:644682038:1 gene:TraesCS7A02G451500 transcript:TraesCS7A02G451500.1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MASS--G---------------------S-----------------
+-----------------------LL-PS----------L----LA-LLLL-QV--A----------------AT------
+--------A------------------S--A---A-TTT-N---------------------------FVRAA-DL-AE-
+RL-----------E-----------------------G------------------------------------------
+-----------------A-VTRQCRE---------------------------------------ALLD-IRSCTGEIIL
+FF-L------------------------------------------NG---------------EA-----YLGPGCCRAI
+RVI----E-QRCW---------------------A--ADLMLSV-IGFTPEEGDMLKGYCDAG-DDDNG-----------
+-----P---H---HSAGG--S---S-------P----A-P----P--PH-R---A--L-G------------------AD
+GVASG-GTV-------------AAVAG----R---K-G-L-------GS-P----------LG
+>Csa16g043530.1_Camelina_sativa Csa16g043530.1 pep chromosome:Cs:16:22269739:22270303:-1 gene:Csa16g043530 transcript:Csa16g043530.1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MASN--T---------------------S-----------------
+-----------------------FL-FV----------T----VT-LL-L-IL-------------------N-------
+--------V------------------S--C---R-TLP-AA--------------------------LAGST-SI-AA-
+RL-----------T-----------------------G------------------------------------------
+-----------------G-GLMQCWD---------------------------------------ALYE-LNLALTRSFS
+SS-S------------------------------------------TG---------------RP-----NLAPVAVTPL
+TSLPTIAG-RRCLLLLALHLRKPMSSVVSVNLRLP--A--VLLRLLPLST--FDTFSSLIDK------------------
+--------------------------------------------------------------------------------
+---------------------------------------D-------PP-N----------WK
+>QL10p018379_mrna_CDS_1_Quercus_lobata QL10p018379:mrna:CDS:1 pep chromosome:ValleyOak3.0:10:18378889:18379688:1 gene:QL10p018379 transcript:QL10p018379:mrna gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MTF-------------------------------------------
+-------------------------------------------------------------------------I------
+--------A------------------M--A---G-PL-------------------------------NSPS-TL-AT-
+RL-----------K-----------------------L------------------------------------------
+-----------------D-NPNNCWE---------------------------------------SLFE-LQSCSGEAIL
+FF-L------------------------------------------NG---------------ET-----YLGSNCCRAI
+RII----Q-RECW---------------------P--A--MMGS-LGFTEQEGDILFGYCDAS-EEDDS-----------
+-----T-----------S--AQT-L-------P----L-P----------------------------------------
+-------------------------------------S-P-------TP-I----------EG
+>Csa09g086150.1.cds1_Camelina_sativa Csa09g086150.1.cds1 pep chromosome:Cs:9:32295787:32296167:-1 gene:Csa09g086150 transcript:Csa09g086150.1 gene_biotype:protein_coding transcript_biotype:protein_coding description:Egg cell-secreted protein 1.3 [Source:Projected from Arabidopsis thaliana (AT2G21750) UniProtKB/Swiss-Prot;Acc:Q9SJ23]
+----------------------------------MASN--T---------------------S-----------------
+-----------------------FL-FV----------T----VT-LL-L-IL-------------------N-------
+--------V------------------S--C---R-TLP-AA--------------------------LAGST-SI-AA-
+RL-----------T-----------------------G------------------------------------------
+-----------------G-GLMQCWD---------------------------------------ALYE-LKSCTNEIVL
+FF-L------------------------------------------NG---------------ET-----KLGTGCCNAV
+DVI----T-NDCW---------------------P--A--MLTS-LGFTSEEANVLRGFCQSP-TSGGS-----------
+-----S--------------------------P----A-P----------------------------------------
+-----------------------------------------------SP-V----------NV
+>OAY36033_Manihot_esculenta OAY36033 pep chromosome:Manihot_esculenta_v6:LG12:30808567:30809514:-1 gene:MANES_12G150100 transcript:OAY36033 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MGLR--I---------------------T-----------------
+-----------------------SL-LL----------G----LT-WL-M-VS--Y----------------AT------
+--------A------------------T--S---R-EIP-MKPS------A----A------AAAAS-GYKVN-DL-SA-
+RL-----------A-----------------------T------------S-----------------------------
+-----------------G-GMVECWD---------------------------------------ALLE-MKSCSNEIIL
+FF-L------------------------------------------NG---------------QA-----DLGAECCGAI
+GII----T-HNCW---------------------P--A--MLSS-LGFTAEEGNILEGYCDTT-DSPSS-----------
+----SP-----------A--A-S-P-------P----L-P----A--GA-------------------------------
+-------------------------QP--------N-S-T-------AM-A----------LD
+>ESQ46086_Eutrema_salsugineum ESQ46086 pep supercontig:Eutsalg1_0:KI517426:441188:441560:-1 gene:EUTSA_v10000570mg transcript:ESQ46086 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MASN--T---------------------S-----------------
+-----------------------LL-FA----------T----VT-L---------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------LLDSCN---------------------------------------ALYE-LKSCTNEIVL
+FF-L------------------------------------------NG---------------ET-----KLGSDCCNAV
+EVI----T-TDCW---------------------P--A--MLTS-LGFTPEETNVLRGNCQPL-NSGGS-----------
+-----S------------------S-------P----A-P----S-----------------------------------
+-----------------------------------------------SP-V----------KL
+>Csa07g051890.1.cds1_Camelina_sativa Csa07g051890.1.cds1 pep chromosome:Cs:7:26380818:26381239:-1 gene:Csa07g051890 transcript:Csa07g051890.1 gene_biotype:protein_coding transcript_biotype:protein_coding description:Egg cell-secreted protein 1.3 [Source:Projected from Arabidopsis thaliana (AT2G21750) UniProtKB/Swiss-Prot;Acc:Q9SJ23]
+----------------------------------MASN--T---------------------S-----------------
+-----------------------LL-FV----------T----VT-LL-L-IL-------------------N-------
+--------V------------------S-CS---R-TLP-AA--------------------------LAGST-SI-AA-
+RL-----------T-----------------------G------------------------------------------
+-----------------G-GLMQCWD---------------------------------------ALYE-LKSCTNEIVL
+FF-L------------------------------------------NG---------------ET-----KLGTGCCNAV
+DVI----T-NDCW---------------------P--A--MLTS-LGFTSEETNVLRGFCQSP-TSGGS-----------
+-----S--------------------------P----A-P----------------------------------------
+-----------------------------------------------SP-V----------NV
+>RZC48302_Papaver_somniferum RZC48302 pep chromosome:ASM357369v1:1:245909224:245909703:1 gene:C5167_041233 transcript:RZC48302 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MSLI--N---------------------S-----------------
+-----------------------NL-VL----------LV-L-AI-SA-L-MV--S----------TT----TF------
+--------A------------------A--A---R-ELP-TAI-------------------------RYPGH-NL-AA-
+RI-----------N-----------------------A------------DDG---------------------------
+----------------GA-GMVECWN---------------------------------------ALYE-LRSCTNEIIL
+FF-M------------------------------------------DG---------------EM-----YLGLECCRAI
+RTI----T-RDCW---------------------P--S--MLTS-VGFTAEEGDILRGYCDAP-HLAAP-----------
+-----R--------------S---S-------H----V-P----MLPPV-Q---A--P-A--------------------
+--------Q----------------SPYISGP---S-T-A-------PV-F----------VE
+>FvH4_4g25660.t1_Fvesca_677_v4 FvH4_4g25660.t1 pacid=50686121 transcript=FvH4_4g25660.t1 locus=FvH4_4g25660 ID=FvH4_4g25660.t1.v4.0.a2 annot-version=v4.0.a2
+----------------------------------MAFK--N---------------------L-----------------
+-----------------------VF-LS----------I----MI-LI-A-SI--M----------------SA------
+--------S------------------N--A---A-T--------------------------------AATR-KL-SA-
+GI-----------K----------T-------SGEGEG------------E-----------------------------
+-----------------G-GLVECGN---------------------------------------ALVE-VKSCSQEIVV
+YF-L------------------------------------------NG---------------RT-----DIGPDCCKAI
+TTI----T-RRCW---------------------P--A--MLTS-LGFTAEQGDILRGYCDAE-ATTVI-----------
+-----T-----------T--T---A-------P----A-A----------------------------------------
+---------------------------------------A-------PL-V----------P*
+>ONI01825_Prunus_persica ONI01825 pep chromosome:Prunus_persica_NCBIv2:G6:15035874:15036810:1 gene:PRUPE_6G161600 transcript:ONI01825 gene_biotype:protein_coding transcript_biotype:protein_coding description:EC1.5 [Source:Projected from Arabidopsis thaliana (AT5G64720) UniProtKB/TrEMBL;Acc:A0A178U9F2]
+----------------------------------MFFT--QALNIHIQILQTVTENTMAFKNA-----------------
+-----------------------AF-LL----------L--MTTM-CL-IMSA--N-----------N----AI------
+--------A------------------N--A---R---------------------------------------NM-AAV
+GIKTGSQGGEGGSG-----------------------G------------Q-----------------------------
+-----------------G-GLGECWN---------------------------------------ALVE-LKSCSNEVVL
+FF-L------------------------------------------NG---------------QA-----DIGTDCCKAI
+ATI----T-HHCW---------------------P--A--MLTS-LGFTAEEGNILRGHCDAA-SAAGS-----------
+-----T---D---NAS-S--S---A-------P----ASP----P--SA-------------------------------
+-------------------------A-----A---S-S-A-------AT-P----------AI
+>EOY04381_Theobroma_cacao EOY04381 pep chromosome:Theobroma_cacao_20110822:4:24110975:24111607:1 gene:TCM_019647 transcript:EOY04381 gene_biotype:protein_coding transcript_biotype:protein_coding description:Uncharacterized protein
+----------------------------------MVGN--N---------------------V-----------------
+-----------------------FL-LL----------F----MV-CL-S-AS-------------------GA------
+--------T------------------A--T---R-ELN-SYS-------------------------KAPGH-NI-AA-
+RL-----------D-----------------------E-----------AS-----------------------------
+-----------------L-DSVNCWN---------------------------------------VLHQ-LTPCGIEIVR
+FF-I------------------------------------------NG---------------RN-----GIIRDCCNAI
+QDM----E--QCE---------------------P--G--MFIS-LGFSYEEEKALISYCDAS-LGPAA-----------
+-----A--------------------------P----L-A----G--S--------------------------------
+-----------------------------------P-L-S-------AE-A----------YI
+>FCD_00011685-RA_cds_Ficus_carica FCD_00011685-RA:cds pep primary_assembly:UNIPI_FiCari_1.0:5:12034349:12034807:-1 gene:FCD_00011685 transcript:FCD_00011685-RA gene_biotype:protein_coding transcript_biotype:protein_coding description:egg cell-secreted protein 1.4-like
+----------------------------------MKNL--KV---------------STSTST-----------------
+-----------------------FF-FL----------I----FL-SW-L-IP--N-----------D----NI------
+--------A------------------T--A---T-RVH-FPS-------V----M----------E-KNDNN-NL-AS-
+RL-----------E-----------------------A------------S-----------------------------
+-----------------G-GLVECWT---------------------------------------ALLE-LKSCSNEIVL
+FF-L------------------------------------------DG---------------QT-----DIGADCCRAI
+VFI----T-RSCW---------------------P--T--MITS-LGFTVQEGDFLRGFCDAV-QAHAP-----------
+-----P--------------P---G-------P----S-P----A--PF-T-----------------------------
+-------------------------DD----H---P-P-V-------AV-D----------LA
+>Csa27089s010.1.cds1_Camelina_sativa Csa27089s010.1.cds1 pep supercontig:Cs:unpScaffold27089:1:240:1 gene:Csa27089s010 transcript:Csa27089s010.1 gene_biotype:protein_coding transcript_biotype:protein_coding
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-------------------------------------------------------------------MQ-LQHCSGELIL
+FF-L------------------------------------------NG---------------ET-----YIGPGCCSAI
+KTV----G-RKCW---------------------P--T--MIGV-LGFTAQEGDMLQGYC--------------------
+--------------------------------------------------------------------------------
+---------------------------------------------------------------
+>EER95019_Sorghum_bicolor EER95019 pep chromosome:Sorghum_bicolor_NCBIv3:1:68895115:68895630:-1 gene:SORBI_3001G403900 transcript:EER95019 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MALS--R---------------------L-----------------
+-----------------------ST-AV----------L----SC-LA-L-LV--A----------------ST------
+--------A------------------A--H---R-TPP-TAFA-PS---S----S------SSSHS-VRGLP-AL-AE-
+RL-----------E-----------------------G------------------------------------------
+-----------------A-EAQQCWE---------------------------------------ALVE-IKSCTGEIII
+LF-I------------------------------------------KG---------------EA-----FLGPGCCRAI
+RVI----E-QSCW---------------------A--ADNMLSI-IGFTPQEGDMLKGYCDAG-DDGSG-----------
+-----G---G---Q-S-G--S---S-------P----P-P----R--GA-D---A-VG-A------------------AA
+AAARESV-A----------------AV----A---G-R-K-------SS-M----------HR
+>Kaladp0515s0048.1.v1.1_Kalanchoe_fedtschenkoi Kaladp0515s0048.1.v1.1 pep supercontig:K_fedtschenkoi_M2_v1:Scaffold_515:518009:518395:1 gene:Kaladp0515s0048.v1.1 transcript:Kaladp0515s0048.1.v1.1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MPLH--L---------------------L-----------------
+-----------------------C-------------------------L-PH--Q----------------KH------
+--------T------------------H------T-P---------------------------------PPH-PLHHG-
+RM-----------P------------------------------------------------------------------
+---------------------RGRWR--------------------------------------------------HHTV
+LL-P------------------------------------------QW---------------PH-----RLGIDCCKAI
+TII----T-RDYW---------------------P--A--MLSS-LSFTAEERNVLQGYYDGS-GHDTT-----------
+-----P-----------A--A---P-------PLHAPS-P----S--T--------------------------------
+-----------------------------------V-Q-D-------FT-S----------ST
+>TraesCS7D02G440400.1.cds1_Triticum_aestivum TraesCS7D02G440400.1.cds1 pep chromosome:IWGSC:7D:560576119:560576619:1 gene:TraesCS7D02G440400 transcript:TraesCS7D02G440400.1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MASS--G---------------------S-----------------
+-----------------------LL-PT----------L----LA-LLLL-QA--T----------------AT------
+--------A------------------S--A---A-TTA-T---------------------------FVRAA-DL-AE-
+RL-----------E-----------------------G------------------------------------------
+-----------------A-VTRQCWE---------------------------------------ALLD-IKSCTGEIIL
+FF-L------------------------------------------NG---------------EA-----YLGPGCCRAI
+RVI----E-QRCW---------------------A--ADLMLSV-IGFTPEEGDMLKGYCDAG-DDGNG-----------
+-----GEGQH--H-SIGG--S---S-------P----A-P----P--PH-R---A--L-D--------------------
+GVASGGGTV------------A-AAAG----R---K-G-L-------GS-P----------LG
+>Kaladp0033s0187.1.v1.1.CDS.1_Kalanchoe_fedtschenkoi Kaladp0033s0187.1.v1.1.CDS.1 pep supercontig:K_fedtschenkoi_M2_v1:Scaffold_33:1860605:1861009:-1 gene:Kaladp0033s0187.v1.1 transcript:Kaladp0033s0187.1.v1.1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MAPR--R---------------------V-----------------
+-----------------------AQ-LI----------HS-LIVL-LA-F-LT-------------------PL------
+--------F------------------S--A---R-SLN-QQPT------LFETER----------E-AGAQN-SL-VG-
+RL-----------R-----------------------L------------NEDG--------------------------
+----------------SA-SSNSCWD---------------------------------------SLFR-LQSCTGDVIL
+FF-L------------------------------------------NG---------------ET-----KLGPDCCKAV
+GLI----E-EYCW---------------------P--N--MIAS-LGFTAEEEQVLRGYCDKE-NA--------------
+--------------------------------------------------------------------------------
+-------------------------------------------------------------SH
+>KMT16083_Beta_vulgaris KMT16083 pep chromosome:RefBeet-1.2.2:3:4699644:4700229:-1 gene:BVRB_3g052510 transcript:KMT16083 gene_biotype:protein_coding transcript_biotype:protein_coding description:Egg cell-secreted protein 1.1 [Source:Projected from Arabidopsis thaliana (AT1G76750) UniProtKB/Swiss-Prot;Acc:Q9SRD8]
+----------------------------------MTTT--S---------------------S-----------------
+-----------------------RP-IP----------I----SNTTT-I-T----------------------------
+--------------------------------------------------------------------TSDVH-SM-FE-
+RL-----------K-----------------------L------------NDEP-----------------G--------
+----------------AT-SSVNCWA---------------------------------------SMFE-LQSCTGEVIQ
+FF-Y------------------------------------------DG---------------ET-----YLGPGCCRAI
+RVI----E-HHCW---------------------P--N--MLIT-LGFTSEEGDILQGYCDSE-EDQQ------------
+--------------------------------------------------------------------------------
+--------------------------------------------------T----------GN
+>KEH21230_Medicago_truncatula KEH21230 pep chromosome:MedtrA17_4.0:8:42005115:42005540:-1 gene:MTR_8g099500 transcript:KEH21230 gene_biotype:protein_coding transcript_biotype:protein_coding description:ECA1 gametogenesis related family
+----------------------------------MASS--H---------------------K-----------------
+-----------------------VF-II----------V----AL-VI-I-AL--V-P--------ST----YT------
+--------V------------------E--S---R-QHS-N---------------------------PSNLM-SL-EA-
+RL-----------K-----------------------V------------S-----------------------------
+-----------------G-EPSNCWQ---------------------------------------SLFK-LQACSGEIIT
+FF-L------------------------------------------NG---------------ET-----YLGNGCCKAI
+RVI----G-HDCW---------------------P--N--MVAS-LGFTNEESYILEGYCDEV-EDVHS-----------
+-----P-----------P------P-------P----T-P----Q--VS-------------------------------
+--------------------------F----V---V-E-H-------KE-I----------VP
+>FvH4_1g23830.t1_Fvesca_677_v4 FvH4_1g23830.t1 pacid=50689373 transcript=FvH4_1g23830.t1 locus=FvH4_1g23830 ID=FvH4_1g23830.t1.v4.0.a2 annot-version=v4.0.a2
+----------------------------------MAFK--N---------------------L-----------------
+-----------------------VF-LS----------M----MT-LI-A-SL--I-M-S------AS----NA------
+--------T------------------A--T---R-KL---------------------------------SA-GI-KT-
+SG-----------E-----------------------G------------E-----------------------------
+-----------------G-GLVGCGN---------------------------------------ALVE-VKSCSQEIVV
+YF-L------------------------------------------NG---------------KA-----DIGTDCCKAI
+ATV----T-RHCW---------------------P--T--MLTS-LGFTEEQGDILRGYCDAA-AAVIT-----------
+----TT------------------A-------P----V-A----A--PL-A---P--K-T--------------------
+--------S----------------LT----T---L-I-A-------PA-L----------M*
+>QL06p031123_mrna_CDS_1_Quercus_lobata QL06p031123:mrna:CDS:1 pep chromosome:ValleyOak3.0:6:31122042:31124080:-1 gene:QL06p031123 transcript:QL06p031123:mrna gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MASI--N---------------------V-----------------
+-----------------------FM-LL----------S----LA-CV-L-AV--T----------------NV------
+--------T------------------A--T---R-DLY-----------------------------IKPGH-RL-AA-
+RL-----------E-----------------------T------------S-----------------------------
+-----------------E-GLVPCWN---------------------------------------ALLE-LKSCSNEIVI
+FF-L------------------------------------------NG---------------QT-----DIGPDCCRAI
+TII----T-HNCW---------------------P--A--MLTS-LGFTAEEGYILRGYCDAA-ASIPS-----------
+-----A------------------A-------P----S-P----C-----------------------------------
+---------------------------------------S-------PA-P----------WA
+>QL11p027894_mrna_CDS_1_Quercus_lobata QL11p027894:mrna:CDS:1 pep chromosome:ValleyOak3.0:11:27893519:27895480:1 gene:QL11p027894 transcript:QL11p027894:mrna gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MASG--N---------------------V-----------------
+-----------------------FM-FF----------F----LA-CL-L-AV--T----------------NV------
+--------T------------------A--T---R-DLY-----------------------------IKPGH-RL-AA-
+RL-----------D-----------------------T------------S-----------------------------
+-----------------E-GLVPCWN---------------------------------------ALLE-LKSCSNEIVV
+FF-L------------------------------------------NG---------------QA-----DIGPDCCRAI
+TII----T-HNCW---------------------P--A--MLTS-LGFIAEEGNILSGYCDAA-ASVPS-----------
+-----T------------------A-------P----S-P----S-----------------------------------
+---------------------------------------S-------PA-P----------RA
+>ONH90092_Prunus_persica ONH90092 pep chromosome:Prunus_persica_NCBIv2:G8:3205663:3206984:-1 gene:PRUPE_8G034800 transcript:ONH90092 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MPLF--I---------------------------------------
+------------------------------------------------------------------------AT------
+--------N------------------S--A---R-SLN-YNP-------------------------IGLNA-NL-EA-
+RL-----------N-----------------------L------------D-----------------------------
+-----------------E-ESSNCWN---------------------------------------SLFQ-LQACSGEVVM
+FF-L------------------------------------------NG---------------ET-----YLGHGCCEAI
+QTI----E-HQCW---------------------P--A--LLGT-LGFTTEETNVLKGYCDEA-HHIQF-----------
+-----P-----------P--S---T-------P----S-S----P-----------------------------------
+-------------------------------------V-A-------DK-P----------IN
+>AT2G21740.1_Arabidopsis_thaliana AT2G21740.1 pep chromosome:TAIR10:2:9281986:9282387:-1 gene:AT2G21740 transcript:AT2G21740.1 gene_biotype:protein_coding transcript_biotype:protein_coding gene_symbol:EC1.2 description:Egg cell-secreted protein 1.2 [Source:UniProtKB/Swiss-Prot;Acc:Q9SJ24]
+----------------------------------MASN--T---------------------S-----------------
+-----------------------FL-FA----------T----IA-IL-L-VL-------------------N-------
+--------I------------------S--G---R-TLP-E---------------------------TEDST-NI-AA-
+RL-----------N-----------------------G------------------------------------------
+-----------------G-GLMECWN---------------------------------------ALYE-LKSCTNEIVL
+FF-L------------------------------------------NG---------------ET-----KLGVDCCQAV
+EVI----T-TDCW---------------------P--A--MLTS-LGFTSDETNVLRGFCQSP-NSGGS-----------
+-----S--------------------------P----A-P----------------------------------------
+-----------------------------------------------SS-V----------KL
+>ESW18393_Phaseolus_vulgaris ESW18393 pep chromosome:PhaVulg1_0:6:14663436:14663825:1 gene:PHAVU_006G037100g transcript:ESW18393 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MAFS--H---------------------V-----------------
+-----------------------PF-IL----------T----VI-VV-T-AL--V-L--------HA----SV------
+--------A------------------D--S---R-ALS-D---------------------------PSTTP-SL-AS-
+RL-----------K-----------------------L------------E-----------------------------
+-----------------G-EPSNCWE---------------------------------------SLWH-MQACSGEIIT
+FF-I------------------------------------------NG---------------ET-----YLGKGCCEAI
+RVI----G-HDCW---------------------P--N--VVGS-LGFTSEETDVLEGYCDEA-VHSPP-----------
+--------------------------------P------P----------------------------------------
+-----------------------------------------------LS-V----------DP
+>KRH59512_Glycine_max KRH59512 pep chromosome:Glycine_max_v2.1:5:37377971:37378333:1 gene:GLYMA_05G187500 transcript:KRH59512 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MALK--H---------------------G-----------------
+-----------------------LF-LL----------A----LA-CF-V-AY--------------------G------
+--------T------------------A--T---R---------------------------------------DL-AM-
+KS-----------P-----------------------K------------------------------------------
+-----------------Q-NHVECWS---------------------------------------NLIV-LKSCYNEIMH
+FF-I------------------------------------------NG---------------QA-----DIGPNCCCAI
+TVI----T-HDCW---------------------P--E--ILTS-LGYTHLEALNIRGYCDAA-ASSPA-----------
+-----L------------------A-------P----A-A----D-----------------------------------
+-------------------------------------G-P-------AN-P----------IY
+>TraesCS4A02G113600.1.cds1_Triticum_aestivum TraesCS4A02G113600.1.cds1 pep chromosome:IWGSC:4A:137894704:137895177:1 gene:TraesCS4A02G113600 transcript:TraesCS4A02G113600.1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MASS--T---------------------S-----------------
+-----------------------LL-PT----------L----LV-LL-A-VA--A----------------TA------
+--------S------------------A--A---A-ST------------------------------FVRAA-DL-AE-
+RL-----------D-----------------------G------------------------------------------
+-----------------V-GQQQCWG---------------------------------------TLLD-VKSCTGEIIL
+FF-L------------------------------------------NG---------------EA-----YLGPGCCRAI
+RII----E-RRCW---------------------A--ADLMLSV-IGFTPEEGDMLKAYCDAG-DDDND-G-G--EGRHH
+GVGGLS--------------P---A-------P----P-P----H--RA-L---DGVA-S--------------------
+--------G----------------GT----A---V-P-V-------AG-M----------VN
+>cds.Jr15_01190_p1_Juglans_regia cds.Jr15_01190_p1 pep primary_assembly:Walnut_2.0:15:959452:959922:1 gene:Jr15_01190 transcript:Jr15_01190_p1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MAYT--S---------------------F-----------------
+-----------------------IL-FF----------L---TVS-LA-L-SM--A-----------S----MA------
+--------V------------------M--S---R-PLG-TST-------------------------TSTTP-SL-RA-
+RL-----------K-----------------------L------------DDGD--------------------------
+---------------HDQ-SPVNCWD---------------------------------------SLLE-ISTCSAELIN
+FF-F------------------------------------------NL----------GDQESTY-----NLRPSCCQAI
+RVI----RSQQCW---------------------P--E--IFLF-LGFTTEEGDNLQGYCDAL-AHMIN-----------
+-----P--------------T---P-------P----S-P----P--SV-S---P-------------------------
+-------------------------NK----I---M-Q-P-------EN-L----------VP
+>ESQ53189_Eutrema_salsugineum ESQ53189 pep supercontig:Eutsalg1_0:KI517384:424092:424513:-1 gene:EUTSA_v10026562mg transcript:ESQ53189 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MASN--T---------------------T-----------------
+-----------------------FL-LT----------T----VA-LLGL-LL--L----------QN----TT------
+--------V------------------F--G---R-DLP------------------------------ADST-NI-VA-
+RL-----------Q-----------------------S------------------------------------------
+-----------------G-GIMECWN---------------------------------------VLHE-LKSCTNEIVL
+FF-L------------------------------------------NG---------------ET-----KLGVSCCEAV
+DII----T-TNCW---------------------P--A--MLTS-LGFTPEEANVLRGFCKNP-TSGDS-----------
+-----S--------------------------P----A-P----------------------------------------
+-----------------------------------------------SP-K----------KT
+>VIT_09s0002g01570.t01_Vitis_vinifera VIT_09s0002g01570.t01 pep chromosome:12X:9:1370944:1371330:-1 gene:VIT_09s0002g01570 transcript:VIT_09s0002g01570.t01 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MALK--T---------------------L-----------------
+-----------------------FL-LV----------A-----L-TW-L-MA-------------------NA------
+--------A------------------A--T---R-DLP-----------------------------TNPGL-DL-TT-
+RL-----------E-----------------------T------------S-----------------------------
+-----------------G-GLVECWN---------------------------------------ALME-IRQCTNEIIL
+FF-L------------------------------------------NG---------------QT-----VLGPECCQAI
+SII----T-RNCW---------------------P--A--MLTS-LGFTAEEGNILQGYCNAS-SGPPT-----------
+-----P--------------------------A----S-P----P-----------------------------------
+-------------------------------------L-Y-------QV-G----------MG
+>cds-PLY89992.1_Lactuca_sativa cds-PLY89992.1 pep primary_assembly:Lsat_Salinas_v7:3:84319921:84320364:-1 gene:gene-LSAT_3X64560 transcript:rna-gnl|WGS:NBSK|LSAT_3X64560_mrna gene_biotype:protein_coding transcript_biotype:protein_coding description:Egg cell-secreted protein 1.1 [Source:Projected from Arabidopsis thaliana (AT1G76750) UniProtKB/Swiss-Prot;Acc:Q9SRD8]
+----------------------------------MANS--F---------------------Q-----------------
+-----------------------LI-FL----------T----LL-IS-T-TS-------------------ML------
+--------V------------------D--T---R-PFT-PI--------------------------GAPSP-TL-LE-
+EL-----------A-----------------------T------------GE----------------------------
+----------------DI-DSTGCWE---------------------------------------SLFE-LQSCSGEIIL
+FF-L------------------------------------------NG---------------ET-----YLGMGCCKAI
+EKI----E-KKCW---------------------P--S--SLGS-LGFTNEEGDILRGYCDTS-DDNDD-----------
+----VP-----------T--T---T-------P----P-P----H--SA-N---I--T-N--------------------
+-------------------------ST----S---T-E-C-------NN-G----------GF
+>Solyc11g005500.1.1.1_Solanum_lycopersicum Solyc11g005500.1.1.1 pep chromosome:SL3.0:11:384871:385263:-1 gene:Solyc11g005500.1 transcript:Solyc11g005500.1.1 gene_biotype:protein_coding transcript_biotype:protein_coding description:Egg cell-secreted protein 1.1 [Source:Projected from Arabidopsis thaliana (AT1G76750) UniProtKB/Swiss-Prot;Acc:Q9SRD8]
+----------------------------------MMNS--T---------------------I-----------------
+-----------------------M--IF----------K--I-VL-LL-T-LI--S----------WI----NI------
+--------L------------------Q--A---R-PLT-TSS-------------------------IGRAT-TL-MT-
+HL-----------K-----------------------L------------QDD---------------------------
+----------------KE-DSSECWD---------------------------------------SLFE-LQACTGEIVL
+FF-V------------------------------------------NG---------------ET-----YLGQDCCSAI
+RII----E-RQCW---------------------P--S--MLDS-LGFTSQEGDILHGYCDAS-ESPT------------
+--------------------------------------------------------------------------------
+-----------------------------------------------PN-L----------AP
+>ESW28268_Phaseolus_vulgaris ESW28268 pep chromosome:PhaVulg1_0:3:49867624:49868040:-1 gene:PHAVU_003G272700g transcript:ESW28268 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MAST--N---------------------T-----------------
+-----------------------LF-LL----------F----SS-VT-L-AA-LL-S--------SA----PM------
+--------V------------------E--S---R-LLV-S---------------------------NNPSS-SL-MV-
+RL-----------K-----------------------L------------E-----------------------------
+-----------------G-EASNCWD---------------------------------------SLWQ-LQACSGEIVT
+FF-M------------------------------------------NG---------------ET-----YLGHGCCQAI
+RVI----G-HDCW---------------------P--N--IVAS-LGFTNEETDVLEGYCEEA-LLRSP-----------
+-----P--------------------------P----P-P----K--SM-------------------------------
+-----------------------------------A-D-P-------EH-I----------LP
+>AT2G21750.1_Arabidopsis_thaliana AT2G21750.1 pep chromosome:TAIR10:2:9283367:9283774:-1 gene:AT2G21750 transcript:AT2G21750.1 gene_biotype:protein_coding transcript_biotype:protein_coding gene_symbol:EC1.3 description:Egg cell-secreted protein 1.3 [Source:UniProtKB/Swiss-Prot;Acc:Q9SJ23]
+----------------------------------MASN--T---------------------S-----------------
+-----------------------FL-FV----------T----VT-LL-L-VL-------------------N-------
+--------V------------------S--S---R-ALP-P---------------------------VADST-NI-AA-
+RL-----------T-----------------------G------------------------------------------
+-----------------G-GLMQCWD---------------------------------------ALYE-LKSCTNEIVL
+FF-L------------------------------------------NG---------------ET-----KLGYGCCNAV
+DVI----T-TDCW---------------------P--A--MLTS-LGFTLEETNVLRGFCQSP-NSGGS-----------
+-----S--------------------------P----A-L----------------------------------------
+-----------------------------------------------SP-V----------KL
+>Bo1g002490.1_Brassica_oleracea Bo1g002490.1 pep chromosome:BOL:C1:210647:211042:-1 gene:Bo1g002490 transcript:Bo1g002490.1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MASN--T---------------------T-----------------
+-----------------------FL-FA----------T----VA-LLGG-IL--L----------QN----TT------
+--------V------------------S--G---R-DLP-IP--------------------------TAEST-NI-AA-
+RL-----------Q-----------------------S------------------------------------------
+-----------------G-GLMECWN---------------------------------------ALYE-LKSCTNEIVL
+FF-L------------------------------------------NG---------------ET-----KLGVSCCEAV
+EVI----T-TSCW---------------------P--A--MLTS-LGFTSEEANVLRGFCHDP-NSSGY-----------
+-----S--------------------------P----A-A----------------------------------------
+-----------------------------------------------SP-N----------KA
+>OIW19998_Lupinus_angustifolius OIW19998 pep supercontig:LupAngTanjil_v1.0:Scaffold_9_102:9139:9543:-1 gene:TanjilG_31912 transcript:OIW19998 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MALK--E---------------------G-----------------
+-----------------------TL-LL----------L--L-TF-IA-C-FI--V----------------SG------
+--------I------------------A--T---R-DLV-----------------------------MKPKQ-DI-SA-
+RL-----------E-----------------------G------------NN----------------------------
+-----------------G-DLVNCWS---------------------------------------SLLE-LKSCSNEIVL
+FF-L------------------------------------------NG---------------VA-----DIGPGCCTAI
+TVI----T-HNCW---------------------P--A--MLTS-LGFTAEEGNILRGYCDAA-AASAS-----------
+-----T--------------------------P----T-P----A--EA-------------------------------
+-------------------------------------P-Y-------SI-F----------IN
+>PNT46426_Populus_trichocarpa PNT46426 pep chromosome:Pop_tri_v3:3:19596130:19596549:1 gene:POPTR_003G191800v3 transcript:PNT46426 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MAFN--L---------------------K-----------------
+-----------------------LF-LF----------V----AL-LA-C-SS--L----------GC----YK------
+--------A------------------K--A---R-PL-------------------------------ASIS-NL-ST-
+RL-----------K-----------------------L------------D-----------------------------
+-----------------E-ESSNCWD---------------------------------------SLLQ-LQACTGEIVL
+FF-L------------------------------------------NG---------------ET-----QLGHSCCQAL
+STI----G-EHCW---------------------P--N--MIDT-LGFTTEESQILEGYCDKA-ADPTT-----------
+--------------------P---S-------P----SAP----S--AV-P-----------------------------
+-------------------------VE----I---V-P-K-------QT-L----------VP
+>MD15G1340900_Mdomestica_491_v1 MD15G1340900 pacid=40103110 transcript=MD15G1340900 locus=MD15G1340900 ID=MD15G1340900.v1.1.491 annot-version=v1.1
+----------------------------------MALQ--N---------------------V-----------------
+-----------------------AL-LV----------T----VC-LI-F-TG--A-----------N----YA------
+--------L------------------A--A---R-NVI-DPI-----------------------Q-PAYSI-PI-TA-
+RI-----------K-----------------------T------------GSEG--------------------------
+----------------NG-GLVDCWN---------------------------------------ALAE-LKSCSNEVVL
+FF-L------------------------------------------NG---------------QA-----DIGPDCCQAI
+ATI----T-RHCW---------------------P--A--MLTS-IGFTTEEGNILLGYCDAA-ASATT-----------
+-----T---N-------S--S---A-------P----A-S----S--PL-A---A-------------------------
+--------------------------A----T---T-P-T-------PP-A----------N*
+>RZC68602_Papaver_somniferum RZC68602 pep chromosome:ASM357369v1:7:20780647:20781102:1 gene:C5167_031840 transcript:RZC68602 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MAAA--Y---------------------S-----------------
+-----------------------SS-SK----------LL-YTML-IA-I-TL-------------------ST----MD
+SNKIGTTGV------------------L--G---R-PLS-NVQ-------------------------IATPI-SL-AA-
+RL-----------Q-----------------------S------------D-----------------------------
+-----------------G-SYSECWD---------------------------------------SLME-LQACTGEVIL
+FF-L------------------------------------------NG---------------ET-----HLGRNCCQAI
+HII----Q-HSCW---------------------P--A--MLGS-LGFTEAEGNILRGYCDAT-ADVVP-----------
+--------------------A---P-------P----S-P----P--SM-------------------------------
+-------------------------VP--------L-V-K-------ND-L----------KP
+>DRNTG_09031.1.cds1_Dioscorea_rotundata DRNTG_09031.1.cds1 pep chromosome:TDr96_F1_v2_PseudoChromosome:7:31327685:31327948:1 gene:DRNTG_09031 transcript:DRNTG_09031.1 gene_biotype:protein_coding transcript_biotype:protein_coding description:Egg cell-secreted protein 1.1 [Source:Projected from Arabidopsis thaliana (AT1G76750) UniProtKB/Swiss-Prot;Acc:Q9SRD8]
+----------------------------------M---------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+---------------------AKCWE---------------------------------------SLLA-LKSCTGEVIL
+FF-F------------------------------------------NG---------------ET-----YLGPCCCKAI
+RVI----E-HNCW---------------------AAEA--MLAA-LGFTPEEGDALRGFCDAN-SPAPS-----------
+-----S-----------S------S-------S----S-P----------------------------------------
+-----------------------------------------------PP-S----------PA
+>KRH35123_Glycine_max KRH35123 pep chromosome:Glycine_max_v2.1:10:45458315:45458750:1 gene:GLYMA_10G223600 transcript:KRH35123 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-------------------------------------------------------------------------------M
+FF-L------------------------------------------NG---------------ET-----YLGPSCCQAI
+KIS----G-HDCW---------------------P--N--MLAS-VGFTSEEGDILQGYCDTE-QEQLH-----------
+-----S------------------P-------P----S-P----T--V--------------------------------
+-------------------------------------H-Y-------FT-L----------NK
+>Csa16g043520.1.cds1_Camelina_sativa Csa16g043520.1.cds1 pep chromosome:Cs:16:22265372:22265749:-1 gene:Csa16g043520 transcript:Csa16g043520.1 gene_biotype:protein_coding transcript_biotype:protein_coding description:Egg cell-secreted protein 1.2 [Source:Projected from Arabidopsis thaliana (AT2G21740) UniProtKB/Swiss-Prot;Acc:Q9SJ24]
+----------------------------------MAFN--K---------------------S-----------------
+-----------------------FL-FV----------I----VT-LL-L-VL-------------------N-------
+--------I------------------S--G---R-TLP-E---------------------------TVDST-NI-AA-
+RL-----------N-----------------------G------------------------------------------
+-----------------G-GLMECWD---------------------------------------ALYE-LKSCTNEIVL
+FF-L------------------------------------------NG---------------ET-----KLGVDCCHAV
+EVI----T-TDCW---------------------P--A--MLTS-LGFTSDETNVLRGFCQSP-NSNGS-----------
+-----S--------------------------P----A-P----------------------------------------
+-----------------------------------------------SS-V----------KL
+>Ma08_p15310.1_Musa_acuminata Ma08_p15310.1 pep primary_assembly:Musa_acuminata_v2:CAJGYN010000008.1:15400435:15400905:1 gene:Ma08_g15310 transcript:Ma08_t15310.1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MALF--P---------------------K-----------------
+-----------------------LF-LA----------M----LF-LT-I-SA-LA-V--------VP----DF------
+--------T------------------E--A---R-TV-------------------------------AQQL-QL-VE-
+RL-----------Q-----------------------S------------------------------------------
+-----------------D-GLKVCWD---------------------------------------SLME-LRSCTGEVIL
+FF-L------------------------------------------NG---------------ET-----YLGPSCCRAI
+RVI----V-HHCW---------------------A--AEVMLAA-LGFTPQEGDVLRGYCDAE-ASSGA-----------
+-----S------------------P-------P----P-P----P--PV-A-----------------------------
+-------------------------Y-----A---P-L-P-------EH-L----------VH
+>Bo7g119230.1_Brassica_oleracea Bo7g119230.1 pep chromosome:BOL:C7:48043899:48044285:1 gene:Bo7g119230 transcript:Bo7g119230.1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MASN--T---------------------T-----------------
+-----------------------FL-FA----------T----VA-LLGL-LL--L----------QI----TT------
+--------V------------------S--C---R-DLP------------------------------SEST-NI-AA-
+RL-----------Q-----------------------S------------------------------------------
+-----------------G-GLMDCWN---------------------------------------ALYE-LKSCTDEIVL
+FF-L------------------------------------------NG---------------ET-----KLGVSCCEAV
+DVI----T-TSCW---------------------P--A--MLTS-LGFTSEEANVLRGFCQDP-NSSDS-----------
+-----S--------------------------P----A-A----------------------------------------
+-----------------------------------------------SP-K----------KA
+>FvH4_2g18910.t1_Fvesca_677_v4 FvH4_2g18910.t1 pacid=50657349 transcript=FvH4_2g18910.t1 locus=FvH4_2g18910 ID=FvH4_2g18910.t1.v4.0.a2 annot-version=v4.0.a2
+----------------------------------MANA--S---------------------N-----------------
+-----------------------LL-LL----------T----AL-LA-L-TT--P----------------FM-----A
+--------S------------------S--F---R-PLN-NR--------------------------ITSRS-NL-AA-
+RL-----------K-----------------------L------------D-----------------------------
+-----------------G-KSSNCWD---------------------------------------SLIH-LKACSSEVIV
+FF-I------------------------------------------NG---------------QT-----YLGQGCCLAI
+RTI----E-HQCW---------------------P--A--LLGS-LGFFPEETDILRGYCYAN-QLETS-----------
+-----P--------------T---L-------P----R-P----F--DE-S---T--G-K--------------------
+--------F----------------VP--------D-L-E-------KY-I----------P*
+>Aco029478.1.mrna1.cds1_Ananas_comosus Aco029478.1.mrna1.cds1 pep supercontig:F153:contig18:1012051:1012527:-1 gene:Aco029478.1.path1 transcript:Aco029478.1.mrna1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MRSL--L---------------------V-----------------
+-----------------------PK-TL----------A----LA-LA-I-AA-LV-----------A----AV------
+--------S------------------A--R---R-DLT-QVAAAPQ---A----A----------TAHPESL-AL-EA-
+RL-----------Q-----------------------G------------VG----------------------------
+-----------------G-GLVDCWN---------------------------------------ALLE-LRSCTNEIVL
+FF-L------------------------------------------NG---------------ES-----YLGYDCCRAI
+RTI----T-LHCW---------------------P--S--MLTS-LGFTAQEGDILRGYCDAE-AAAAP-----------
+-----P-----------P--F---A-------P----L-P----T--TP-S---G--A-P--------------------
+--------A-------------A--AP--------A-L-L-------RA-P----------GN
+>Aco031263.1.mrna1.cds1_Ananas_comosus Aco031263.1.mrna1.cds1 pep supercontig:F153:contig25:2752257:2752410:-1 gene:Aco031263.1.path1 transcript:Aco031263.1.mrna1 gene_biotype:protein_coding transcript_biotype:protein_coding
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+------------------------------------------------------------------------------AI
+RVI----E-HHCW---------------------A--TDVLLAS-LGFTAQEGDILRGYCDPT-NDSSD-----------
+-----P-----------S--T-P-P-------P----P-P----------------------------------------
+--------------------------------------------------------------A
+>RZC57082_Papaver_somniferum RZC57082 pep chromosome:ASM357369v1:4:3505037:3505462:-1 gene:C5167_004389 transcript:RZC57082 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MDPV--N---------------------A-----------------
+-----------------------KL-VL----------M----LV-IA-A-LM--S-N--------TT----TV------
+--------L------------------A--S---R-DLG-HLAT------T----I----------R-YPAGH-NL-AA-
+RI-----------Y-----------------------R------------ED----------------------------
+----------------GA-GMVECWN---------------------------------------ALYE-LRSCTNEIIL
+FF-M------------------------------------------DG---------------EM-----YLGIECCRAI
+RII----T-RECW---------------------P--S--MLTS-VGFTAEEGDTLRGYCDAS-HSTAP-----------
+-----R--------------------------S----S-P----V--T--------------------------------
+-----------------------------------------------ML-P----------PA
+>RZC57081_Papaver_somniferum RZC57081 pep chromosome:ASM357369v1:4:3500870:3501346:-1 gene:C5167_004390 transcript:RZC57081 gene_biotype:protein_coding transcript_biotype:protein_coding description:hypothetical protein
+----------------------------------MALT--K---------------------G-----------------
+-----------------------KL-FL----------V--L-VI-SA-L-TA--N----------TT----AV------
+--------V------------------A--S---R-DLV-TTI-----------------------H-HSVGH-NL-AA-
+RI-----------N-----------------------G------------EDG---------------------------
+----------------GA-GMVECWN---------------------------------------ALYE-LRSCTNEIIL
+FF-M------------------------------------------DG---------------EM-----YLGVECCRAI
+RII----T-RECW---------------------P--S--MLTS-VGFTAEEGDILRGYCDAS-HSTAP-----------
+-----R--------------S---S-------P----V-T----MLPSV-Q---T--P-A--------------------
+--------Q----------------SP-FLGP---S-T-P-------PP-V----------VA
+>PRQ49241_Rosa_chinensis PRQ49241 pep chromosome:RchiOBHm-V2:2:32270886:32271293:-1 gene:RchiOBHm_Chr2g0119721 transcript:PRQ49241 gene_biotype:protein_coding transcript_biotype:protein_coding description:putative Prolamin-like domain-containing protein
+----------------------------------MALK--N---------------------L-----------------
+-----------------------VF-LS----------M----VT-LI-A-SL--I-M-S------AS----NA------
+--------T------------------A--T---R-KI---------------------------------SA-GI-KT-
+SG-----------E-----------------------G------------E-----------------------------
+-----------------G-GLVECGN---------------------------------------ALEE-LKSCSQEIVV
+YF-L------------------------------------------NG---------------KA-----NIGPDCCKAI
+ATI----T-RHCW---------------------P--A--MLTS-LGFTAEQGDILRGYCDAA-AAVTT-----------
+-----T------------------A-------P----A-A----A--PL-A---R-------------------------
+-------------------------------------T-T-------PL-T----------SC
+>RHC11H1G0771.2.1.cds.1_Solanum_tuberosum_rh8903916 RHC11H1G0771.2.1.cds.1 pep primary_assembly:ASM1418947v1:11:10653626:10654048:1 gene:RHC11H1G0771.2 transcript:RHC11H1G0771.2.1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MALK--C---------------------Y-----------------
+-----------------------TF-FL----------I----ML-TY-S-TI--T-N--------LS----HV------
+--------N------------------S--S---R-DIP---------------------------------I--F-LA-
+RH-------D-ESS-------------------T---Q------------------------------------------
+-----------------G-SIMECFS---------------------------------------AFAE-IKSCTNEIIA
+YF-T------------------------------------------IG---------------TI-----DIDLPCCQAI
+SII----T-HHCW---------------------P--S--MLTT-LGFTLEETNMLRGYCDAT-HHNVS-----------
+-----P-----------N--N-F-G-------P----A-P----S--PL-------------------------------
+-------------------------------V---LPN-L-------DI-I----------NE
+>TraesCS7A02G451600.1.cds1_Triticum_aestivum TraesCS7A02G451600.1.cds1 pep chromosome:IWGSC:7A:644706293:644706748:1 gene:TraesCS7A02G451600 transcript:TraesCS7A02G451600.1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MASS--G---------------------S-----------------
+-----------------------LL-PA----------L----LV-LLLL-TV--A----------------AT------
+--------A------------------S--TTT-T-TFV-RA--------------------------GAPPA-EL-AE-
+RL-----------Q-----------------------G------------------------------------------
+-----------------V-GQQQCWE---------------------------------------ILMD-IRSCTGEIIL
+FF-L------------------------------------------NG---------------EA-----YLGPGCCRAI
+RAV----E-QHCW---------------------AADA--MLSV-IGFTPEEGDMLKGYCDAG-DSGEG-----------
+-----Q-----------Q--R---G--ALDGVA----S-D----G--AV-A-----------------------------
+-------------------------AA----A---G-R-K-------GL-G----------AP
+>TraesCS4B02G190500.1.cds1_Triticum_aestivum TraesCS4B02G190500.1.cds1 pep chromosome:IWGSC:4B:413190783:413191280:-1 gene:TraesCS4B02G190500 transcript:TraesCS4B02G190500.1 gene_biotype:protein_coding transcript_biotype:protein_coding
+----------------------------------MASS--G---------------------S-----------------
+-----------------------LL-ST----------L----LV-LL-A-VA--A----------------TA------
+--------L------------------A--A---T-TT------------------------------FVRAA-NL-AE-
+RL-----------E-----------------------G------------------------------------------
+-----------------V-GQQQCWE---------------------------------------TLLD-VKSCTGEIIL
+FF-L------------------------------------------NG---------------EA-----YLGPGCCRAI
+RII----E-QRCW---------------------A--ADLMLSV-IGFTPEEGDMLKGYCDAG-GDDDN-NDG--EGHHH
+GVGGSS--------------P---A-------P----P-P----H--RA-L---DGVA-S--------------------
+--------G----------------GT----A---V-P-VAGKKGLGAP-L----------DG
+>Csa11g002350.1.cds1_Camelina_sativa Csa11g002350.1.cds1 pep chromosome:Cs:11:625946:626465:-1 gene:Csa11g002350 transcript:Csa11g002350.1 gene_biotype:protein_coding transcript_biotype:protein_coding description:Egg cell-secreted protein 1.4 [Source:Projected from Arabidopsis thaliana (AT4G39340) UniProtKB/Swiss-Prot;Acc:Q9T039]
+----------------------------------MASN--T---------------------T-----------------
+-----------------------FL-FS----------T----VT-LV-L-LL--L----------LN----TT------
+--------V------------------S--G---R-YLP------------------------------AEST-NI-AA-
+RL-----------Q-----------------------S------------------------------------------
+-----------------G-GLMECWN---------------------------------------ALYE-LKSCTNEIVL
+FF-L------------------------------------------NG---------------ET-----KLGVGCCEAV
+DVI----T-TNCW---------------------P--A--MLTS-LGFTSEEANVLRGFCQNP-NSSPA-----------
+--------------------------------P----S------------------------------------------
+------------------------------------------------P-K----------KA
+>AT4G39340.1_Arabidopsis_thaliana AT4G39340.1 pep chromosome:TAIR10:4:18293129:18293512:-1 gene:AT4G39340 transcript:AT4G39340.1 gene_biotype:protein_coding transcript_biotype:protein_coding gene_symbol:EC1.4 description:Egg cell-secreted protein 1.4 [Source:UniProtKB/Swiss-Prot;Acc:Q9T039]
+----------------------------------MASN--T---------------------T-----------------
+-----------------------FL-FS----------T----VT-LL-I-IL--L-----------N----TT------
+--------V------------------S--G---R-DLP-----------------------------AESST-NI-AA-
+RL-----------Q-----------------------S------------------------------------------
+-----------------G-GLMECWN---------------------------------------ALYE-LKSCTNEIVL
+FF-L------------------------------------------NG---------------ET-----KLGVSCCESV
+DII----T-TNCW---------------------P--A--MLTS-LGFTPEEANVLRGFCQNP-NSGDS-----------
+-----S--------------------------P----A-P----------------------------------------
+-----------------------------------------------SP-K----------IV
+>PRQ25532_Rosa_chinensis PRQ25532 pep chromosome:RchiOBHm-V2:6:48062575:48063284:1 gene:RchiOBHm_Chr6g0284701 transcript:PRQ25532 gene_biotype:protein_coding transcript_biotype:protein_coding description:putative Prolamin-like domain-containing protein
+----------------------------------MADT--S---------------------K-----------------
+-----------------------LF-LL----------T----AL-LA-L-TM--P----------------FM-----A
+--------S------------------S--F---R-PLN-NR--------------------------IGSKS-NL-AA-
+RL-----------K-----------------------L------------V-----------------------------
+-----------------G-KSSNCWD---------------------------------------SLIQ-LQACSSQVVL
+FF-L------------------------------------------NG---------------ET-----YLGHGCCIAI
+RTI----E-HQCW---------------------P--A--LLGS-LGFSAEEVDILKGFCDQA-IQLEI-----------
+-----------------S--P---P-------P----R-P----P--SI-D---E--A-T--------------------
+--------G----------------KV----V---P-D-M-------KK-F----------IP
