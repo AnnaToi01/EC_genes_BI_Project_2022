@@ -94,14 +94,14 @@ There two clades with very high support on the tree, which roughly correspond to
 
 The outside group probably contains genes that are not the EC1.1 or EC1.2 orthologs (and are there due to, e.g., long branch attraction). 
 
-Some species have several orthologs of EC genes. The next step is to figure out which of the genes are the most similar with Arabidopsis genes by their expression pattern.
+Some species have several orthologs of EC genes. The next step is to figure out which of the genes are the most similar with *Arabidopsis* genes by their expression pattern.
 
 <a name="motifs"></a>
 ## Gene expression patterns analysis
 To find out which expression patterns found orthologs have we searched for open-assesed transcriptional data based on RNA-seq analysis. All used databases are presented in [`./Transctriptional_databases.xlsx`](https://github.com/AnnaToi01/EC_genes_BI_Project_2022/blob/main/Transctriptional_databases.xlsx).
 
 Due to absence or bad quality of transcription data for some species, only 20 species and 53 genes orthologs were taken for further analysis.
-According to their expression profile all genes were divided into three groups. Data genes and their expression description presented in [`./Gene_expression_data.csv`]() file.
+According to their expression profile all genes were divided into three groups. The found genes and according expression profiles are in [`./Gene_expression_data.csv`](https://github.com/AnnaToi01/EC_genes_BI_Project_2022/blob/main/Gene_expression_data.csv) file.
 
 | Group number | Group name   | Amount of genes | Description                                                                                 |
 |:-------------|:-------------|:----------------|:--------------------------------------------------------------------------------------------|
@@ -111,9 +111,9 @@ According to their expression profile all genes were divided into three groups. 
 
 ## Searching for regulatory elements in upstream sites of the gene-orthologs
 
-The next step was to search patterns in genes that got in one of three groups. From [Jaspar](https://jaspar.genereg.net/) database we took all known motif sequences specific for plants (656 motifs). 
+The next step was to search patterns in genes that got in one of three groups. From [Jaspar 2022](https://jaspar.genereg.net/) database we took all known motif sequences specific for plants (656 motifs). 
 
-[FIMO](https://meme-suite.org/meme/doc/fimo.html) tool was used to  search for these motifs in 500 bp upstream region of found orthologs.
+[FIMO v5.4.1](https://meme-suite.org/meme/doc/fimo.html) tool was used to  search for these motifs in 500 bp upstream region of found orthologs.
 Nucleotide FASTA files with 500 bp upstream sequences were grouped by their expression patterns - [`./Searching_motifs/generative_group1.fasta`](https://github.com/AnnaToi01/EC_genes_BI_Project_2022/blob/main/Searching_motifs/heatmap_new_group_1.png), [`./Searching_motifs/non-specific_group2.fasta`](https://github.com/AnnaToi01/EC_genes_BI_Project_2022/blob/main/Searching_motifs/heatmap_new_group_2.png) and [`./Searching_motifs/vegetative_group3.fasta`](https://github.com/AnnaToi01/EC_genes_BI_Project_2022/blob/main/Searching_motifs/heatmap_new_group_3.png).
   
 After that headmaps that reflects presence of different motifs in upstream sequences in each group was made.
@@ -127,7 +127,7 @@ After that headmaps that reflects presence of different motifs in upstream seque
 **VEGETATIVE**  
 ![heatmap_group3](https://github.com/AnnaToi01/EC_genes_BI_Project_2022/blob/main/Searching_motifs/heatmap_new_group_3.png)  
 
-Also we looked at motifs that are presented in more then 50% genes in each group (their description is in table below). But the highest observed frequency is 67.7% for motifs DOF3.6 and DOF5.8 in both groups.  
+We also looked at motifs that are present in more than 50% genes in groups 1 (only female reproductive organs) and groups 2 (female reproductive organs and other plant tissues). 
 
 |Motif|Group|Expressed during|Process|
 |:----|:----|:---------------|:------|
